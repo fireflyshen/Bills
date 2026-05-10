@@ -1,0 +1,387 @@
+2026-02-01 * "成都零食有鸣商业管理有限公司" "河南省南阳市宛城区建设中路店" 
+    source: "ALiPay" 
+    pay_time: "2026-02-01 00:14:43" 
+    deal_no: "2026020123001492651435933151" 
+    merchant_id: "2026020123001492651435933151" 
+    category: "日用百货" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026020123001492651435933151"
+    Expenses:Food:Snacks                              12.23 CNY
+    Liabilities:CreditCard:ICBC-8393                 -12.23 CNY
+
+
+2026-02-05 * "滴滴出行" "特惠快车打车-苏师傅-02月05日行程" 
+    source: "ALiPay" 
+    pay_time: "2026-02-05 13:27:46" 
+    deal_no: "2026020522001492651454185872" 
+    merchant_id: "2026020522001492651454185872" 
+    category: "交通出行" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026020522001492651454185872"
+    Expenses:Transport:General                         2.96 CNY
+    Liabilities:CreditCard:ICBC-8393                  -2.96 CNY
+
+
+2026-02-06 * "苏州创旭嘉网络科技有限公司" "元宝充值11.0元" 
+    source: "ALiPay" 
+    pay_time: "2026-02-06 16:51:49" 
+    deal_no: "2026020622001492651459298619" 
+    merchant_id: "2026020622001492651459298619" 
+    category: "文化休闲" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026020622001492651459298619"
+    Expenses:Tech:Subscriptions                       11.00 CNY
+    Liabilities:CreditCard:ICBC-8393                 -11.00 CNY
+
+
+2026-02-06 * "成都零食有鸣商业管理有限公司" "河南省南阳市宛城区建设中路店" 
+    source: "ALiPay" 
+    pay_time: "2026-02-06 23:49:58" 
+    deal_no: "2026020623001492651457865766" 
+    merchant_id: "2026020623001492651457865766" 
+    category: "日用百货" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026020623001492651457865766"
+    Expenses:Food:Snacks                              12.78 CNY
+    Liabilities:CreditCard:ICBC-8393                 -12.78 CNY
+
+
+2026-02-07 * "中国移动" "话费自动充值" 
+    source: "ALiPay" 
+    pay_time: "2026-02-07 01:14:47" 
+    deal_no: "2026020723001492651458310897" 
+    merchant_id: "2026020723001492651458310897" 
+    category: "充值缴费" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026020723001492651458310897"
+    Expenses:Utilities:Phone                          30.00 CNY
+    Liabilities:CreditCard:ICBC-8393                 -30.00 CNY
+
+
+2026-02-07 * "滴滴出行" "滴滴快车打车-刘师傅-02月07日行程" 
+    source: "ALiPay" 
+    pay_time: "2026-02-07 06:10:20" 
+    deal_no: "2026020722001492651458932788" 
+    merchant_id: "2026020722001492651458932788" 
+    category: "交通出行" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)&工商银行立减金" 
+    status: "交易成功" 
+    order_id: "2026020722001492651458932788"
+    Expenses:Transport:General                        13.05 CNY
+    Liabilities:CreditCard:ICBC-8393                 -13.05 CNY
+
+
+2026-02-07 * "小电" "小电充电" 
+    source: "ALiPay" 
+    pay_time: "2026-02-07 11:01:32" 
+    deal_no: "2026020723001492651401063167" 
+    merchant_id: "2026020723001492651401063167" 
+    category: "信用借还" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026020723001492651401063167"
+    Expenses:Life:Services                             3.00 CNY
+    Liabilities:CreditCard:ICBC-8393                  -3.00 CNY
+
+
+2026-02-07 * "美团充电" "美团充电宝" 
+    source: "ALiPay" 
+    pay_time: "2026-02-07 12:41:51" 
+    deal_no: "2026020722001492651402544190" 
+    merchant_id: "2026020722001492651402544190" 
+    category: "信用借还" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026020722001492651402544190"
+    Expenses:Life:Services                             4.00 CNY
+    Liabilities:CreditCard:ICBC-8393                  -4.00 CNY
+
+
+2026-02-07 * "南阳市公共交通集团有限责任公司" "公交-13路" 
+    source: "ALiPay" 
+    pay_time: "2026-02-07 14:42:31" 
+    deal_no: "2026020722001492651403703793" 
+    merchant_id: "2026020722001492651403703793" 
+    category: "交通出行" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026020722001492651403703793"
+    Expenses:Transport:General                         1.00 CNY
+    Liabilities:CreditCard:ICBC-8393                  -1.00 CNY
+
+
+2026-02-11 * "怡家24小时便利店" "怡家24小时便利店1_10021002602110048570672802710626_XJLW126021100485445474934201620" 
+    source: "ALiPay" 
+    pay_time: "2026-02-11 00:48:57" 
+    deal_no: "2026021122001492651417255386" 
+    merchant_id: "2026021122001492651417255386" 
+    category: "日用百货" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026021122001492651417255386"
+    Expenses:Food:Snacks                               3.00 CNY
+    Liabilities:CreditCard:ICBC-8393                  -3.00 CNY
+
+
+2026-02-12 * "零食很忙河南南阳宛城和城广场店" "二维码支付" 
+    source: "ALiPay" 
+    pay_time: "2026-02-12 23:18:49" 
+    deal_no: "2026021222001492651425466577" 
+    merchant_id: "2026021222001492651425466577" 
+    category: "餐饮美食" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026021222001492651425466577"
+    Expenses:Food:Snacks                              12.31 CNY
+    Liabilities:CreditCard:ICBC-8393                 -12.31 CNY
+
+
+2026-02-14 * "中国工商银行" "信用卡还款" 
+    source: "ALiPay" 
+    pay_time: "2026-02-14 17:00:07" 
+    deal_no: "2026021400003001650079743773" 
+    merchant_id: "2026021400003001650079743773" 
+    category: "信用借还" 
+    type: "不计收支" 
+    method: "余额宝" 
+    status: "还款成功" 
+    order_id: "2026021400003001650079743773"
+    Liabilities:CreditCard:ICBC-8393                 136.91 CNY
+    Assets:MMF:Alipay:YuEBao                        -136.91 CNY
+
+2026-02-14 * "中国工商银行" "信用卡还款"
+    Liabilities:CreditCard:ICBC-5788                  22.10 USD @@ 153.07 CNY
+    Assets:DebitCard:ICBC:4931                      -153.07 CNY    
+
+
+2026-02-14 * "Google" "Google One pro"
+    Expenses:Tech:Subscriptions                       22.10 USD
+    Liabilities:CreditCard:ICBC-5788                 -22.10 USD
+                   
+
+2026-02-14 * "中国工商银行" "余额宝-转出到银行卡" 
+    source: "ALiPay" 
+    pay_time: "2026-02-14 21:45:24" 
+    deal_no: "20260214019130201010650080912881" 
+    merchant_id: "20260214019130201010650080912881" 
+    category: "投资理财" 
+    type: "不计收支" 
+    method: "中国工商银行储蓄卡(4931)" 
+    status: "交易成功" 
+    order_id: "20260214019130201010650080912881"
+    Assets:DebitCard:ICBC:4931                       153.07 CNY
+    Assets:MMF:Alipay:YuEBao                        -153.07 CNY
+
+
+2026-02-15 * "成都零食有鸣商业管理有限公司" "河南省南阳市宛城区建设中路店" 
+    source: "ALiPay" 
+    pay_time: "2026-02-15 00:11:28" 
+    deal_no: "2026021522001492651430625615" 
+    merchant_id: "2026021522001492651430625615" 
+    category: "日用百货" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026021522001492651430625615"
+    Expenses:Food:Snacks                              10.90 CNY
+    Liabilities:CreditCard:ICBC-8393                 -10.90 CNY
+
+
+2026-02-17 * "怡家24小时便利店" "怡家24小时便利店1_10021002602170040400702802719572_XJLW126021700403136574934208977" 
+    source: "ALiPay" 
+    pay_time: "2026-02-17 00:40:41" 
+    deal_no: "2026021722001492651438430723" 
+    merchant_id: "2026021722001492651438430723" 
+    category: "日用百货" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026021722001492651438430723"
+    Expenses:Food:Snacks                              13.00 CNY
+    Liabilities:CreditCard:ICBC-8393                 -13.00 CNY
+
+
+2026-02-18 * "怡家24小时便利店" "怡家24小时便利店1_10021002602180027080742802712581_XJLW126021800270790274934206351" 
+    source: "ALiPay" 
+    pay_time: "2026-02-18 00:27:08" 
+    deal_no: "2026021822001492651443333051" 
+    merchant_id: "2026021822001492651443333051" 
+    category: "日用百货" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026021822001492651443333051"
+    Expenses:Food:Snacks                              11.50 CNY
+    Liabilities:CreditCard:ICBC-8393                 -11.50 CNY
+
+
+2026-02-19 * "iCloud 由云上贵州运营" "iCloud；02.19购买" 
+    source: "ALiPay" 
+    pay_time: "2026-02-19 12:06:29" 
+    deal_no: "2026021923001492651449385887" 
+    merchant_id: "2026021923001492651449385887" 
+    category: "文化休闲" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026021923001492651449385887"
+    Expenses:Tech:Subscriptions                        6.00 CNY
+    Liabilities:CreditCard:ICBC-8393                  -6.00 CNY
+
+
+2026-02-20 * "怡家24小时便利店" "怡家24小时便利店1_10021002602200011030722802714940_XJLW126022000105154574934203164" 
+    source: "ALiPay" 
+    pay_time: "2026-02-20 00:11:04" 
+    deal_no: "2026022023001492651449134956" 
+    merchant_id: "2026022023001492651449134956" 
+    category: "日用百货" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026022023001492651449134956"
+    Expenses:Food:Snacks                              14.00 CNY
+    Liabilities:CreditCard:ICBC-8393                 -14.00 CNY
+
+
+2026-02-20 * "中国移动" "话费自动充值" 
+    source: "ALiPay" 
+    pay_time: "2026-02-20 01:10:48" 
+    deal_no: "2026022022001492651451134384" 
+    merchant_id: "2026022022001492651451134384" 
+    category: "充值缴费" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026022022001492651451134384"
+    Expenses:Utilities:Phone                          30.00 CNY
+    Liabilities:CreditCard:ICBC-8393                 -30.00 CNY
+
+
+2026-02-28 * "Yuansfer Inc" "Apple Gift Card US - Pockyt GiftCard" 
+    source: "ALiPay" 
+    pay_time: "2026-02-28 21:32:54" 
+    deal_no: "2026022822001492651425553884" 
+    merchant_id: "2026022822001492651425553884" 
+    category: "其他" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026022822001492651425553884"
+    Expenses:Tech:Subscriptions                       20.70 CNY
+    Liabilities:CreditCard:ICBC-8393                 -20.70 CNY
+
+
+2026-02-28 * "Yuansfer Inc" "Apple Gift Card US - Pockyt GiftCard" 
+    source: "ALiPay" 
+    pay_time: "2026-02-28 21:38:44" 
+    deal_no: "2026022822001492651425289854" 
+    merchant_id: "2026022822001492651425289854" 
+    category: "其他" 
+    type: "支出" 
+    method: "工商银行信用卡(8393)" 
+    status: "交易成功" 
+    order_id: "2026022822001492651425289854"
+    Expenses:Tech:Subscriptions                       13.80 CNY
+    Liabilities:CreditCard:ICBC-8393                 -13.80 CNY
+
+
+2026-02-19 * "怡家24小时便利店" "怡家24小时便利店1_10021002602190024350502802711524_XJLW126021900242541774934205822" 
+    source: "WeChat" 
+    pay_time: "2026-02-19" 
+    merchant_id: "10031102602190024350562802718763" 
+    tx_type: "商户消费" 
+    method: "工商银行信用卡(8393)" 
+    status: "支付成功" 
+    order_id: "4200002992202602193296113150"
+    Expenses:Food:Snacks                               9.50 CNY
+    Liabilities:CreditCard:ICBC-8393                  -9.50 CNY
+
+
+2026-02-22 * "松果出行" "先骑后付" 
+    source: "WeChat" 
+    pay_time: "2026-02-22" 
+    merchant_id: "bVEc5R__NTCUWOCBJKWr1zxxxxqVjN6x" 
+    tx_type: "商户消费" 
+    method: "工商银行信用卡(8393)" 
+    status: "支付成功" 
+    order_id: "4200003061202602220068300736"
+    Expenses:Transport:General                         6.40 CNY
+    Liabilities:CreditCard:ICBC-8393                  -6.40 CNY
+
+
+2026-02-23 * "芋道源码" "知识星球-加入「芋道快速开发平台BootCloud」星球" 
+    source: "WeChat" 
+    pay_time: "2026-02-23" 
+    merchant_id: "144636601771784879132060" 
+    tx_type: "商户消费" 
+    method: "工商银行信用卡(8393)" 
+    status: "支付成功" 
+    order_id: "4200003029202602237357112207"
+    Expenses:Tech:Subscriptions                      199.00 CNY
+    Liabilities:CreditCard:ICBC-8393                -199.00 CNY
+
+
+2026-02-23 * "零食很忙" "零食很忙河南南阳宛城和城广场店-消费" 
+    source: "WeChat" 
+    pay_time: "2026-02-23" 
+    merchant_id: "S107R007192602230337001H391" 
+    tx_type: "商户消费" 
+    method: "工商银行信用卡(8393)" 
+    status: "支付成功" 
+    order_id: "4200002972202602233720181347"
+    Expenses:Food:Snacks                              10.44 CNY
+    Liabilities:CreditCard:ICBC-8393                 -10.44 CNY
+
+
+2026-02-24 * "甩吕商贸" "2026022417473038597" 
+    source: "WeChat" 
+    pay_time: "2026-02-24" 
+    merchant_id: "83620260224726061775" 
+    tx_type: "商户消费" 
+    method: "工商银行信用卡(8393)" 
+    status: "支付成功" 
+    order_id: "4200003091202602243141956790"
+    Expenses:Tech:Subscriptions                        9.99 CNY
+    Liabilities:CreditCard:ICBC-8393                  -9.99 CNY
+
+
+2026-02-27 * "零食有鸣" "河南省南阳市宛城区建设中路店" 
+    source: "WeChat" 
+    pay_time: "2026-02-27" 
+    merchant_id: "B41130023C260227001141" 
+    tx_type: "商户消费" 
+    method: "工商银行信用卡(8393)" 
+    status: "支付成功" 
+    order_id: "4200002971202602275710019650"
+    Expenses:Food:Snacks                              18.79 CNY
+    Liabilities:CreditCard:ICBC-8393                 -18.79 CNY
+
+
+2026-02-27 * "零食有鸣" "河南省南阳市宛城区建设中路店" 
+    source: "WeChat" 
+    pay_time: "2026-02-27" 
+    merchant_id: "B41130023C260227235807" 
+    tx_type: "商户消费" 
+    method: "工商银行信用卡(8393)" 
+    status: "支付成功" 
+    order_id: "4200002972202602271317215649"
+    Expenses:Food:Snacks                              11.65 CNY
+    Liabilities:CreditCard:ICBC-8393                 -11.65 CNY
+
+

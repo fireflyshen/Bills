@@ -1,0 +1,34 @@
+2025-11-20 * "初始化" "账户余额导入"
+    Assets:DebitCard:ICBC:4931                         0.98 CNY
+    Assets:DebitCard:CMB:9231                          0.49 CNY
+    Assets:MMF:CMB:ZhaoZhaoBao                         0.26 CNY
+    Assets:Bank:ICBC:TimeDeposit                   38486.17 CNY
+    Assets:MMF:Alipay:YuEBao                       32424.47 CNY
+    Liabilities:CreditCard:HuaBei                    -93.88 CNY
+    Liabilities:CreditCard:ICBC-8393                  -2.25 CNY
+    Liabilities:CreditCard:ICBC-5788                 -19.99 USD @ 7.11 CNY
+    Equity:Opening-Balances
+
+2025-11-22 * "机场" "月度订阅"
+    Expenses:Tech:Subscriptions                       19.79 CNY
+    Liabilities:CreditCard:HuaBei                    -19.79 CNY
+
+2025-11-26 * "南阳市万德隆商贸有限责任公司" "牛奶和老干妈"
+    Expenses:Food:Groceries                           28.90 CNY
+    Liabilities:CreditCard:HuaBei                    -28.90 CNY
+
+2025-11-26 * "拼多多" "保健品囤货：氨糖, 蛋白粉, 镁, 维他命"
+    Expenses:Health:Supplements                      174.40 CNY
+    Liabilities:CreditCard:HuaBei                   -174.40 CNY
+
+2025-11-26 * "HuaBei" "蛋白粉退款"
+    Liabilities:CreditCard:HuaBei                     29.90 CNY
+    Expenses:Health:Supplements                      -29.90 CNY
+
+2025-11-28 * "南阳市万德隆商贸有限责任公司" "牛奶"  
+    Expenses:Food:Groceries                           15.80 CNY
+    Liabilities:CreditCard:HuaBei                    -15.80 CNY
+
+2025-11-28 * "YoYo理发" "理发" 
+    Expenses:Personal:Grooming                        30.00 CNY
+    Liabilities:CreditCard:HuaBei                    -30.00 CNY

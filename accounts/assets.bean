@@ -1,0 +1,13 @@
+; 资产
+2025-11-19 open Assets:DebitCard:ICBC:4931                CNY
+2025-11-19 open Assets:DebitCard:CMB:9231                 CNY
+
+2025-11-19 open Assets:MMF:Alipay:YuEBao                  CNY
+
+2025-11-19 open Assets:Bank:ICBC:TimeDeposit              CNY
+2025-11-19 open Assets:MMF:CMB:ZhaoZhaoBao                CNY
+2026-01-03 open Assets:Receivables:SongJie                CNY
+
+2026-03-27 open Assets:Cash:AliPay:YuE                    CNY
+2026-03-27 open Assets:Cash:WeChat:Balance                CNY
+2026-03-27 open Assets:DebitCard:CNCB:4668                CNY

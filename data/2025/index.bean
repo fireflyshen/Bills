@@ -1,0 +1,3 @@
+include "2025-11.bean"
+include "2025-12.bean"
+include "income.bean"

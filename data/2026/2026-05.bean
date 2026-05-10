@@ -1,0 +1,103 @@
+2026-05-01 * "Google" "Google Cloud"
+    Expenses:Tech:Subscriptions                        0.52 USD
+    Liabilities:CreditCard:ICBC-5788                  -0.52 USD
+    
+
+2026-05-02 * "中国移动" "话费自动充值"
+    source: "ALiPay"
+    pay_time: "2026-05-02 01:34:14"
+    deal_no: "2026050222001492651454196470"
+    order_id: "2026050222001492651454196470"
+    merchant_id: "00952026050201341449138938299704"
+    category: "充值缴费"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Utilities:Phone                             30.00 CNY
+    Liabilities:CreditCard:ICBC-8393                    -30.00 CNY
+
+
+2026-05-01 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
+    source: "WeChat"
+    pay_time: "2026-05-01"
+    merchant_id: "20260501MMaofrbo"
+    tx_type: "商户消费"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    order_id: "4200003117202605017255947341"
+    Expenses:Food:Snacks                                 15.20 CNY
+    Liabilities:CreditCard:ICBC-8393                    -15.20 CNY
+
+
+2026-05-03 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-05-03 18:20:18"
+    deal_no: "2026050322001492651402737302"
+    order_id: "2026050322001492651402737302"
+    merchant_id: "13106600004857000220260503MMdcakkt"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)&红包"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 18.72 CNY
+    Liabilities:CreditCard:ICBC-8393                    -18.72 CNY
+
+
+2026-05-03 * "零食有鸣（河南省南阳市宛城区建设中路店）" "河南省南阳市宛城区建设中路店零售商品"
+    source: "ALiPay"
+    pay_time: "2026-05-03 00:18:01"
+    deal_no: "2026050322001492651459280795"
+    order_id: "2026050322001492651459280795"
+    merchant_id: "34126600004802000020260503001801408848372379"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)&红包"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 17.89 CNY
+    Liabilities:CreditCard:ICBC-8393                    -17.89 CNY
+
+
+
+
+2026-05-05 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-05-05 21:51:43"
+    deal_no: "2026050523001492651413170559"
+    order_id: "2026050523001492651413170559"
+    merchant_id: "68106600004857000220260505MMgmloqk"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 17.41 CNY
+    Liabilities:CreditCard:ICBC-8393                    -17.41 CNY
+
+
+2026-05-07 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-05-07 19:37:19"
+    deal_no: "2026050723001492651425990586"
+    order_id: "2026050723001492651425990586"
+    merchant_id: "99106600004857000220260507MM72c5ds"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 13.31 CNY
+    Liabilities:CreditCard:ICBC-8393                    -13.31 CNY
+
+
+2026-05-08 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-05-08 21:12:32"
+    deal_no: "2026050823001492651439309314"
+    order_id: "2026050823001492651439309314"
+    merchant_id: "66106600004857000220260508MM8jc7ff"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 12.84 CNY
+    Liabilities:CreditCard:ICBC-8393                    -12.84 CNY
+
+

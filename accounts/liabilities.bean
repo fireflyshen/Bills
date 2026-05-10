@@ -1,0 +1,7 @@
+; 负债
+2025-11-20 open Liabilities:CreditCard:HuaBei             CNY
+2025-11-20 open Liabilities:CreditCard:ICBC-8393          CNY
+2025-11-20 open Liabilities:CreditCard:ICBC-5788          USD
+2026-03-27 open Liabilities:CreditCard:CNCB-9177          CNY
+; 关闭账户
+2026-02-01 close Liabilities:CreditCard:HuaBei

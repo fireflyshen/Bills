@@ -1,0 +1,17 @@
+option "title" "My Accounts"
+option "render_commas" "TRUE"
+; option "inferred_tolerance_default" "*:0.005"
+
+option "operating_currency" "CNY"
+option "operating_currency" "USD"
+
+2025-11-20 commodity CNY
+  precision: 2
+
+2025-11-20 commodity USD
+  precision: 2
+
+include "./accounts/index.bean"
+include "./data/index.bean"
+include "./budgets/index.bean"
+include "./assertion/index.bean"

@@ -1,0 +1,16 @@
+; 支出
+2025-11-20 open Expenses:Tech:Software ; 软件购买
+2025-11-22 open Expenses:Tech:Subscriptions ; 技术订阅
+2025-11-26 open Expenses:Health:Supplements ; 保健品
+2025-11-26 open Expenses:Food:Groceries ; 杂货
+2025-12-09 open Expenses:Food:ThreeMeals ; 三餐
+2025-11-26 open Expenses:Personal:Grooming ; 个人仪容
+2025-12-06 open Expenses:Household:General ; 通用
+2025-12-01 open Expenses:Entertainment:Subscriptions ; 娱乐订阅
+2025-12-01 open Expenses:Utilities:Phone ; 个人:通讯:话费
+2025-12-01 open Expenses:Food:Snacks ; 零食/饮料/下午茶
+2025-12-01 open Expenses:Transport:General ; 综合交通费
+2026-01-08 open Expenses:Electronics:Accessories ; 电子配件
+2026-04-19 open Expenses:Life:Logistics ; 快递邮寄/物流费用
+2026-02-06 open Expenses:Life:Services
+2026-03-27 open Expenses:Financial:Fees 
