@@ -111,3 +111,159 @@
     Liabilities:CreditCard:ICBC-8393                    -12.84 CNY
 
 
+2026-05-10 * "零食有鸣（河南省南阳市宛城区建设中路店）" "河南省南阳市宛城区建设中路店零售商品"
+    source: "ALiPay"
+    pay_time: "2026-05-10 19:03:12"
+    deal_no: "2026051023001492651452827796"
+    order_id: "2026051023001492651452827796"
+    merchant_id: "83126600004802000020260510190312408940701496"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 27.67 CNY
+    Liabilities:CreditCard:ICBC-8393                    -27.67 CNY
+
+
+2026-05-11 * "安徽佑隆建筑劳务有限公司" "订单-1778505249"
+    source: "ALiPay"
+    pay_time: "2026-05-11 21:14:13"
+    deal_no: "2026051122001492651459056239"
+    order_id: "2026051122001492651459056239"
+    merchant_id: "CH_20260511211406_1028_13465"
+    category: "投资理财"
+    type: "不计收支"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:FIXME                                       14.30 CNY
+    Liabilities:CreditCard:ICBC-8393                    -14.30 CNY
+
+
+2026-05-12 * "零食有鸣（河南省南阳市宛城区建设中路店）" "河南省南阳市宛城区建设中路店零售商品"
+    source: "ALiPay"
+    pay_time: "2026-05-12 20:52:53"
+    deal_no: "2026051222001492651409612163"
+    order_id: "2026051222001492651409612163"
+    merchant_id: "72126600004802000020260512205253408963485250"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 21.40 CNY
+    Liabilities:CreditCard:ICBC-8393                    -21.40 CNY
+
+
+2026-05-14 * "中国工商银行" "信用卡还款"
+    source: "ALiPay"
+    pay_time: "2026-05-14 23:55:52"
+    deal_no: "2026051400003001650089039747"
+    order_id: "2026051400003001650089039747"
+    category: "信用借还"
+    type: "不计收支"
+    method: "余额宝"
+    status: "还款成功"
+    Liabilities:CreditCard:ICBC-8393                    794.23 CNY
+    Assets:MMF:Alipay:YuEBao                           -794.23 CNY
+
+
+2026-05-14 * "阿里云" "云服务器ECS(包月)"
+    source: "ALiPay"
+    pay_time: "2026-05-14 23:55:16"
+    deal_no: "2026051422001492651426670499"
+    order_id: "2026051422001492651426670499"
+    merchant_id: "HJPGP14300004710379"
+    category: "数码电器"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Tech:Subscriptions                          99.00 CNY
+    Liabilities:CreditCard:ICBC-8393                    -99.00 CNY
+
+
+2026-05-14 * "阿里云" "充值:阿里云服务购买，业务交易号:CFP202605142350454386"
+    source: "ALiPay"
+    pay_time: "2026-05-14 23:51:22"
+    deal_no: "2026051422001492651427356143"
+    order_id: "2026051422001492651427356143"
+    merchant_id: "HJPGP14299603950379"
+    category: "其他"
+    type: "支出"
+    method: "余额宝"
+    status: "交易成功"
+    Expenses:Tech:Subscriptions                           1.00 CNY
+    Assets:MMF:Alipay:YuEBao                             -1.00 CNY
+
+
+2026-05-15 * "中国工商银行" "余额宝-转出到银行卡"
+    source: "ALiPay"
+    pay_time: "2026-05-15 00:03:46"
+    deal_no: "20260515019130201010650021440232"
+    order_id: "20260515019130201010650021440232"
+    merchant_id: "LC2026051500034620885229093926521355"
+    category: "投资理财"
+    type: "不计收支"
+    method: "中国工商银行储蓄卡(4931)"
+    status: "交易成功"
+    Assets:DebitCard:ICBC:4931                          153.89 CNY
+    Assets:MMF:Alipay:YuEBao                           -153.89 CNY
+
+
+2026-05-15 * "中国移动" "话费自动充值"
+    source: "ALiPay"
+    pay_time: "2026-05-15 04:01:26"
+    deal_no: "2026051522001492651425913851"
+    order_id: "2026051522001492651425913851"
+    merchant_id: "00952026051504012572928975299704"
+    category: "充值缴费"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易关闭"
+    Expenses:Utilities:Phone                             30.00 CNY
+    Liabilities:CreditCard:ICBC-8393                    -30.00 CNY
+
+
+2026-05-15 * "中国移动" "退款-话费自动充值"
+    source: "ALiPay"
+    pay_time: "2026-05-15 04:02:31"
+    deal_no: "2026051522001492651425913851_0260515040125729289752997041342"
+    order_id: "2026051522001492651425913851_0260515040125729289752997041342"
+    merchant_id: "00952026051504012572928975299704"
+    category: "退款"
+    type: "不计收支"
+    method: "工商银行信用卡(8393)"
+    status: "退款成功"
+    Assets:FIXME                                         30.00 CNY
+    Expenses:Utilities:Phone                            -30.00 CNY
+
+
+2026-05-16 * "中国移动" "话费自动充值"
+    source: "ALiPay"
+    pay_time: "2026-05-16 21:03:51"
+    deal_no: "2026051623001492651438374953"
+    order_id: "2026051623001492651438374953"
+    merchant_id: "00952026051621033328403054299704"
+    category: "充值缴费"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Utilities:Phone                             30.00 CNY
+    Liabilities:CreditCard:ICBC-8393                    -30.00 CNY
+
+
+2026-05-17 * "Google" "Google One Pro"
+    Expenses:Tech:Subscriptions                          22.10 USD
+    Liabilities:CreditCard:ICBC-5788                    -22.10 USD
+
+
+2026-05-14 * "Ma妈～" "转账备注:微信转账"
+    source: "WeChat"
+    pay_time: "2026-05-14"
+    merchant_id: "/"
+    tx_type: "转账"
+    method: "/"
+    status: "已存入零钱"
+    order_id: "1000050001202605140037132231417"
+    Assets:Cash:WeChat:Balance                          100.00 CNY
+    Income:Family                                      -100.00 CNY
+
+
