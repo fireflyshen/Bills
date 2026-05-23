@@ -314,6 +314,10 @@
     Income:Salary                                     -3540.00 CNY
 
 
+2026-05-22 * "妈" "物业费"
+    Expenses:Social:Family                             3000.00 CNY
+    Assets:DebitCard:CNCB:4668                        -3000.00 CNY
+
 2026-05-23 * "南阳市卧龙区雨飞美容美发店（个体工商户）" "南阳市卧龙区雨飞美容美发店（个体工商户）"
     source: "WeChat"
     pay_time: "2026-05-23"
@@ -326,7 +330,7 @@
     Assets:Cash:WeChat:Balance                          -30.00 CNY
 
 
-2026-05-23 * "辰星＆心语" "转账备注:微信转账"
+2026-05-23 * "妈" "转账备注:微信转账"
     source: "WeChat"
     pay_time: "2026-05-23"
     merchant_id: "1000050001202605230638944269080"
