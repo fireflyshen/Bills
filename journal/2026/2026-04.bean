@@ -438,8 +438,9 @@
     Liabilities:CreditCard:ICBC-8393                     -3.33 CNY
 
 2026-04-28 * "工资" "工资"
-    Liabilities:CreditCard:CNCB-9177                     50.00 CNY
-    Assets:DebitCard:CNCB:4668                          -50.00 CNY
+    Assets:DebitCard:CNCB:4668                         1623.00 CNY
+    Income:Salary                                     -1623.00 CNY
+
 
 2026-04-30 * "杭州恒座网络科技有限公司" "元宝充值135.1元"
     source: "ALiPay"
