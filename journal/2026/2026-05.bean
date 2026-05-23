@@ -272,3 +272,65 @@
     Income:Family                                   -100.00 CNY
 
 
+2026-05-19 * "iCloud 由云上贵州运营" "iCloud；05.19购买"
+    source: "ALiPay"
+    pay_time: "2026-05-19 11:05:49"
+    deal_no: "2026051922001492651457362455"
+    order_id: "2026051922001492651457362455"
+    merchant_id: "MQVQWH0S67a0"
+    category: "文化休闲"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Tech:Subscriptions                           6.00 CNY
+    Liabilities:CreditCard:ICBC-8393                     -6.00 CNY
+
+
+2026-05-18 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
+    source: "WeChat"
+    pay_time: "2026-05-18"
+    merchant_id: "20260518MMafl5kl"
+    tx_type: "商户消费"
+    method: "零钱"
+    status: "支付成功"
+    order_id: "4200003110202605185271535889"
+    Income:FIXME                                         14.89 CNY
+    Assets:Alipay                                       -14.89 CNY
+
+
+2026-05-22 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
+    source: "WeChat"
+    pay_time: "2026-05-22"
+    merchant_id: "20260522MMfogirf"
+    tx_type: "商户消费"
+    method: "零钱"
+    status: "支付成功"
+    order_id: "4200003040202605223928779729"
+    Income:FIXME                                         11.00 CNY
+    Assets:Alipay                                       -11.00 CNY
+
+
+2026-05-23 * "南阳市卧龙区雨飞美容美发店（个体工商户）" "南阳市卧龙区雨飞美容美发店（个体工商户）"
+    source: "WeChat"
+    pay_time: "2026-05-23"
+    merchant_id: "471169228005470214553694"
+    tx_type: "商户消费"
+    method: "零钱"
+    status: "支付成功"
+    order_id: "4500000118202605234341789167"
+    Income:FIXME                                         30.00 CNY
+    Assets:Alipay                                       -30.00 CNY
+
+
+2026-05-23 * "辰星＆心语" "转账备注:微信转账"
+    source: "WeChat"
+    pay_time: "2026-05-23"
+    merchant_id: "1000050001202605230638944269080"
+    tx_type: "转账"
+    method: "零钱"
+    status: "对方已收钱"
+    order_id: "53010002848074202605231906038613"
+    Expenses:Tech:Subscriptions                          44.92 CNY
+    Assets:Alipay                                       -44.92 CNY
+
+
