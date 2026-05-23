@@ -271,7 +271,6 @@
     Assets:Cash:WeChat:Balance                       100.00 CNY
     Income:Family                                   -100.00 CNY
 
-
 2026-05-19 * "iCloud 由云上贵州运营" "iCloud；05.19购买"
     source: "ALiPay"
     pay_time: "2026-05-19 11:05:49"
@@ -294,8 +293,8 @@
     method: "零钱"
     status: "支付成功"
     order_id: "4200003110202605185271535889"
-    Income:FIXME                                         14.89 CNY
-    Assets:Alipay                                       -14.89 CNY
+    Expenses:Food:Snacks                                 14.89 CNY
+    Assets:Cash:WeChat:Balance                          -14.89 CNY
 
 
 2026-05-22 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
@@ -306,8 +305,8 @@
     method: "零钱"
     status: "支付成功"
     order_id: "4200003040202605223928779729"
-    Income:FIXME                                         11.00 CNY
-    Assets:Alipay                                       -11.00 CNY
+    Expenses:Food:Snacks                                 11.00 CNY
+    Assets:Cash:WeChat:Balance                          -11.00 CNY
 
 
 2026-05-23 * "南阳市卧龙区雨飞美容美发店（个体工商户）" "南阳市卧龙区雨飞美容美发店（个体工商户）"
@@ -318,8 +317,8 @@
     method: "零钱"
     status: "支付成功"
     order_id: "4500000118202605234341789167"
-    Income:FIXME                                         30.00 CNY
-    Assets:Alipay                                       -30.00 CNY
+    Expenses:Personal:Grooming                           30.00 CNY
+    Assets:Cash:WeChat:Balance                          -30.00 CNY
 
 
 2026-05-23 * "辰星＆心语" "转账备注:微信转账"
@@ -330,7 +329,7 @@
     method: "零钱"
     status: "对方已收钱"
     order_id: "53010002848074202605231906038613"
-    Expenses:Tech:Subscriptions                          44.92 CNY
-    Assets:Alipay                                       -44.92 CNY
+    Expenses:Social:Family                               44.92 CNY
+    Assets:Cash:WeChat:Balance                          -44.92 CNY
 
 
