@@ -124,6 +124,9 @@
     Expenses:Food:Snacks                              27.67 CNY
     Liabilities:CreditCard:ICBC-8393                 -27.67 CNY
 
+2026-05-11 * "咸鱼" "JetBrains AI Pro"
+    Expenses:Tech:Subscriptions                       49.00 CNY
+    Assets:MMF:Alipay:YuEBao                         -49.00 CNY
 
 2026-05-11 * "安徽佑隆建筑劳务有限公司" "订单-1778505249"
     source: "ALiPay"
