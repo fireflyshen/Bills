@@ -479,3 +479,73 @@
     order_id: "4200003043202605255206337915"
     Expenses:Food:Snacks                                 13.24 CNY
     Liabilities:CreditCard:ICBC-8393                    -13.24 CNY
+2026-05-31 * "余额宝" "余额宝-单次转入"
+    source: "ALiPay"
+    pay_time: "2026-05-31 16:23:30"
+    deal_no: "20260531019130100010650027622811"
+    order_id: "20260531019130100010650027622811"
+    merchant_id: "LC2026053116233020885229093926528276"
+    category: "投资理财"
+    type: "不计收支"
+    method: "工商银行储蓄卡(4931)"
+    status: "交易成功"
+    Assets:MMF:Alipay:YuEBao                              4.29 CNY
+    Assets:DebitCard:ICBC:4931                           -4.29 CNY
+
+
+2026-05-31 * "南阳市仲景路三色鸽六十三店" "南阳市仲景路三色鸽六十三店"
+    source: "ALiPay"
+    pay_time: "2026-05-31 12:43:15"
+    deal_no: "2026053123001492651428814764"
+    order_id: "2026053123001492651428814764"
+    merchant_id: "731266000048210001260531110703316805"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)&工商银行立减金"
+    status: "交易成功"
+    Expenses:Food:Groceries                               9.64 CNY
+    Liabilities:CreditCard:ICBC-8393                     -9.64 CNY
+
+
+2026-05-31 * "国网河南省电力公司（南阳）" "电费"
+    source: "ALiPay"
+    pay_time: "2026-05-31 18:38:39"
+    deal_no: "2026053100003001650090337862"
+    order_id: "2026053100003001650090337862"
+    merchant_id: "4105268125058"
+    category: "充值缴费"
+    type: "支出"
+    method: "工商银行信用卡(8393)&工商银行立减金&现金抵价券"
+    status: "交易成功"
+    Expenses:FIXME                                      118.15 CNY
+    Liabilities:CreditCard:ICBC-8393                   -118.15 CNY
+
+
+2026-05-31 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-05-31 19:58:43"
+    deal_no: "2026053123001492651428803489"
+    order_id: "2026053123001492651428803489"
+    merchant_id: "96106600004857000220260531MMh0q869"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)&工商银行立减金&到店支付立减券"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 12.31 CNY
+    Liabilities:CreditCard:ICBC-8393                    -12.31 CNY
+
+
+2026-05-31 * "面条" "收钱码收款"
+    source: "ALiPay"
+    pay_time: "2026-05-31 12:40:31"
+    deal_no: "2026053122001492651432658462"
+    order_id: "2026053122001492651432658462"
+    merchant_id: "17802024308522909392652"
+    category: "餐饮美食"
+    type: "支出"
+    method: "余额宝"
+    status: "交易成功"
+    Expenses:Food:Groceries                               3.00 CNY
+    Assets:MMF:Alipay:YuEBao                             -3.00 CNY
+
+
