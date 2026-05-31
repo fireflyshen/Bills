@@ -318,7 +318,7 @@
 
 
 2026-05-22 * "妈" "物业费"
-    Expenses:Social:Family                          3000.00 CNY
+    Expenses:Social:Family:PropertyManagement       3000.00 CNY
     Assets:DebitCard:CNCB:4668                     -3000.00 CNY
 
 2026-05-23 * "南阳市卧龙区雨飞美容美发店（个体工商户）" "南阳市卧龙区雨飞美容美发店（个体工商户）"
@@ -341,7 +341,7 @@
     method: "零钱"
     status: "对方已收钱"
     order_id: "53010002848074202605231906038613"
-    Expenses:Social:Family                            44.92 CNY
+    Expenses:Social:Family:Transfer                   44.92 CNY
     Assets:Cash:WeChat:Balance                       -44.92 CNY
 
 
@@ -355,8 +355,8 @@
     type: "不计收支"
     method: "中信银行储蓄卡(4668)"
     status: "交易成功"
-    Assets:MMF:Alipay:YuEBao                                  2163.00 CNY
-    Assets:DebitCard:CNCB:4668                        -2163.00 CNY
+    Assets:MMF:Alipay:YuEBao                        2163.00 CNY
+    Assets:DebitCard:CNCB:4668                     -2163.00 CNY
 
 
 2026-05-26 * "拼多多平台商户" "咖啡"
@@ -369,8 +369,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&支付宝立减"
     status: "交易成功"
-    Expenses:Food:Groceries                              29.72 CNY
-    Liabilities:CreditCard:ICBC-8393                    -29.72 CNY
+    Expenses:Food:Groceries                           29.72 CNY
+    Liabilities:CreditCard:ICBC-8393                 -29.72 CNY
 
 
 2026-05-26 * "拼多多平台商户" "电池"
@@ -383,8 +383,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Electronics:Accessories                     13.50 CNY
-    Liabilities:CreditCard:ICBC-8393                    -13.50 CNY
+    Expenses:Electronics:Accessories                  13.50 CNY
+    Liabilities:CreditCard:ICBC-8393                 -13.50 CNY
 
 
 2026-05-26 * "拼多多平台商户" "电池"
@@ -397,8 +397,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Electronics:Accessories                     13.50 CNY
-    Liabilities:CreditCard:ICBC-8393                    -13.50 CNY
+    Expenses:Electronics:Accessories                  13.50 CNY
+    Liabilities:CreditCard:ICBC-8393                 -13.50 CNY
 
 
 2026-05-28 * "中国移动" "话费自动充值"
@@ -411,8 +411,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
-    Expenses:Utilities:Phone                             29.87 CNY
-    Liabilities:CreditCard:ICBC-8393                    -29.87 CNY
+    Expenses:Utilities:Phone                          29.87 CNY
+    Liabilities:CreditCard:ICBC-8393                 -29.87 CNY
 
 
 2026-05-31 * "南阳市仲景路三色鸽六十三店" "南阳市仲景路三色鸽六十三店"
@@ -425,8 +425,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
-    Expenses:Food:Groceries                               9.64 CNY
-    Liabilities:CreditCard:ICBC-8393                     -9.64 CNY
+    Expenses:Food:Groceries                            9.64 CNY
+    Liabilities:CreditCard:ICBC-8393                  -9.64 CNY
 
 
 2026-05-31 * "面条" "收钱码收款"
@@ -439,46 +439,19 @@
     type: "支出"
     method: "余额宝"
     status: "交易成功"
-    Expenses:Food:Groceries                               3.00 CNY
-    Assets:MMF:Alipay:YuEBao                             -3.00 CNY
+    Expenses:Food:Groceries                            3.00 CNY
+    Assets:MMF:Alipay:YuEBao                          -3.00 CNY
 
 2026-05-31 * "招商银行" "朝朝宝转账"
-    Assets:DebitCard:CMB:9231                             0.26 CNY
-    Assets:MMF:CMB:ZhaoZhaoBao                           -0.26 CNY
+    Assets:DebitCard:CMB:9231                          0.26 CNY
+    Assets:MMF:CMB:ZhaoZhaoBao                        -0.26 CNY
 
 
 2026-05-31 * "工商银行" "招商银行转账"
-    Assets:DebitCard:ICBC:4931                            0.75 CNY
-    Assets:DebitCard:CMB:9231                            -0.75 CNY
+    Assets:DebitCard:ICBC:4931                         0.75 CNY
+    Assets:DebitCard:CMB:9231                         -0.75 CNY
 
 
-2026-05-31 * "余额宝" "工商银行转账"
-    Assets:MMF:Alipay:YuEBao                              4.29 CNY
-    Assets:DebitCard:ICBC:4931                           -4.29 CNY
-
-
-2026-05-24 * "零食有鸣" "河南省南阳市宛城区建设中路店零售商品"
-    source: "WeChat"
-    pay_time: "2026-05-24"
-    merchant_id: "20260524201330409102612343"
-    tx_type: "商户消费"
-    method: "工商银行信用卡(8393)"
-    status: "支付成功"
-    order_id: "4200003109202605247242775093"
-    Expenses:Food:Snacks                                 28.70 CNY
-    Liabilities:CreditCard:ICBC-8393                    -28.70 CNY
-
-
-2026-05-25 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
-    source: "WeChat"
-    pay_time: "2026-05-25"
-    merchant_id: "20260525MM85ngos"
-    tx_type: "商户消费"
-    method: "工商银行信用卡(8393)"
-    status: "支付成功"
-    order_id: "4200003043202605255206337915"
-    Expenses:Food:Snacks                                 13.24 CNY
-    Liabilities:CreditCard:ICBC-8393                    -13.24 CNY
 2026-05-31 * "余额宝" "余额宝-单次转入"
     source: "ALiPay"
     pay_time: "2026-05-31 16:23:30"
@@ -489,22 +462,32 @@
     type: "不计收支"
     method: "工商银行储蓄卡(4931)"
     status: "交易成功"
-    Assets:MMF:Alipay:YuEBao                              4.29 CNY
-    Assets:DebitCard:ICBC:4931                           -4.29 CNY
+    Assets:MMF:Alipay:YuEBao                           4.29 CNY
+    Assets:DebitCard:ICBC:4931                        -4.29 CNY
 
 
-2026-05-31 * "南阳市仲景路三色鸽六十三店" "南阳市仲景路三色鸽六十三店"
-    source: "ALiPay"
-    pay_time: "2026-05-31 12:43:15"
-    deal_no: "2026053123001492651428814764"
-    order_id: "2026053123001492651428814764"
-    merchant_id: "731266000048210001260531110703316805"
-    category: "餐饮美食"
-    type: "支出"
-    method: "工商银行信用卡(8393)&工商银行立减金"
-    status: "交易成功"
-    Expenses:Food:Groceries                               9.64 CNY
-    Liabilities:CreditCard:ICBC-8393                     -9.64 CNY
+2026-05-24 * "零食有鸣" "河南省南阳市宛城区建设中路店零售商品"
+    source: "WeChat"
+    pay_time: "2026-05-24"
+    merchant_id: "20260524201330409102612343"
+    tx_type: "商户消费"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    order_id: "4200003109202605247242775093"
+    Expenses:Food:Snacks                              28.70 CNY
+    Liabilities:CreditCard:ICBC-8393                 -28.70 CNY
+
+
+2026-05-25 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
+    source: "WeChat"
+    pay_time: "2026-05-25"
+    merchant_id: "20260525MM85ngos"
+    tx_type: "商户消费"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    order_id: "4200003043202605255206337915"
+    Expenses:Food:Snacks                              13.24 CNY
+    Liabilities:CreditCard:ICBC-8393                 -13.24 CNY
 
 
 2026-05-31 * "国网河南省电力公司（南阳）" "电费"
@@ -517,8 +500,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金&现金抵价券"
     status: "交易成功"
-    Expenses:FIXME                                      118.15 CNY
-    Liabilities:CreditCard:ICBC-8393                   -118.15 CNY
+    Expenses:Social:Family:Electricity               118.15 CNY
+    Liabilities:CreditCard:ICBC-8393                -118.15 CNY
 
 
 2026-05-31 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
@@ -531,21 +514,5 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金&到店支付立减券"
     status: "交易成功"
-    Expenses:Food:Snacks                                 12.31 CNY
-    Liabilities:CreditCard:ICBC-8393                    -12.31 CNY
-
-
-2026-05-31 * "面条" "收钱码收款"
-    source: "ALiPay"
-    pay_time: "2026-05-31 12:40:31"
-    deal_no: "2026053122001492651432658462"
-    order_id: "2026053122001492651432658462"
-    merchant_id: "17802024308522909392652"
-    category: "餐饮美食"
-    type: "支出"
-    method: "余额宝"
-    status: "交易成功"
-    Expenses:Food:Groceries                               3.00 CNY
-    Assets:MMF:Alipay:YuEBao                             -3.00 CNY
-
-
+    Expenses:Food:Snacks                              12.31 CNY
+    Liabilities:CreditCard:ICBC-8393                 -12.31 CNY
