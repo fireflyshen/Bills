@@ -1,11 +1,11 @@
-account.caten.top {
+http://account.caten.top {
     reverse_proxy fava:5000
 }
 
-flow.caten.top {
+http://flow.caten.top {
     reverse_proxy n8n:5678
 }
 
-task.caten.top {
+http://task.caten.top {
    reverse_proxy host.docker.internal:52127
 }
