@@ -448,8 +448,8 @@
 
 
 2026-05-31 * "工商银行" "招商银行转账"
-    Assets:DebitCard:ICBC:4931                            4.29 CNY
-    Assets:DebitCard:CMB:9231                            -4.29 CNY
+    Assets:DebitCard:ICBC:4931                            0.75 CNY
+    Assets:DebitCard:CMB:9231                            -0.75 CNY
 
 
 2026-05-31 * "余额宝" "工商银行转账"
