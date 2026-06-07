@@ -1,6 +1,8 @@
 option "title" "My Accounts"
 plugin "beancount.plugins.auto_accounts"
 option "render_commas" "TRUE"
+
+2010-01-01 custom "fava-extension" "plugins.fava_auto_subs"
 ; option "inferred_tolerance_default" "*:0.005"
 
 option "operating_currency" "CNY"
