@@ -36,7 +36,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026020622001492651459298619"
-    Expenses:Tech:Subscriptions                       11.00 CNY
+    Expenses:Tech:Subscriptions:Proxy                       11.00 CNY
     Liabilities:CreditCard:ICBC-8393                 -11.00 CNY
 
 
@@ -171,7 +171,7 @@
 
 
 2026-02-14 * "Google" "Google One pro"
-    Expenses:Tech:Subscriptions                       22.10 USD
+    Expenses:Tech:Subscriptions:GoogleAI                       22.10 USD
     Liabilities:CreditCard:ICBC-5788                 -22.10 USD
 
 
@@ -241,7 +241,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026021923001492651449385887"
-    Expenses:Tech:Subscriptions                        6.00 CNY
+    Expenses:Tech:Subscriptions:ICloud                        6.00 CNY
     Liabilities:CreditCard:ICBC-8393                  -6.00 CNY
 
 
@@ -283,7 +283,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026022822001492651425553884"
-    Expenses:Tech:Subscriptions                       20.70 CNY
+    Expenses:Tech:Subscriptions:Other                       20.70 CNY
     Liabilities:CreditCard:ICBC-8393                 -20.70 CNY
 
 
@@ -297,7 +297,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026022822001492651425289854"
-    Expenses:Tech:Subscriptions                       13.80 CNY
+    Expenses:Tech:Subscriptions:Other                       13.80 CNY
     Liabilities:CreditCard:ICBC-8393                 -13.80 CNY
 
 
@@ -333,7 +333,7 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003029202602237357112207"
-    Expenses:Tech:Subscriptions                      199.00 CNY
+    Expenses:Tech:Subscriptions:Study                      199.00 CNY
     Liabilities:CreditCard:ICBC-8393                -199.00 CNY
 
 
@@ -357,7 +357,7 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003091202602243141956790"
-    Expenses:Tech:Subscriptions                        9.99 CNY
+    Expenses:Tech:Subscriptions:Proxy                        9.99 CNY
     Liabilities:CreditCard:ICBC-8393                  -9.99 CNY
 
 

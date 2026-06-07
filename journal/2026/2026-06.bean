@@ -12,7 +12,7 @@
     Liabilities:CreditCard:ICBC-8393                -135.07 CNY
 
 2026-06-01 * "Google" "Google Cloud"
-    Expenses:Tech:Subscriptions                        0.60 USD
+    Expenses:Tech:Subscriptions:GoogleCloud                        0.60 USD
     Liabilities:CreditCard:ICBC-5788                  -0.60 USD
 
 2026-06-05 * "中国工商银行" "余额宝-转出到银行卡"
@@ -82,5 +82,5 @@
 
 
 2026-06-05 * "OpenAI" "ChatGPT CodeX"
-    Expenses:Tech:Subscriptions                       19.99 USD
+    Expenses:Tech:Subscriptions:OpenAI                       19.99 USD
     Assets:Digital:AppleID                           -19.99 USD
