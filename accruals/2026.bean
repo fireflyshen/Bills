@@ -5,73 +5,123 @@
 2026-01-01 * "预提费用" "每月计提本年度物业费与保险费"
     Expenses:Social:Family:PropertyManagement       125.00 CNY
     Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom                         500.00 CNY
-    Liabilities:Reserves:Insurance:Mom                 -500.00 CNY
+    Expenses:Social:Family:Insurance:Mom            500.00 CNY
+    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
 
 2026-02-01 * "预提费用" "每月计提本年度物业费与保险费"
     Expenses:Social:Family:PropertyManagement       125.00 CNY
     Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom                         500.00 CNY
-    Liabilities:Reserves:Insurance:Mom                 -500.00 CNY
+    Expenses:Social:Family:Insurance:Mom            500.00 CNY
+    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
 
 2026-03-01 * "预提费用" "每月计提本年度物业费与保险费"
     Expenses:Social:Family:PropertyManagement       125.00 CNY
     Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom                         500.00 CNY
-    Liabilities:Reserves:Insurance:Mom                 -500.00 CNY
+    Expenses:Social:Family:Insurance:Mom            500.00 CNY
+    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
 
 2026-04-01 * "预提费用" "每月计提本年度物业费与保险费"
     Expenses:Social:Family:PropertyManagement       125.00 CNY
     Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom                         500.00 CNY
-    Liabilities:Reserves:Insurance:Mom                 -500.00 CNY
+    Expenses:Social:Family:Insurance:Mom            500.00 CNY
+    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
 
 2026-05-01 * "预提费用" "每月计提本年度物业费与保险费"
     Expenses:Social:Family:PropertyManagement       125.00 CNY
     Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom                         500.00 CNY
-    Liabilities:Reserves:Insurance:Mom                 -500.00 CNY
+    Expenses:Social:Family:Insurance:Mom            500.00 CNY
+    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
 
 2026-06-01 * "预提费用" "每月计提本年度物业费与保险费"
     Expenses:Social:Family:PropertyManagement       125.00 CNY
     Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom                         500.00 CNY
-    Liabilities:Reserves:Insurance:Mom                 -500.00 CNY
+    Expenses:Social:Family:Insurance:Mom            500.00 CNY
+    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
 
 2026-07-01 * "预提费用" "每月计提本年度物业费与保险费"
     Expenses:Social:Family:PropertyManagement       125.00 CNY
     Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom                         500.00 CNY
-    Liabilities:Reserves:Insurance:Mom                 -500.00 CNY
+    Expenses:Social:Family:Insurance:Mom            500.00 CNY
+    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
 
 2026-08-01 * "预提费用" "每月计提本年度物业费与保险费"
     Expenses:Social:Family:PropertyManagement       125.00 CNY
     Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom                         500.00 CNY
-    Liabilities:Reserves:Insurance:Mom                 -500.00 CNY
+    Expenses:Social:Family:Insurance:Mom            500.00 CNY
+    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
 
 2026-09-01 * "预提费用" "每月计提本年度物业费与保险费"
     Expenses:Social:Family:PropertyManagement       125.00 CNY
     Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom                         500.00 CNY
-    Liabilities:Reserves:Insurance:Mom                 -500.00 CNY
+    Expenses:Social:Family:Insurance:Mom            500.00 CNY
+    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
 
 2026-10-01 * "预提费用" "每月计提本年度物业费与保险费"
     Expenses:Social:Family:PropertyManagement       125.00 CNY
     Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom                         500.00 CNY
-    Liabilities:Reserves:Insurance:Mom                 -500.00 CNY
+    Expenses:Social:Family:Insurance:Mom            500.00 CNY
+    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
 
 2026-11-01 * "预提费用" "每月计提本年度物业费与保险费"
     Expenses:Social:Family:PropertyManagement       125.00 CNY
     Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom                         500.00 CNY
-    Liabilities:Reserves:Insurance:Mom                 -500.00 CNY
+    Expenses:Social:Family:Insurance:Mom            500.00 CNY
+    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
 
 2026-12-01 * "预提费用" "每月计提本年度物业费与保险费"
     Expenses:Social:Family:PropertyManagement       125.00 CNY
     Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom                         500.00 CNY
-    Liabilities:Reserves:Insurance:Mom                 -500.00 CNY
+    Expenses:Social:Family:Insurance:Mom            500.00 CNY
+    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
 
+; =======================================================
+; 自动生成的固定订阅扣款 (Google AI Pro & ChatGPT)
+; =======================================================
 
+2026-07-05 * "OpenAI" "ChatGPT CodeX"
+    Expenses:Tech:Subscriptions:OpenAI              19.99 USD
+    Assets:Digital:AppleID                         -19.99 USD
+
+2026-07-15 * "Google" "Google One Pro"
+    Expenses:Tech:Subscriptions:GoogleAI            22.10 USD
+    Liabilities:CreditCard:ICBC-5788               -22.10 USD
+
+2026-08-05 * "OpenAI" "ChatGPT CodeX"
+    Expenses:Tech:Subscriptions:OpenAI              19.99 USD
+    Assets:Digital:AppleID                         -19.99 USD
+
+2026-08-15 * "Google" "Google One Pro"
+    Expenses:Tech:Subscriptions:GoogleAI            22.10 USD
+    Liabilities:CreditCard:ICBC-5788               -22.10 USD
+
+2026-09-05 * "OpenAI" "ChatGPT CodeX"
+    Expenses:Tech:Subscriptions:OpenAI              19.99 USD
+    Assets:Digital:AppleID                         -19.99 USD
+
+2026-09-15 * "Google" "Google One Pro"
+    Expenses:Tech:Subscriptions:GoogleAI            22.10 USD
+    Liabilities:CreditCard:ICBC-5788               -22.10 USD
+
+2026-10-05 * "OpenAI" "ChatGPT CodeX"
+    Expenses:Tech:Subscriptions:OpenAI              19.99 USD
+    Assets:Digital:AppleID                         -19.99 USD
+
+2026-10-15 * "Google" "Google One Pro"
+    Expenses:Tech:Subscriptions:GoogleAI            22.10 USD
+    Liabilities:CreditCard:ICBC-5788               -22.10 USD
+
+2026-11-05 * "OpenAI" "ChatGPT CodeX"
+    Expenses:Tech:Subscriptions:OpenAI              19.99 USD
+    Assets:Digital:AppleID                         -19.99 USD
+
+2026-11-15 * "Google" "Google One Pro"
+    Expenses:Tech:Subscriptions:GoogleAI            22.10 USD
+    Liabilities:CreditCard:ICBC-5788               -22.10 USD
+
+2026-12-05 * "OpenAI" "ChatGPT CodeX"
+    Expenses:Tech:Subscriptions:OpenAI              19.99 USD
+    Assets:Digital:AppleID                         -19.99 USD
+
+2026-12-15 * "Google" "Google One Pro"
+    Expenses:Tech:Subscriptions:GoogleAI            22.10 USD
+    Liabilities:CreditCard:ICBC-5788               -22.10 USD
