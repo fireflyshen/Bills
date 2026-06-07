@@ -1,0 +1,25 @@
+2025-11-19 pad Assets:DebitCard:ICBC:4931        Equity:Opening-Balances
+2025-11-19 pad Assets:DebitCard:CMB:9231         Equity:Opening-Balances
+2025-11-19 pad Assets:MMF:CMB:ZhaoZhaoBao        Equity:Opening-Balances
+2025-11-19 pad Assets:Bank:ICBC:TimeDeposit      Equity:Opening-Balances
+2025-11-19 pad Assets:MMF:Alipay:YuEBao          Equity:Opening-Balances
+2025-11-19 pad Assets:Digital:AppleID            Equity:Opening-Balances
+2025-11-19 pad Liabilities:CreditCard:HuaBei     Equity:Opening-Balances
+2025-11-19 pad Liabilities:CreditCard:ICBC-8393  Equity:Opening-Balances
+2025-11-19 pad Liabilities:CreditCard:ICBC-5788  Equity:Opening-Balances
+
+2025-11-20 balance Assets:DebitCard:ICBC:4931          0.98 CNY
+2025-11-20 balance Assets:DebitCard:CMB:9231           0.49 CNY
+2025-11-20 balance Assets:MMF:CMB:ZhaoZhaoBao          0.26 CNY
+2025-11-20 balance Assets:Bank:ICBC:TimeDeposit    38486.17 CNY
+2025-11-20 balance Assets:MMF:Alipay:YuEBao        32424.47 CNY
+2025-11-20 balance Assets:Digital:AppleID              0.39 USD
+2025-11-20 balance Liabilities:CreditCard:HuaBei     -93.88 CNY
+2025-11-20 balance Liabilities:CreditCard:ICBC-8393   -2.25 CNY
+2025-11-20 balance Liabilities:CreditCard:ICBC-5788  -19.99 USD
+
+;; ==========================================================
+;; 块二：2026 年中途加入的微信零钱账户（严格按时间往后排）
+;; ==========================================================
+2026-03-27 pad Assets:Cash:WeChat:Balance        Equity:Opening-Balances
+2026-03-28 balance Assets:Cash:WeChat:Balance          0.01 CNY
