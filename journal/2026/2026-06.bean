@@ -1,0 +1,55 @@
+2026-06-01 * "沨哥网络" "经营码交易"
+    source: "ALiPay"
+    pay_time: "2026-06-01 18:44:09"
+    deal_no: "2026060122001492651444104466"
+    order_id: "2026060122001492651444104466"
+    merchant_id: "17803106494522909392652"
+    category: "其他"
+    type: "支出"
+    method: "工商银行信用卡(8393)&工商银行立减金&到店支付立减券"
+    status: "交易成功"
+    Expenses:FIXME                                      135.07 CNY
+    Liabilities:CreditCard:ICBC-8393                   -135.07 CNY
+
+
+2026-06-05 * "中国工商银行" "余额宝-转出到银行卡"
+    source: "ALiPay"
+    pay_time: "2026-06-05 19:50:30"
+    deal_no: "20260605019130201010650030493364"
+    order_id: "20260605019130201010650030493364"
+    merchant_id: "LC2026060519503020885229093926527911"
+    category: "投资理财"
+    type: "不计收支"
+    method: "中国工商银行储蓄卡(4931)"
+    status: "交易成功"
+    Assets:DebitCard:ICBC:4931                          554.06 CNY
+    Assets:MMF:Alipay:YuEBao                           -554.06 CNY
+
+
+2026-06-05 * "中国工商银行" "余额宝-转出到银行卡"
+    source: "ALiPay"
+    pay_time: "2026-06-05 19:51:24"
+    deal_no: "20260605019130201010650030579603"
+    order_id: "20260605019130201010650030579603"
+    merchant_id: "LC2026060519512420885229093926529242"
+    category: "投资理财"
+    type: "不计收支"
+    method: "中国工商银行储蓄卡(4931)"
+    status: "交易成功"
+    Assets:DebitCard:ICBC:4931                            0.01 CNY
+    Assets:MMF:Alipay:YuEBao                             -0.01 CNY
+
+
+2026-06-05 * "中国工商银行" "信用卡还款"
+    source: "ALiPay"
+    pay_time: "2026-06-05 19:47:20"
+    deal_no: "2026060500003001650091251243"
+    order_id: "2026060500003001650091251243"
+    category: "信用借还"
+    type: "不计收支"
+    method: "余额宝"
+    status: "还款成功"
+    Liabilities:CreditCard:ICBC-8393                    599.75 CNY
+    Assets:MMF:Alipay:YuEBao                           -599.75 CNY
+
+
