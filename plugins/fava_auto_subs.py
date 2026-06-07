@@ -20,10 +20,17 @@ class AutoSubsExtension(FavaExtensionBase):
 
             today = datetime.date.today()
             
-            existing = set()
+            existing_fingerprints = set()
             for entry in self.ledger.all_entries:
                 if type(entry).__name__ == "Transaction":
-                    existing.add((entry.date, getattr(entry, 'payee', None)))
+                    payee = getattr(entry, 'payee', None)
+                    if payee and hasattr(entry, 'postings'):
+                        for posting in entry.postings:
+                            if posting.units and posting.units.number is not None:
+                                amount_str = str(posting.units.number).lstrip('-')
+                                existing_fingerprints.add(
+                                    (entry.date.year, entry.date.month, payee, posting.account, amount_str)
+                                )
                 
             files_to_write = {}
             index_updates = set()
@@ -50,12 +57,15 @@ class AutoSubsExtension(FavaExtensionBase):
                             
                     if start_date <= d <= today:
                         payee = sub.get("payee", "")
-                        if (d, payee) not in existing:
+                        expense_account = sub.get("expense_account", "")
+                        amount_str = str(sub.get("amount", "")).lstrip('-')
+                        
+                        if (y, m, payee, expense_account, amount_str) not in existing_fingerprints:
                             date_str = d.strftime("%Y-%m-%d")
                             narration = sub.get("narration", "")
                             
                             entry_str = f'\n{date_str} * "{payee}" "{narration}"\n'
-                            entry_str += f'    {sub["expense_account"]} {sub["amount"]} {sub["currency"]}\n'
+                            entry_str += f'    {expense_account} {sub["amount"]} {sub["currency"]}\n'
                             entry_str += f'    {sub["asset_account"]} -{sub["amount"]} {sub["currency"]}\n'
                             
                             month_file_name = f"{y}-{m:02d}.bean"
@@ -66,21 +76,19 @@ class AutoSubsExtension(FavaExtensionBase):
                             files_to_write[target_path].append(entry_str)
                             index_updates.add((str(y), month_file_name))
                             
-                            existing.add((d, payee))
+                            existing_fingerprints.add((y, m, payee, expense_account, amount_str))
                             
                     m += 1
                     if m > 12:
                         m = 1
                         y += 1
                         
-            # Write out to target files
             for file_path, lines in files_to_write.items():
                 os.makedirs(os.path.dirname(file_path), exist_ok=True)
                 mode = 'a' if os.path.exists(file_path) else 'w'
                 with open(file_path, mode, encoding='utf-8') as f:
                     f.write("\n" + "\n".join(lines) + "\n")
                     
-            # Update index.bean if necessary
             for y_str, month_file in index_updates:
                 index_path = os.path.join(base_dir, 'journal', y_str, 'index.bean')
                 if os.path.exists(index_path):
@@ -92,6 +100,21 @@ class AutoSubsExtension(FavaExtensionBase):
                         new_content = re.sub(pattern, f'include "{month_file}"', index_content)
                         with open(index_path, 'w', encoding='utf-8') as f:
                             f.write(new_content)
+                    elif f'include "{month_file}"' not in index_content:
+                        with open(index_path, 'a', encoding='utf-8') as f:
+                            f.write(f'\ninclude "{month_file}"\n')
+                else:
+                    os.makedirs(os.path.dirname(index_path), exist_ok=True)
+                    with open(index_path, 'w', encoding='utf-8') as f:
+                        f.write(f'include "{month_file}"\n')
+                        
+                    main_index_path = os.path.join(base_dir, 'journal', 'index.bean')
+                    if os.path.exists(main_index_path):
+                        with open(main_index_path, 'r', encoding='utf-8') as f:
+                            main_content = f.read()
+                        if f'include "./{y_str}/index.bean"' not in main_content and f'include "{y_str}/index.bean"' not in main_content:
+                            with open(main_index_path, 'a', encoding='utf-8') as f:
+                                f.write(f'\ninclude "./{y_str}/index.bean"\n')
                             
         except Exception as e:
             print(f"AutoSubsExtension Error: {e}")
