@@ -11,6 +11,7 @@ services:
       # 错误点修正：容器内路径应该是 /bean/main.bean
       # 因为下面 volumes 把当前目录挂载到了容器的 /bean
       - BEANCOUNT_FILE=/bean/main.bean 
+      - PYTHONPATH=/bean
       - FAVA_HOST=0.0.0.0
     volumes:
       # 确保这里左边的 ./ 指向的是包含 main.bean 的目录
