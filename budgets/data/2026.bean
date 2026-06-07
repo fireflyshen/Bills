@@ -7,7 +7,7 @@
 2026-01-01 custom "budget" Expenses:Transport:General "monthly" 50.00 CNY
 2026-01-01 custom "budget" Expenses:Personal:Grooming "monthly" 40.00 CNY
 2026-01-01 custom "budget" Expenses:Social:Family:PropertyManagement "monthly" 125.00 CNY
-2026-01-01 custom "budget" Expenses:Life:Insurance "monthly" 500.00 CNY
+2026-01-01 custom "budget" Expenses:Social:Family:Insurance:Mom "monthly" 500.00 CNY
 2026-01-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 50.00 CNY
 2026-01-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 45.00 USD
 
@@ -20,7 +20,7 @@
 2026-02-01 custom "budget" Expenses:Transport:General "monthly" 50.00 CNY
 2026-02-01 custom "budget" Expenses:Personal:Grooming "monthly" 40.00 CNY
 2026-02-01 custom "budget" Expenses:Social:Family:PropertyManagement "monthly" 125.00 CNY
-2026-02-01 custom "budget" Expenses:Life:Insurance "monthly" 500.00 CNY
+2026-02-01 custom "budget" Expenses:Social:Family:Insurance:Mom "monthly" 500.00 CNY
 2026-02-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 50.00 CNY
 2026-02-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 45.00 USD
 
@@ -33,7 +33,7 @@
 2026-03-01 custom "budget" Expenses:Transport:General "monthly" 50.00 CNY
 2026-03-01 custom "budget" Expenses:Personal:Grooming "monthly" 40.00 CNY
 2026-03-01 custom "budget" Expenses:Social:Family:PropertyManagement "monthly" 125.00 CNY
-2026-03-01 custom "budget" Expenses:Life:Insurance "monthly" 500.00 CNY
+2026-03-01 custom "budget" Expenses:Social:Family:Insurance:Mom "monthly" 500.00 CNY
 2026-03-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 50.00 CNY
 2026-03-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 45.00 USD
 
@@ -46,7 +46,7 @@
 2026-04-01 custom "budget" Expenses:Transport:General "monthly" 50.00 CNY
 2026-04-01 custom "budget" Expenses:Personal:Grooming "monthly" 40.00 CNY
 2026-04-01 custom "budget" Expenses:Social:Family:PropertyManagement "monthly" 125.00 CNY
-2026-04-01 custom "budget" Expenses:Life:Insurance "monthly" 500.00 CNY
+2026-04-01 custom "budget" Expenses:Social:Family:Insurance:Mom "monthly" 500.00 CNY
 2026-04-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 50.00 CNY
 2026-04-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 45.00 USD
 
@@ -59,7 +59,7 @@
 2026-05-01 custom "budget" Expenses:Transport:General "monthly" 50.00 CNY
 2026-05-01 custom "budget" Expenses:Personal:Grooming "monthly" 40.00 CNY
 2026-05-01 custom "budget" Expenses:Social:Family:PropertyManagement "monthly" 125.00 CNY
-2026-05-01 custom "budget" Expenses:Life:Insurance "monthly" 500.00 CNY
+2026-05-01 custom "budget" Expenses:Social:Family:Insurance:Mom "monthly" 500.00 CNY
 2026-05-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 50.00 CNY
 2026-05-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 45.00 USD
 
@@ -72,7 +72,7 @@
 2026-06-01 custom "budget" Expenses:Transport:General "monthly" 50.00 CNY
 2026-06-01 custom "budget" Expenses:Personal:Grooming "monthly" 40.00 CNY
 2026-06-01 custom "budget" Expenses:Social:Family:PropertyManagement "monthly" 125.00 CNY
-2026-06-01 custom "budget" Expenses:Life:Insurance "monthly" 500.00 CNY
+2026-06-01 custom "budget" Expenses:Social:Family:Insurance:Mom "monthly" 500.00 CNY
 2026-06-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 50.00 CNY
 2026-06-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 45.00 USD
 
@@ -85,7 +85,7 @@
 2026-07-01 custom "budget" Expenses:Transport:General "monthly" 50.00 CNY
 2026-07-01 custom "budget" Expenses:Personal:Grooming "monthly" 40.00 CNY
 2026-07-01 custom "budget" Expenses:Social:Family:PropertyManagement "monthly" 125.00 CNY
-2026-07-01 custom "budget" Expenses:Life:Insurance "monthly" 500.00 CNY
+2026-07-01 custom "budget" Expenses:Social:Family:Insurance:Mom "monthly" 500.00 CNY
 2026-07-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 50.00 CNY
 2026-07-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 45.00 USD
 
@@ -98,7 +98,7 @@
 2026-08-01 custom "budget" Expenses:Transport:General "monthly" 50.00 CNY
 2026-08-01 custom "budget" Expenses:Personal:Grooming "monthly" 40.00 CNY
 2026-08-01 custom "budget" Expenses:Social:Family:PropertyManagement "monthly" 125.00 CNY
-2026-08-01 custom "budget" Expenses:Life:Insurance "monthly" 500.00 CNY
+2026-08-01 custom "budget" Expenses:Social:Family:Insurance:Mom "monthly" 500.00 CNY
 2026-08-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 50.00 CNY
 2026-08-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 45.00 USD
 
@@ -111,7 +111,7 @@
 2026-09-01 custom "budget" Expenses:Transport:General "monthly" 50.00 CNY
 2026-09-01 custom "budget" Expenses:Personal:Grooming "monthly" 40.00 CNY
 2026-09-01 custom "budget" Expenses:Social:Family:PropertyManagement "monthly" 125.00 CNY
-2026-09-01 custom "budget" Expenses:Life:Insurance "monthly" 500.00 CNY
+2026-09-01 custom "budget" Expenses:Social:Family:Insurance:Mom "monthly" 500.00 CNY
 2026-09-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 50.00 CNY
 2026-09-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 45.00 USD
 
@@ -124,7 +124,7 @@
 2026-10-01 custom "budget" Expenses:Transport:General "monthly" 50.00 CNY
 2026-10-01 custom "budget" Expenses:Personal:Grooming "monthly" 40.00 CNY
 2026-10-01 custom "budget" Expenses:Social:Family:PropertyManagement "monthly" 125.00 CNY
-2026-10-01 custom "budget" Expenses:Life:Insurance "monthly" 500.00 CNY
+2026-10-01 custom "budget" Expenses:Social:Family:Insurance:Mom "monthly" 500.00 CNY
 2026-10-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 50.00 CNY
 2026-10-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 45.00 USD
 
@@ -137,7 +137,7 @@
 2026-11-01 custom "budget" Expenses:Transport:General "monthly" 50.00 CNY
 2026-11-01 custom "budget" Expenses:Personal:Grooming "monthly" 40.00 CNY
 2026-11-01 custom "budget" Expenses:Social:Family:PropertyManagement "monthly" 125.00 CNY
-2026-11-01 custom "budget" Expenses:Life:Insurance "monthly" 500.00 CNY
+2026-11-01 custom "budget" Expenses:Social:Family:Insurance:Mom "monthly" 500.00 CNY
 2026-11-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 50.00 CNY
 2026-11-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 45.00 USD
 
@@ -150,6 +150,6 @@
 2026-12-01 custom "budget" Expenses:Transport:General "monthly" 50.00 CNY
 2026-12-01 custom "budget" Expenses:Personal:Grooming "monthly" 40.00 CNY
 2026-12-01 custom "budget" Expenses:Social:Family:PropertyManagement "monthly" 125.00 CNY
-2026-12-01 custom "budget" Expenses:Life:Insurance "monthly" 500.00 CNY
+2026-12-01 custom "budget" Expenses:Social:Family:Insurance:Mom "monthly" 500.00 CNY
 2026-12-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 50.00 CNY
 2026-12-01 custom "budget" Expenses:Tech:Subscriptions "monthly" 45.00 USD
