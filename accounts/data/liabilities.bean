@@ -4,5 +4,6 @@
 2025-01-01 open Liabilities:CreditCard:ICBC-5788
 2026-03-27 open Liabilities:CreditCard:CNCB-9177          CNY
 2026-01-01 open Liabilities:Reserves:PropertyFee          CNY
+2026-01-01 open Liabilities:Reserves:Insurance            CNY
 ; 关闭账户
 2026-02-01 close Liabilities:CreditCard:HuaBei
