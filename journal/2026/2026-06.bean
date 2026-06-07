@@ -8,9 +8,12 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金&到店支付立减券"
     status: "交易成功"
-    Expenses:FIXME                                      135.07 CNY
-    Liabilities:CreditCard:ICBC-8393                   -135.07 CNY
+    Expenses:Utilities:Phone:International           135.07 CNY
+    Liabilities:CreditCard:ICBC-8393                -135.07 CNY
 
+2026-06-01 * "Google" "Google Cloud"
+    Expenses:Tech:Subscriptions                        0.60 USD
+    Liabilities:CreditCard:ICBC-5788                  -0.60 USD
 
 2026-06-05 * "中国工商银行" "余额宝-转出到银行卡"
     source: "ALiPay"
@@ -22,8 +25,8 @@
     type: "不计收支"
     method: "中国工商银行储蓄卡(4931)"
     status: "交易成功"
-    Assets:DebitCard:ICBC:4931                          554.06 CNY
-    Assets:MMF:Alipay:YuEBao                           -554.06 CNY
+    Assets:DebitCard:ICBC:4931                       554.06 CNY
+    Assets:MMF:Alipay:YuEBao                        -554.06 CNY
 
 
 2026-06-05 * "中国工商银行" "余额宝-转出到银行卡"
@@ -36,8 +39,8 @@
     type: "不计收支"
     method: "中国工商银行储蓄卡(4931)"
     status: "交易成功"
-    Assets:DebitCard:ICBC:4931                            0.01 CNY
-    Assets:MMF:Alipay:YuEBao                             -0.01 CNY
+    Assets:DebitCard:ICBC:4931                         0.01 CNY
+    Assets:MMF:Alipay:YuEBao                          -0.01 CNY
 
 
 2026-06-05 * "中国工商银行" "信用卡还款"
@@ -49,7 +52,36 @@
     type: "不计收支"
     method: "余额宝"
     status: "还款成功"
-    Liabilities:CreditCard:ICBC-8393                    599.75 CNY
-    Assets:MMF:Alipay:YuEBao                           -599.75 CNY
+    Liabilities:CreditCard:ICBC-8393                 599.75 CNY
+    Assets:MMF:Alipay:YuEBao                        -599.75 CNY
 
 
+2026-06-05 * "Giffgaff" "Giffgaff电话卡激活"
+    Expenses:Utilities:Phone:International            10.00 GBP
+    Liabilities:CreditCard:ICBC-5788                 -10.00 GBP
+
+
+2026-06-05 * "中国工商银行" "信用卡提前还款"
+    Liabilities:CreditCard:ICBC-8393                 305.04 CNY
+    Assets:DebitCard:ICBC:4931                      -305.04 CNY
+
+
+2026-06-05 * "中国工商银行" "信用卡提前还款"
+    Liabilities:CreditCard:ICBC-5788                  10.00 GBP @@ 91.14 CNY
+    Assets:DebitCard:ICBC:4931                       -91.14 CNY
+
+
+2026-06-05 * "中国工商银行" "信用卡提前还款"
+    Liabilities:CreditCard:ICBC-5788                  23.22 USD @@ 157.89 CNY
+    Assets:DebitCard:ICBC:4931                      -157.89 CNY
+
+
+
+2026-06-05 * "Apple" "Apple Gift Card"
+    Assets:Digital:AppleID                            25.00 USD
+    Liabilities:CreditCard:ICBC-5788                 -25.00 USD
+
+
+2026-06-05 * "OpenAI" "ChatGPT CodeX"
+    Expenses:Tech:Subscriptions                       19.99 USD
+    Assets:Digital:AppleID                           -19.99 USD

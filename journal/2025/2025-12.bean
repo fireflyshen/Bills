@@ -1,5 +1,5 @@
 2025-12-01 * "中国移动" "话费"
-    Expenses:Utilities:Phone                          30.00 CNY
+    Expenses:Utilities:Phone:Domestic                 30.00 CNY
     Liabilities:CreditCard:HuaBei                    -30.00 CNY
 
 2025-12-03 * "南阳市万德隆商贸有限责任公司" "牛奶, 香菇酱"
@@ -31,7 +31,7 @@
     Liabilities:CreditCard:ICBC-5788                 -13.00 USD
 
 2025-12-11 * "中国移动" "话费"
-    Expenses:Utilities:Phone                          30.00 CNY
+    Expenses:Utilities:Phone:Domestic                 30.00 CNY
     Liabilities:CreditCard:HuaBei                    -30.00 CNY
 
 2025-12-14 * "工商银行" "转账提现"
@@ -84,7 +84,7 @@
     Liabilities:CreditCard:ICBC-8393                 -39.30 CNY
 
 2025-12-27 * "中国移动" "话费"
-    Expenses:Utilities:Phone                          30.00 CNY
+   Expenses:Utilities:Phone:Domestic                  30.00 CNY
     Liabilities:CreditCard:ICBC-8393                 -30.00 CNY
 
 2025-12-29 * "南阳市万德隆商贸有限责任公司" "杂货"

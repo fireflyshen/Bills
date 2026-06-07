@@ -7,7 +7,7 @@
 2025-11-26 open Expenses:Personal:Grooming ; 个人仪容
 2025-12-06 open Expenses:Household:General ; 通用
 2025-12-01 open Expenses:Entertainment:Subscriptions ; 娱乐订阅
-2025-12-01 open Expenses:Utilities:Phone ; 个人:通讯:话费
+2025-12-01 open Expenses:Utilities:Phone:Domestic ; 个人:通讯:话费(国内)
 2025-12-01 open Expenses:Food:Snacks ; 零食/饮料/下午茶
 2025-12-01 open Expenses:Transport:General ; 综合交通费
 2026-01-08 open Expenses:Electronics:Accessories ; 电子配件
@@ -17,3 +17,4 @@
 2026-05-22 open Expenses:Social:Family:Transfer
 2026-05-22 open Expenses:Social:Family:PropertyManagement
 2026-05-30 open Expenses:Social:Family:Electricity
+2026-05-31 open Expenses:Utilities:Phone:International ; 个人:通讯:话费(境外)

@@ -4,6 +4,7 @@ option "render_commas" "TRUE"
 
 option "operating_currency" "CNY"
 option "operating_currency" "USD"
+option "operating_currency" "GBP"
 
 2025-11-20 commodity CNY
   precision: 2
@@ -11,7 +12,12 @@ option "operating_currency" "USD"
 2025-11-20 commodity USD
   precision: 2
 
+2025-11-20 commodity GBP
+    precision: 2
+
 include "./accounts/index.bean"
+include "./init/index.bean"
 include "./journal/index.bean"
 include "./budgets/index.bean"
 include "./assertion/index.bean"
+ 

@@ -13,7 +13,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Utilities:Phone                          30.00 CNY
+    Expenses:Utilities:Phone:Domestic                 30.00 CNY
     Liabilities:CreditCard:ICBC-8393                 -30.00 CNY
 
 
@@ -221,7 +221,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易关闭"
-    Expenses:Utilities:Phone                          30.00 CNY
+    Expenses:Utilities:Phone:Domestic                 30.00 CNY
     Liabilities:CreditCard:ICBC-8393                 -30.00 CNY
 
 
@@ -241,7 +241,7 @@
     method: "工商银行信用卡(8393)"
     status: "退款成功"
     Liabilities:CreditCard:ICBC-8393                  30.00 CNY
-    Expenses:Utilities:Phone                         -30.00 CNY
+    Expenses:Utilities:Phone:Domestic                -30.00 CNY
 
 
 2026-05-16 * "中国移动" "话费自动充值"
@@ -254,7 +254,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Utilities:Phone                          30.00 CNY
+    Expenses:Utilities:Phone:Domestic                 30.00 CNY
     Liabilities:CreditCard:ICBC-8393                 -30.00 CNY
 
 
@@ -411,7 +411,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
-    Expenses:Utilities:Phone                          29.87 CNY
+    Expenses:Utilities:Phone:Domestic                 29.87 CNY
     Liabilities:CreditCard:ICBC-8393                 -29.87 CNY
 
 
