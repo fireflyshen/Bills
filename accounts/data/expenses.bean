@@ -1,6 +1,20 @@
 ; 支出
-2025-11-20 open Expenses:Tech:Software ; 软件购买
-2025-11-22 open Expenses:Tech:Subscriptions ; 技术订阅
+2025-11-20 open Expenses:Tech:Software
+2025-11-22 open Expenses:Tech:Subscriptions
+2025-11-22 open Expenses:Tech:Subscriptions:JetBrains:IDE
+2025-11-22 open Expenses:Tech:Subscriptions:AliYun:RDS
+2025-11-22 open Expenses:Tech:Subscriptions:GoogleCloud
+2025-11-22 open Expenses:Tech:Subscriptions:AliYun:VPS
+2025-11-22 open Expenses:Tech:Subscriptions:Proxy
+2025-11-22 open Expenses:Tech:Subscriptions:JetBrains:AI
+2025-11-22 open Expenses:Tech:Subscriptions:Study
+2025-11-22 open Expenses:Tech:Subscriptions:GoogleAI
+2025-11-22 open Expenses:Tech:Subscriptions:OpenAI
+2025-11-22 open Expenses:Tech:Subscriptions:ICloud
+2025-11-22 open Expenses:Tech:Subscriptions:AliYun:Fee
+2025-11-22 open Expenses:Tech:Subscriptions:Other
+2025-11-22 open Expenses:Tech:Subscriptions:Racknerd:VPS
+2025-11-22 open Expenses:Tech:Subscriptions:Domain
 2025-11-26 open Expenses:Health:Supplements ; 保健品
 2025-11-26 open Expenses:Food:Groceries ; 杂货
 2025-12-09 open Expenses:Food:ThreeMeals ; 三餐

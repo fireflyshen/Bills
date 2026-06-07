@@ -19,7 +19,7 @@
     Assets:MMF:Alipay:YuEBao                        -332.87 CNY
 
 2025-12-09 * "Racknerd" "VPS"
-    Expenses:Tech:Subscriptions                       75.33 CNY
+    Expenses:Tech:Subscriptions:Racknerd:VPS                       75.33 CNY
     Liabilities:CreditCard:HuaBei                    -75.33 CNY
 
 2025-12-09 * "南阳市万德隆商贸有限责任公司" "面包, 意大利面"
@@ -44,15 +44,15 @@
     Assets:DebitCard:ICBC:4931                      -252.21 CNY
 
 2025-12-14 * "Google" "Google One pro"
-    Expenses:Tech:Subscriptions                       22.06 USD
+    Expenses:Tech:Subscriptions:GoogleAI                       22.06 USD
     Liabilities:CreditCard:ICBC-5788                 -22.06 USD
 
 2025-12-14 * "NameSilo" "域名 caten.top"
-    Expenses:Tech:Subscriptions                       13.34 CNY
+    Expenses:Tech:Subscriptions:Domain                       13.34 CNY
     Liabilities:CreditCard:ICBC-8393                 -13.34 CNY
 
 2025-12-15 * "CliProxy" "住宅IP"
-    Expenses:Tech:Subscriptions                       26.94 CNY
+    Expenses:Tech:Subscriptions:Proxy                       26.94 CNY
     Liabilities:CreditCard:ICBC-8393                 -26.94 CNY
 
 2025-12-15 * "南阳市万德隆商贸有限责任公司" "西兰花, 老干妈, 牛奶"
@@ -60,15 +60,15 @@
     Liabilities:CreditCard:ICBC-8393                 -32.56 CNY
 
 2025-12-19 * "Apple" "iCloud"
-    Expenses:Tech:Subscriptions                        6.00 CNY
+    Expenses:Tech:Subscriptions:ICloud                        6.00 CNY
     Liabilities:CreditCard:ICBC-8393                  -6.00 CNY
 
 2025-12-19 * "机场" "vpn"
-    Expenses:Tech:Subscriptions                       19.80 CNY
+    Expenses:Tech:Subscriptions:Proxy                       19.80 CNY
     Liabilities:CreditCard:ICBC-8393                 -19.80 CNY
 
 2025-12-23 * "机场" "vpn"
-    Expenses:Tech:Subscriptions                        8.88 CNY
+    Expenses:Tech:Subscriptions:Proxy                        8.88 CNY
     Liabilities:CreditCard:ICBC-8393                  -8.88 CNY
 
 2025-12-23 * "南阳市万德隆商贸有限责任公司" "杂货"

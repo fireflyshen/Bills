@@ -1,4 +1,5 @@
 option "title" "My Accounts"
+plugin "auto_subs"
 option "render_commas" "TRUE"
 ; option "inferred_tolerance_default" "*:0.005"
 
