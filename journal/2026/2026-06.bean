@@ -84,6 +84,8 @@
 2026-06-05 * "OpenAI" "ChatGPT CodeX"
     Expenses:Tech:Subscriptions:OpenAI                19.99 USD
     Assets:Digital:AppleID                           -19.99 USD
+
+
 2026-06-07 * "零食有鸣（河南省南阳市宛城区建设中路店）" "河南省南阳市宛城区建设中路店零售商品"
     source: "ALiPay"
     pay_time: "2026-06-07 19:24:36"
@@ -96,5 +98,3 @@
     status: "交易成功"
     Expenses:Food:Snacks                                 22.76 CNY
     Liabilities:CreditCard:ICBC-8393                    -22.76 CNY
-
-
