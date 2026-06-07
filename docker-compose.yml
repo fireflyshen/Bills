@@ -1,44 +1,43 @@
-version: '3'
+version: "3"
 
 services:
-  fava:
-    image: yegle/fava:latest
-    container_name: fava
-    restart: always
-    # ports:
-    #   - "5000:5000"
-    environment:
-      # 错误点修正：容器内路径应该是 /bean/main.bean
-      # 因为下面 volumes 把当前目录挂载到了容器的 /bean
-      - BEANCOUNT_FILE=/bean/main.bean 
-      - PYTHONPATH=/bean
-      - FAVA_HOST=0.0.0.0
-    volumes:
-      # 确保这里左边的 ./ 指向的是包含 main.bean 的目录
-      - ./:/bean
-    networks:
-      - caddy_net
-  caddy:
-    image: caddy:latest
-    container_name: caddy
-    restart: always
-    ports:
-      - "80:80"
-      - "443:443"
-    extra_hosts:
-      - "host.docker.internal:host-gateway"
-    volumes:
-      - ./Caddyfile:/etc/caddy/Caddyfile
-      - caddy_data:/data
-      - caddy_config:/config
-    depends_on:
-      - fava
-    networks:
-      - caddy_net
+    fava:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        container_name: fava
+        restart: always
+        environment:
+            - BEANCOUNT_FILE=/bean/main.bean
+            - PYTHONPATH=/bean
+            - FAVA_HOST=0.0.0.0
+        volumes:
+            - ./:/bean
+        networks:
+            - caddy_net
+
+    caddy:
+        image: caddy:latest
+        container_name: caddy
+        restart: always
+        ports:
+            - "80:80"
+            - "443:443"
+        extra_hosts:
+            - "host.docker.internal:host-gateway"
+        volumes:
+            - ./Caddyfile:/etc/caddy/Caddyfile
+            - caddy_data:/data
+            - caddy_config:/config
+        depends_on:
+            - fava
+        networks:
+            - caddy_net
+
 volumes:
-  caddy_data:
-  caddy_config:
+    caddy_data:
+    caddy_config:
 
 networks:
-  caddy_net:
-    external: true
+    caddy_net:
+        external: true
