@@ -20,4 +20,4 @@ include "./init/index.bean"
 include "./journal/index.bean"
 include "./budgets/index.bean"
 include "./assertion/index.bean"
- 
+include "./accruals/index.bean"
