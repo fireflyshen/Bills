@@ -1,5 +1,5 @@
 option "title" "My Accounts"
-plugin "auto_subs"
+plugin "beancount.plugins.auto_accounts"
 option "render_commas" "TRUE"
 ; option "inferred_tolerance_default" "*:0.005"
 
