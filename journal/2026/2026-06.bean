@@ -98,3 +98,59 @@
     status: "交易成功"
     Expenses:Food:Snacks                                 22.76 CNY
     Liabilities:CreditCard:ICBC-8393                    -22.76 CNY
+2026-06-10 * "中国移动" "话费自动充值"
+    source: "ALiPay"
+    pay_time: "2026-06-10 07:03:34"
+    deal_no: "2026061022001492651433778655"
+    order_id: "2026061022001492651433778655"
+    merchant_id: "00952026061007033413355605299704"
+    category: "充值缴费"
+    type: "支出"
+    method: "工商银行信用卡(8393)&工商银行立减金"
+    status: "交易成功"
+    Expenses:Utilities:Phone                             29.89 CNY
+    Liabilities:CreditCard:ICBC-8393                    -29.89 CNY
+
+
+2026-06-10 * "苏州创欣博信息科技有限公司" "超值大礼包"
+    source: "ALiPay"
+    pay_time: "2026-06-10 12:26:20"
+    deal_no: "2026061022001492651434269262"
+    order_id: "2026061022001492651434269262"
+    merchant_id: "dJCRQ202606101781065558347074"
+    category: "其他"
+    type: "支出"
+    method: "工商银行信用卡(8393)&工商银行立减金"
+    status: "交易成功"
+    Expenses:FIXME                                       14.18 CNY
+    Liabilities:CreditCard:ICBC-8393                    -14.18 CNY
+
+
+2026-06-11 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-06-11 21:12:36"
+    deal_no: "2026061123001492651443946612"
+    order_id: "2026061123001492651443946612"
+    merchant_id: "99106600004857000220260611MM8jc8mh"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 11.27 CNY
+    Liabilities:CreditCard:ICBC-8393                    -11.27 CNY
+
+
+2026-06-13 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-06-13 18:42:38"
+    deal_no: "2026061323001492651455835276"
+    order_id: "2026061323001492651455835276"
+    merchant_id: "37106600004857000220260613MMb4cueq"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)&工商银行立减金"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 14.48 CNY
+    Liabilities:CreditCard:ICBC-8393                    -14.48 CNY
+
+
