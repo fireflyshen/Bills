@@ -12,7 +12,7 @@
     Liabilities:CreditCard:ICBC-8393                -135.07 CNY
 
 2026-06-01 * "Google" "Google Cloud"
-    Expenses:Tech:Subscriptions:GoogleCloud                        0.60 USD
+    Expenses:Tech:Subscriptions:GoogleCloud            0.60 USD
     Liabilities:CreditCard:ICBC-5788                  -0.60 USD
 
 2026-06-05 * "中国工商银行" "余额宝-转出到银行卡"
@@ -96,8 +96,10 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
-    Expenses:Food:Snacks                                 22.76 CNY
-    Liabilities:CreditCard:ICBC-8393                    -22.76 CNY
+    Expenses:Food:Snacks                              22.76 CNY
+    Liabilities:CreditCard:ICBC-8393                 -22.76 CNY
+
+
 2026-06-10 * "中国移动" "话费自动充值"
     source: "ALiPay"
     pay_time: "2026-06-10 07:03:34"
@@ -108,8 +110,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
-    Expenses:Utilities:Phone                             29.89 CNY
-    Liabilities:CreditCard:ICBC-8393                    -29.89 CNY
+    Expenses:Utilities:Phone                          29.89 CNY
+    Liabilities:CreditCard:ICBC-8393                 -29.89 CNY
 
 
 2026-06-10 * "苏州创欣博信息科技有限公司" "超值大礼包"
@@ -122,8 +124,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
-    Expenses:FIXME                                       14.18 CNY
-    Liabilities:CreditCard:ICBC-8393                    -14.18 CNY
+    Expenses:Tech:Subscriptions:Proxy                 14.18 CNY
+    Liabilities:CreditCard:ICBC-8393                 -14.18 CNY
 
 
 2026-06-11 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
@@ -136,8 +138,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Food:Snacks                                 11.27 CNY
-    Liabilities:CreditCard:ICBC-8393                    -11.27 CNY
+    Expenses:Food:Snacks                              11.27 CNY
+    Liabilities:CreditCard:ICBC-8393                 -11.27 CNY
 
 
 2026-06-13 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
@@ -150,7 +152,5 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
-    Expenses:Food:Snacks                                 14.48 CNY
-    Liabilities:CreditCard:ICBC-8393                    -14.48 CNY
-
-
+    Expenses:Food:Snacks                              14.48 CNY
+    Liabilities:CreditCard:ICBC-8393                 -14.48 CNY

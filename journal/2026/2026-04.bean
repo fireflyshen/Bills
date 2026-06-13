@@ -1,5 +1,5 @@
 2026-04-01 * "Google" "Google Cloud"
-    Expenses:Tech:Subscriptions:GoogleCloud                        0.32 USD
+    Expenses:Tech:Subscriptions:GoogleCloud            0.32 USD
     Liabilities:CreditCard:ICBC-5788                  -0.32 USD
 
 2026-04-04 * "中国移动" "话费自动充值"
@@ -138,7 +138,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Tech:Subscriptions:Proxy                       14.30 CNY
+    Expenses:Tech:Subscriptions:Proxy                 14.30 CNY
     Liabilities:CreditCard:ICBC-8393                 -14.30 CNY
 
 
@@ -244,7 +244,7 @@
 
 
 2026-04-19 * "Google" "Google One Pro"
-    Expenses:Tech:Subscriptions:GoogleAI                       22.10 USD
+    Expenses:Tech:Subscriptions:GoogleAI              22.10 USD
     Liabilities:CreditCard:ICBC-5788                 -22.10 USD
 
 
@@ -306,7 +306,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Tech:Subscriptions:ICloud                        6.00 CNY
+    Expenses:Tech:Subscriptions:ICloud                 6.00 CNY
     Liabilities:CreditCard:ICBC-8393                  -6.00 CNY
 
 
@@ -452,5 +452,6 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
-    Expenses:Tech:Subscriptions:Proxy                      134.61 CNY
+    Expenses:Tech:Subscriptions:Proxy                134.61 CNY
     Liabilities:CreditCard:ICBC-8393                -134.61 CNY
+; 

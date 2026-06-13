@@ -1,5 +1,5 @@
 2026-05-01 * "Google" "Google Cloud"
-    Expenses:Tech:Subscriptions:GoogleCloud                        0.52 USD
+    Expenses:Tech:Subscriptions:GoogleCloud            0.52 USD
     Liabilities:CreditCard:ICBC-5788                  -0.52 USD
 
 
@@ -125,7 +125,7 @@
     Liabilities:CreditCard:ICBC-8393                 -27.67 CNY
 
 2026-05-11 * "咸鱼" "JetBrains AI Pro"
-    Expenses:Tech:Subscriptions:JetBrains:AI                 49.00 CNY
+    Expenses:Tech:Subscriptions:JetBrains:AI          49.00 CNY
     Assets:MMF:Alipay:YuEBao                         -49.00 CNY
 
 2026-05-11 * "安徽佑隆建筑劳务有限公司" "订单-1778505249"
@@ -138,7 +138,7 @@
     type: "不计收支"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Tech:Subscriptions:Proxy                       14.30 CNY
+    Expenses:Tech:Subscriptions:Proxy                 14.30 CNY
     Liabilities:CreditCard:ICBC-8393                 -14.30 CNY
 
 
@@ -179,7 +179,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Tech:Subscriptions:AliYun:VPS                       99.00 CNY
+    Expenses:Tech:Subscriptions:AliYun:VPS            99.00 CNY
     Liabilities:CreditCard:ICBC-8393                 -99.00 CNY
 
 
@@ -193,7 +193,7 @@
     type: "支出"
     method: "余额宝"
     status: "交易成功"
-    Expenses:Tech:Subscriptions:AliYun:Fee                        1.00 CNY
+    Expenses:Tech:Subscriptions:AliYun:Fee             1.00 CNY
     Assets:MMF:Alipay:YuEBao                          -1.00 CNY
 
 
@@ -259,7 +259,7 @@
 
 
 2026-05-17 * "Google" "Google One Pro"
-    Expenses:Tech:Subscriptions:GoogleAI                       22.10 USD
+    Expenses:Tech:Subscriptions:GoogleAI              22.10 USD
     Liabilities:CreditCard:ICBC-5788                 -22.10 USD
 
 
@@ -284,7 +284,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Tech:Subscriptions:ICloud                        6.00 CNY
+    Expenses:Tech:Subscriptions:ICloud                 6.00 CNY
     Liabilities:CreditCard:ICBC-8393                  -6.00 CNY
 
 

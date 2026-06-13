@@ -69,7 +69,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026011222001492651417427450"
-    Expenses:Tech:Subscriptions:Proxy                       26.64 CNY
+    Expenses:Tech:Subscriptions:Proxy                 26.64 CNY
     Liabilities:CreditCard:ICBC-8393                 -26.64 CNY
 
 2026-01-12 * "零食很忙河南南阳宛城和城广场店" "二维码支付"
@@ -129,7 +129,7 @@
     Liabilities:CreditCard:ICBC-8393                  -8.70 CNY
 
 2026-01-14 * "Google" "Google One pro"
-    Expenses:Tech:Subscriptions:GoogleAI                       22.10 USD
+    Expenses:Tech:Subscriptions:GoogleAI              22.10 USD
     Liabilities:CreditCard:ICBC-5788                 -22.10 USD
 
 2026-01-16 * "零食很忙河南南阳宛城和城广场店" "二维码支付"
@@ -168,7 +168,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026011922001492651445227607"
-    Expenses:Tech:Subscriptions:ICloud                        6.00 CNY
+    Expenses:Tech:Subscriptions:ICloud                 6.00 CNY
     Liabilities:CreditCard:ICBC-8393                  -6.00 CNY
 
 2026-01-22 * "中国移动" "话费自动充值"
@@ -194,7 +194,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026012222001492651458765547"
-    Expenses:Tech:Subscriptions:Proxy                       10.00 CNY
+    Expenses:Tech:Subscriptions:Proxy                 10.00 CNY
     Liabilities:CreditCard:ICBC-8393                 -10.00 CNY
 
 2026-01-24 * "南阳市万德隆商贸有限责任公司" "南阳市万德隆商贸有限责任公司"
@@ -220,7 +220,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026012622001492651409449669"
-    Expenses:Tech:Subscriptions:Proxy                        9.99 CNY
+    Expenses:Tech:Subscriptions:Proxy                  9.99 CNY
     Liabilities:CreditCard:ICBC-8393                  -9.99 CNY
 
 2026-01-28 * "成都零食有鸣商业管理有限公司" "河南省南阳市宛城区建设中路店"
