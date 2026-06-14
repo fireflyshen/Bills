@@ -142,7 +142,7 @@
     Liabilities:CreditCard:ICBC-8393                 -11.27 CNY
 
 
-2026-01-01 * "ICBC" "ICBCVisaMerchantRebate"
+2026-06-12 * "ICBC" "ICBCVisaMerchantRebate"
     Liabilities:CreditCard:ICBC-5788                   0.72 USD
     Income:Rebates                                    -0.72 USD
 
