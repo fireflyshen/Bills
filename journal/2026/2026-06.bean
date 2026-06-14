@@ -159,6 +159,34 @@
     status: "交易成功"
     Expenses:Food:Snacks                              14.48 CNY
     Liabilities:CreditCard:ICBC-8393                 -14.48 CNY
+2026-06-14 * "中国工商银行" "余额宝-转出到银行卡"
+    source: "ALiPay"
+    pay_time: "2026-06-14 20:14:54"
+    deal_no: "20260614019130201010650034891432"
+    order_id: "20260614019130201010650034891432"
+    merchant_id: "LC2026061420145420885229093926527938"
+    category: "投资理财"
+    type: "不计收支"
+    method: "中国工商银行储蓄卡(4931)"
+    status: "交易成功"
+    Assets:DebitCard:ICBC:4931                          164.59 CNY
+    Assets:MMF:Alipay:YuEBao                           -164.59 CNY
+
+
+2026-06-14 * "中国工商银行" "信用卡提前还款"
+    source: "ALiPay"
+    pay_time: "2026-06-14 20:14:54"
+    deal_no: "20260614019130201010650034891432"
+    order_id: "20260614019130201010650034891432"
+    merchant_id: "LC2026061420145420885229093926527938"
+    category: "投资理财"
+    type: "不计收支"
+    method: "中国工商银行储蓄卡(4931)"
+    status: "交易成功"
+    Liabilities:CreditCard:ICBC-5788                4.29 USD @@ 164.59 CNY
+    Assets:DebitCard:ICBC:4931                      -164.59 CNY
+
+
 2026-06-14 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
     source: "WeChat"
     pay_time: "2026-06-14"
