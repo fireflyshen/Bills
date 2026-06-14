@@ -18,5 +18,15 @@
     "currency": "USD",
     "day_of_month": 5,
     "start_date": "2026-07-01"
+  },
+  {
+    "payee": "Apple",
+    "narration": "Apple Gift Card",
+    "expense_account": "Assets:Digital:AppleID",
+    "asset_account": "Liabilities:CreditCard:ICBC-5788",
+    "amount": "20",
+    "currency": "USD",
+    "day_of_month": 5,
+    "start_date": "2026-07-01"
   }
 ]
