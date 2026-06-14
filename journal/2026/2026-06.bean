@@ -142,6 +142,11 @@
     Liabilities:CreditCard:ICBC-8393                 -11.27 CNY
 
 
+2026-01-01 * "ICBC" "ICBCVisaMerchantRebate"
+    Liabilities:CreditCard:ICBC-5788                   0.72 USD
+    Income:Rebates                                    -0.72 USD
+
+
 2026-06-13 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
     source: "ALiPay"
     pay_time: "2026-06-13 18:42:38"
