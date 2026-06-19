@@ -2100,3 +2100,68 @@
     status: "交易成功"
     Assets:MMF:Alipay:YuEBao                              0.62 CNY
     Income:CN:Interest:YuEBao                            -0.62 CNY
+2026-06-15 * "博时基金管理有限公司" "余额宝-2026.06.14-收益发放"
+    source: "ALiPay"
+    pay_time: "2026-06-15 02:57:45"
+    deal_no: "20260615387400324651"
+    order_id: "20260615387400324651"
+    category: "投资理财"
+    type: "不计收支"
+    method: "余额宝"
+    status: "交易成功"
+    Assets:MMF:Alipay:YuEBao                              0.62 CNY
+    Income:CN:Interest:YuEBao                            -0.62 CNY
+
+
+2026-06-16 * "博时基金管理有限公司" "余额宝-2026.06.15-收益发放"
+    source: "ALiPay"
+    pay_time: "2026-06-16 03:10:36"
+    deal_no: "20260616390306313651"
+    order_id: "20260616390306313651"
+    category: "投资理财"
+    type: "不计收支"
+    method: "余额宝"
+    status: "交易成功"
+    Assets:MMF:Alipay:YuEBao                              0.62 CNY
+    Income:CN:Interest:YuEBao                            -0.62 CNY
+
+
+2026-06-17 * "博时基金管理有限公司" "余额宝-2026.06.16-收益发放"
+    source: "ALiPay"
+    pay_time: "2026-06-17 03:12:22"
+    deal_no: "20260617399743201651"
+    order_id: "20260617399743201651"
+    category: "投资理财"
+    type: "不计收支"
+    method: "余额宝"
+    status: "交易成功"
+    Assets:MMF:Alipay:YuEBao                              0.61 CNY
+    Income:CN:Interest:YuEBao                            -0.61 CNY
+
+
+2026-06-18 * "博时基金管理有限公司" "余额宝-2026.06.17-收益发放"
+    source: "ALiPay"
+    pay_time: "2026-06-18 03:35:17"
+    deal_no: "20260618305774785651"
+    order_id: "20260618305774785651"
+    category: "投资理财"
+    type: "不计收支"
+    method: "余额宝"
+    status: "交易成功"
+    Assets:MMF:Alipay:YuEBao                              0.61 CNY
+    Income:CN:Interest:YuEBao                            -0.61 CNY
+
+
+2026-06-19 * "博时基金管理有限公司" "余额宝-2026.06.18-收益发放"
+    source: "ALiPay"
+    pay_time: "2026-06-19 03:19:22"
+    deal_no: "20260619312071898651"
+    order_id: "20260619312071898651"
+    category: "投资理财"
+    type: "不计收支"
+    method: "余额宝"
+    status: "交易成功"
+    Assets:MMF:Alipay:YuEBao                              0.61 CNY
+    Income:CN:Interest:YuEBao                            -0.61 CNY
+
+

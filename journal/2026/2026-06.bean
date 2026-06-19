@@ -199,6 +199,76 @@
     order_id: "4200003099202606146878202879"
     Expenses:Food:Snacks                              20.97 CNY
     Liabilities:CreditCard:ICBC-8393                 -20.97 CNY
+2026-06-16 * "中国移动" "话费自动充值"
+    source: "ALiPay"
+    pay_time: "2026-06-16 01:25:23"
+    deal_no: "2026061622001492651410514267"
+    order_id: "2026061622001492651410514267"
+    merchant_id: "00952026061601252357957354499704"
+    category: "充值缴费"
+    type: "支出"
+    method: "工商银行信用卡(8393)&工商银行立减金"
+    status: "交易成功"
+    Expenses:Utilities:Phone                             29.89 CNY
+    Liabilities:CreditCard:ICBC-8393                    -29.89 CNY
+
+
+2026-06-19 * "iCloud 由云上贵州运营" "iCloud；06.19购买"
+    source: "ALiPay"
+    pay_time: "2026-06-19 11:06:16"
+    deal_no: "2026061922001492651429966473"
+    order_id: "2026061922001492651429966473"
+    merchant_id: "MQVQZTX0V9a0"
+    category: "文化休闲"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Tech:Subscriptions:ICloud                    6.00 CNY
+    Liabilities:CreditCard:ICBC-8393                     -6.00 CNY
+
+
+2026-06-19 * "si**店" "Sinloy/辛鹿 挂耳咖啡 多风味精品现磨咖啡粉 云南咖啡鲜烘焙20杯"
+    source: "ALiPay"
+    pay_time: "2026-06-19 13:11:53"
+    deal_no: "20260619300000015392651244308684"
+    order_id: "20260619300000015392651244308684"
+    merchant_id: "T200P5120123797983041739"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    Expenses:FIXME                                       32.11 CNY
+    Liabilities:CreditCard:ICBC-8393                    -32.11 CNY
+
+
+2026-06-19 * "修泰**店" "维福佳维生素C片医用补维生素C药片vc片预防坏血病otc维c搭b6正品"
+    source: "ALiPay"
+    pay_time: "2026-06-19 13:11:44"
+    deal_no: "20260619300000015392651243246833"
+    order_id: "20260619300000015392651243246833"
+    merchant_id: "T200P5119601799947005729"
+    category: "医疗健康"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    Expenses:FIXME                                        5.94 CNY
+    Liabilities:CreditCard:ICBC-8393                     -5.94 CNY
+
+
+2026-06-19 * "博音**店" "博音适用ipad苹果macbook屏幕清洁湿巾电脑笔记本清洗剂擦拭布专用液晶显示器平板无酒精棉片神器手机异丙醇"
+    source: "ALiPay"
+    pay_time: "2026-06-19 12:42:12"
+    deal_no: "2026061923001192651434266470"
+    order_id: "2026061923001192651434266470"
+    merchant_id: "T200P5120889589521005729"
+    category: "数码电器"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    Expenses:FIXME                                       22.70 CNY
+    Liabilities:CreditCard:ICBC-8393                    -22.70 CNY
+
+
 2026-06-16 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
     source: "WeChat"
     pay_time: "2026-06-16"
