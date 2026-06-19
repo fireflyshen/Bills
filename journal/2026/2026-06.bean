@@ -239,7 +239,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-     Expenses:Food:Groceries                             32.11 CNY
+    Expenses:Food:Groceries                              32.11 CNY
     Liabilities:CreditCard:ICBC-8393                    -32.11 CNY
 
 
