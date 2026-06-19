@@ -199,3 +199,27 @@
     order_id: "4200003099202606146878202879"
     Expenses:Food:Snacks                              20.97 CNY
     Liabilities:CreditCard:ICBC-8393                 -20.97 CNY
+2026-06-16 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
+    source: "WeChat"
+    pay_time: "2026-06-16"
+    merchant_id: "20260616MMfbakp8"
+    tx_type: "商户消费"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    order_id: "4200003106202606162627315881"
+    Expenses:Food:Snacks                                 15.19 CNY
+    Liabilities:CreditCard:ICBC-8393                    -15.19 CNY
+
+
+2026-06-17 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
+    source: "WeChat"
+    pay_time: "2026-06-17"
+    merchant_id: "20260617MMgot6kt"
+    tx_type: "商户消费"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    order_id: "4200003156202606174021941921"
+    Expenses:Food:Snacks                                 22.10 CNY
+    Liabilities:CreditCard:ICBC-8393                    -22.10 CNY
+
+
