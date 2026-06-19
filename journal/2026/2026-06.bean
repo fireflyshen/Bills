@@ -253,7 +253,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:Health:Supplements ;                         5.94 CNY
+    Expenses:Health:Supplements                           5.94 CNY
     Liabilities:CreditCard:ICBC-8393                     -5.94 CNY
 
 
