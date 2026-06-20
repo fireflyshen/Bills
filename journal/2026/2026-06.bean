@@ -321,3 +321,15 @@
     order_id: "4200003156202606174021941921"
     Expenses:Food:Snacks                              22.10 CNY
     Liabilities:CreditCard:ICBC-8393                 -22.10 CNY
+2026-06-20 * "零食有鸣" "河南省南阳市宛城区建设中路店零售商品"
+    source: "WeChat"
+    pay_time: "2026-06-20"
+    merchant_id: "20260620190214409470868224"
+    tx_type: "商户消费"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    order_id: "4200003163202606205732034265"
+    Expenses:Food:Snacks                                 20.43 CNY
+    Liabilities:CreditCard:ICBC-8393                    -20.43 CNY
+
+
