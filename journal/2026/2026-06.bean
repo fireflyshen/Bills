@@ -271,6 +271,34 @@
     Liabilities:CreditCard:ICBC-8393                    -22.70 CNY
 
 
+2026-06-19 * "中国移动" "话费自动充值"
+    source: "ALiPay"
+    pay_time: "2026-06-19 21:13:17"
+    deal_no: "2026061923001492651436615931"
+    order_id: "2026061923001492651436615931"
+    merchant_id: "00952026061921131675102197699704"
+    category: "充值缴费"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Utilities:Phone                             30.00 CNY
+    Liabilities:CreditCard:ICBC-8393                    -30.00 CNY
+
+
+2026-06-19 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-06-19 21:46:56"
+    deal_no: "2026061923001492651435491325"
+    order_id: "2026061923001492651435491325"
+    merchant_id: "99106600004857000220260619MM7rbem3"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 24.98 CNY
+    Liabilities:CreditCard:ICBC-8393                    -24.98 CNY
+
+
 2026-06-16 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
     source: "WeChat"
     pay_time: "2026-06-16"
