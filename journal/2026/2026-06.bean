@@ -336,3 +336,45 @@
     Liabilities:CreditCard:ICBC-8393                    -20.43 CNY
 
 ;hello2
+2026-06-21 * "ca**店" "开普山谷路易波士茶南非博士茶国宝茶包线叶金雀花茶rooibos tea"
+    source: "ALiPay"
+    pay_time: "2026-06-21 18:31:15"
+    deal_no: "2026062123001192651450269726"
+    order_id: "2026062123001192651450269726"
+    merchant_id: "T200P5121042841925041739"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)&工商银行立减金"
+    status: "支付成功"
+    Expenses:FIXME                                       58.82 CNY
+    Liabilities:CreditCard:ICBC-8393                    -58.82 CNY
+
+
+2026-06-21 * "南阳市万德隆商贸有限责任公司" "南阳市万德隆商贸有限责任公司"
+    source: "ALiPay"
+    pay_time: "2026-06-21 19:37:38"
+    deal_no: "2026062123001492651447801493"
+    order_id: "2026062123001492651447801493"
+    merchant_id: "19126600004802000020260621193737409487881488"
+    category: "日用百货"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Groceries                              17.44 CNY
+    Liabilities:CreditCard:ICBC-8393                    -17.44 CNY
+
+
+2026-06-21 * "吉**" "日本进口小林制药冰箱活性炭除臭除味剂去腥去异味冷藏冷冻室用"
+    source: "ALiPay"
+    pay_time: "2026-06-21 18:16:00"
+    deal_no: "2026062123001192651449945949"
+    order_id: "2026062123001192651449945949"
+    merchant_id: "T200P5120541759278005729"
+    category: "日用百货"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    Expenses:FIXME                                       11.50 CNY
+    Liabilities:CreditCard:ICBC-8393                    -11.50 CNY
+
+
