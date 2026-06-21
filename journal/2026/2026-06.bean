@@ -346,7 +346,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)&焕新折扣"
     status: "等待确认收货"
-    Expenses:Food:Groceries                              55.00 CNY
+    Expenses:Household:General                           55.00 CNY
     Liabilities:CreditCard:ICBC-8393                    -55.00 CNY
 
 
@@ -360,7 +360,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "支付成功"
-    Expenses:FIXME                                       58.82 CNY
+    Expenses:Food:Groceries                              58.82 CNY
     Liabilities:CreditCard:ICBC-8393                    -58.82 CNY
 
 
@@ -402,7 +402,5 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:FIXME                                       11.50 CNY
+    Expenses:Household:General                           11.50 CNY
     Liabilities:CreditCard:ICBC-8393                    -11.50 CNY
-
-
