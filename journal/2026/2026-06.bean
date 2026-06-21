@@ -402,5 +402,5 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:Household:General                            11.50 CNY
+    Expenses:Household:General                           11.50 CNY
     Liabilities:CreditCard:ICBC-8393                    -11.50 CNY
