@@ -2,8 +2,8 @@
   {
     "payee": "Google",
     "narration": "Google One Pro",
-    "expense_account": "Expenses:Tech:Subscriptions:GoogleAI",
-    "asset_account": "Liabilities:CreditCard:ICBC-5788",
+    "expense_account": "Expenses:Technology:AI:Google",
+    "asset_account": "Liabilities:CreditCard:ICBC:5788",
     "amount": "22.10",
     "currency": "USD",
     "day_of_month": 15,
@@ -12,8 +12,8 @@
   {
     "payee": "OpenAI",
     "narration": "ChatGPT CodeX",
-    "expense_account": "Expenses:Tech:Subscriptions:OpenAI",
-    "asset_account": "Assets:Digital:AppleID",
+    "expense_account": "Expenses:Technology:AI:OpenAI",
+    "asset_account": "Assets:StoredValue:Apple:AppleID",
     "amount": "19.99",
     "currency": "USD",
     "day_of_month": 5,
@@ -22,8 +22,8 @@
   {
     "payee": "Apple",
     "narration": "Apple Gift Card",
-    "expense_account": "Assets:Digital:AppleID",
-    "asset_account": "Liabilities:CreditCard:ICBC-5788",
+    "expense_account": "Assets:StoredValue:Apple:AppleID",
+    "asset_account": "Liabilities:CreditCard:ICBC:5788",
     "amount": "20",
     "currency": "USD",
     "day_of_month": 5,

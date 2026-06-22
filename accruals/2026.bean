@@ -1,75 +1,75 @@
 2026-01-01 * "期初录入" "补录历史所欠的四年物业费 (2022-2025)"
-    Liabilities:Reserves:PropertyFee               -6000.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -6000.00 CNY
     Equity:Opening-Balances                         6000.00 CNY
 
 2026-01-01 * "预提费用" "每月计提本年度物业费与保险费"
-    Expenses:Social:Family:PropertyManagement       125.00 CNY
-    Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom            500.00 CNY
-    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
+    Expenses:Family:Housing:PropertyManagement       125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -125.00 CNY
+    Expenses:Family:Insurance:Mom            500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom             -500.00 CNY
 
 2026-02-01 * "预提费用" "每月计提本年度物业费与保险费"
-    Expenses:Social:Family:PropertyManagement       125.00 CNY
-    Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom            500.00 CNY
-    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
+    Expenses:Family:Housing:PropertyManagement       125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -125.00 CNY
+    Expenses:Family:Insurance:Mom            500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom             -500.00 CNY
 
 2026-03-01 * "预提费用" "每月计提本年度物业费与保险费"
-    Expenses:Social:Family:PropertyManagement       125.00 CNY
-    Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom            500.00 CNY
-    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
+    Expenses:Family:Housing:PropertyManagement       125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -125.00 CNY
+    Expenses:Family:Insurance:Mom            500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom             -500.00 CNY
 
 2026-04-01 * "预提费用" "每月计提本年度物业费与保险费"
-    Expenses:Social:Family:PropertyManagement       125.00 CNY
-    Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom            500.00 CNY
-    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
+    Expenses:Family:Housing:PropertyManagement       125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -125.00 CNY
+    Expenses:Family:Insurance:Mom            500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom             -500.00 CNY
 
 2026-05-01 * "预提费用" "每月计提本年度物业费与保险费"
-    Expenses:Social:Family:PropertyManagement       125.00 CNY
-    Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom            500.00 CNY
-    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
+    Expenses:Family:Housing:PropertyManagement       125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -125.00 CNY
+    Expenses:Family:Insurance:Mom            500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom             -500.00 CNY
 
 2026-06-01 * "预提费用" "每月计提本年度物业费与保险费"
-    Expenses:Social:Family:PropertyManagement       125.00 CNY
-    Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom            500.00 CNY
-    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
+    Expenses:Family:Housing:PropertyManagement       125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -125.00 CNY
+    Expenses:Family:Insurance:Mom            500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom             -500.00 CNY
 
 2026-07-01 * "预提费用" "每月计提本年度物业费与保险费"
-    Expenses:Social:Family:PropertyManagement       125.00 CNY
-    Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom            500.00 CNY
-    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
+    Expenses:Family:Housing:PropertyManagement       125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -125.00 CNY
+    Expenses:Family:Insurance:Mom            500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom             -500.00 CNY
 
 2026-08-01 * "预提费用" "每月计提本年度物业费与保险费"
-    Expenses:Social:Family:PropertyManagement       125.00 CNY
-    Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom            500.00 CNY
-    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
+    Expenses:Family:Housing:PropertyManagement       125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -125.00 CNY
+    Expenses:Family:Insurance:Mom            500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom             -500.00 CNY
 
 2026-09-01 * "预提费用" "每月计提本年度物业费与保险费"
-    Expenses:Social:Family:PropertyManagement       125.00 CNY
-    Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom            500.00 CNY
-    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
+    Expenses:Family:Housing:PropertyManagement       125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -125.00 CNY
+    Expenses:Family:Insurance:Mom            500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom             -500.00 CNY
 
 2026-10-01 * "预提费用" "每月计提本年度物业费与保险费"
-    Expenses:Social:Family:PropertyManagement       125.00 CNY
-    Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom            500.00 CNY
-    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
+    Expenses:Family:Housing:PropertyManagement       125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -125.00 CNY
+    Expenses:Family:Insurance:Mom            500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom             -500.00 CNY
 
 2026-11-01 * "预提费用" "每月计提本年度物业费与保险费"
-    Expenses:Social:Family:PropertyManagement       125.00 CNY
-    Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom            500.00 CNY
-    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
+    Expenses:Family:Housing:PropertyManagement       125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -125.00 CNY
+    Expenses:Family:Insurance:Mom            500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom             -500.00 CNY
 
 2026-12-01 * "预提费用" "每月计提本年度物业费与保险费"
-    Expenses:Social:Family:PropertyManagement       125.00 CNY
-    Liabilities:Reserves:PropertyFee               -125.00 CNY
-    Expenses:Social:Family:Insurance:Mom            500.00 CNY
-    Liabilities:Reserves:Insurance:Mom             -500.00 CNY
+    Expenses:Family:Housing:PropertyManagement       125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement               -125.00 CNY
+    Expenses:Family:Insurance:Mom            500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom             -500.00 CNY

@@ -1,35 +1,46 @@
 ; 支出
-2025-11-20 open Expenses:Tech:Software
-2025-11-22 open Expenses:Tech:Subscriptions
-2025-11-22 open Expenses:Tech:Subscriptions:JetBrains:IDE
-2025-11-22 open Expenses:Tech:Subscriptions:AliYun:RDS
-2025-11-22 open Expenses:Tech:Subscriptions:GoogleCloud
-2025-11-22 open Expenses:Tech:Subscriptions:AliYun:VPS
-2025-11-22 open Expenses:Tech:Subscriptions:Proxy
-2025-11-22 open Expenses:Tech:Subscriptions:JetBrains:AI
-2025-11-22 open Expenses:Tech:Subscriptions:Study
-2025-11-22 open Expenses:Tech:Subscriptions:GoogleAI
-2025-11-22 open Expenses:Tech:Subscriptions:OpenAI
-2025-11-22 open Expenses:Tech:Subscriptions:ICloud
-2025-11-22 open Expenses:Tech:Subscriptions:AliYun:Fee
-2025-11-22 open Expenses:Tech:Subscriptions:Other
-2025-11-22 open Expenses:Tech:Subscriptions:Racknerd:VPS
-2025-11-22 open Expenses:Tech:Subscriptions:Domain
-2025-11-26 open Expenses:Health:Supplements ; 保健品
-2025-11-26 open Expenses:Food:Groceries ; 杂货
-2025-12-09 open Expenses:Food:ThreeMeals ; 三餐
-2025-11-26 open Expenses:Personal:Grooming ; 个人仪容
-2025-12-06 open Expenses:Household:General ; 通用
-2025-12-01 open Expenses:Entertainment:Subscriptions ; 娱乐订阅
-2025-12-01 open Expenses:Utilities:Phone:Domestic ; 个人:通讯:话费(国内)
-2025-12-01 open Expenses:Food:Snacks ; 零食/饮料/下午茶
-2025-12-01 open Expenses:Transport:General ; 综合交通费
-2026-01-08 open Expenses:Electronics:Accessories ; 电子配件
-2026-04-19 open Expenses:Life:Logistics ; 快递邮寄/物流费用
-2026-02-06 open Expenses:Life:Services
+; 技术：AI、云服务、开发工具、网络与域名
+2025-11-22 open Expenses:Technology:AI:Google
+2025-11-22 open Expenses:Technology:AI:JetBrains
+2025-11-22 open Expenses:Technology:AI:OpenAI
+2025-11-22 open Expenses:Technology:CloudInfrastructure:AliYun:RDS
+2025-11-22 open Expenses:Technology:CloudInfrastructure:AliYun:ServiceFees
+2025-11-22 open Expenses:Technology:CloudInfrastructure:AliYun:VPS
+2025-11-22 open Expenses:Technology:CloudInfrastructure:GoogleCloud
+2025-11-22 open Expenses:Technology:CloudInfrastructure:Racknerd:VPS
+2025-11-22 open Expenses:Technology:CloudStorage:ICloud
+2025-11-22 open Expenses:Technology:DeveloperTools:JetBrains
+2025-11-22 open Expenses:Technology:Domains
+2025-11-22 open Expenses:Technology:Network:Proxy
+2025-11-22 open Expenses:Technology:Services:Other
+2025-11-20 open Expenses:Technology:Software:Applications
+2025-11-22 open Expenses:Technology:Subscriptions:General
+
+; 教育与娱乐
+2025-11-22 open Expenses:Education:ProfessionalDevelopment
+2025-12-01 open Expenses:Entertainment:Subscriptions:DigitalMedia
+
+; 日常生活
+2025-11-26 open Expenses:Food:Groceries                       ; 杂货
+2025-12-09 open Expenses:Food:Meals                           ; 三餐
+2025-12-01 open Expenses:Food:Snacks                          ; 零食/饮料/下午茶
+2025-11-26 open Expenses:Health:Supplements                   ; 保健品
+2025-12-06 open Expenses:Household:Supplies                   ; 家居/日用品
+2025-11-26 open Expenses:Personal:Care:Haircut                ; 理发/仪容
+2026-01-08 open Expenses:Electronics:Accessories              ; 电子配件
+
+; 通讯、交通与服务
+2025-12-01 open Expenses:Communication:Mobile:Domestic        ; 国内手机费
+2026-05-31 open Expenses:Communication:Mobile:International   ; 境外手机费
+2025-12-01 open Expenses:Transport:Local                      ; 市内交通/出行
+2026-02-07 open Expenses:Services:EquipmentRental:PowerBank
+2026-02-06 open Expenses:Services:General
+2026-03-20 open Expenses:Services:LocalServices
+2026-04-19 open Expenses:Services:Logistics                   ; 快递邮寄/物流
 2026-03-27 open Expenses:Financial:Fees
-2026-05-22 open Expenses:Social:Family:Transfer
-2026-01-01 open Expenses:Social:Family:PropertyManagement
-2026-01-01 open Expenses:Social:Family:Insurance:Mom
-2026-05-30 open Expenses:Social:Family:Electricity
-2026-05-31 open Expenses:Utilities:Phone:International ; 个人:通讯:话费(境外)
+
+; 家庭代付与家庭责任
+2026-05-22 open Expenses:Family:Support:Transfers
+2026-01-01 open Expenses:Family:Housing:PropertyManagement
+2026-01-01 open Expenses:Family:Insurance:Mom
+2026-05-30 open Expenses:Family:Utilities:Electricity

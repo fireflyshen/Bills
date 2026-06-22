@@ -1,8 +1,11 @@
 ; 收入
-2025-11-20 open Income:Investment:Interest                CNY
-2025-11-20 open Income:CN:Interest:YuEBao                 CNY
-2025-11-20 open Income:CN:ICBC:4931                       CNY
-2026-11-20 open Income:Bank:ICBC-Interest                 CNY
-2025-11-20 open Income:Rebates                            USD
-2025-11-20 open Income:Family                             CNY
-2026-04-27 open Income:Salary                             CNY
+; 工资与家庭支持
+2026-04-27 open Income:Employment:Salary                       CNY
+2025-11-20 open Income:Family:Support                          CNY
+
+; 利息与返现
+2025-11-20 open Income:Interest:Investment                     CNY
+2025-11-20 open Income:Interest:Alipay:YuEBao                  CNY
+2025-11-20 open Income:Interest:Bank:ICBC:4931                 CNY
+2026-11-20 open Income:Interest:Bank:ICBC                      CNY
+2025-11-20 open Income:Rebates:CreditCards                     USD

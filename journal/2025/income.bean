@@ -1,71 +1,71 @@
 2025-12-15 * "博时基金管理有限公司" "余额宝-2025.11.20以来历史累计收益"
-    Income:CN:Interest:YuEBao                        -22.35 CNY
-    Assets:MMF:Alipay:YuEBao                          22.35 CNY
+    Income:Interest:Alipay:YuEBao                        -22.35 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                          22.35 CNY
 
 2025-12-16 * "博时基金管理有限公司" "余额宝-2025.12.15-收益发放"
-    Income:CN:Interest:YuEBao                         -0.95 CNY
-    Assets:MMF:Alipay:YuEBao                           0.95 CNY
+    Income:Interest:Alipay:YuEBao                         -0.95 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.95 CNY
 
 2025-12-17 * "博时基金管理有限公司" "余额宝-2025.12.16-收益发放"
-    Income:CN:Interest:YuEBao                         -0.87 CNY
-    Assets:MMF:Alipay:YuEBao                           0.87 CNY
+    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
 
 2025-12-18 * "博时基金管理有限公司" "余额宝-2025.12.17-收益发放"
-    Income:CN:Interest:YuEBao                         -0.91 CNY
-    Assets:MMF:Alipay:YuEBao                           0.91 CNY
+    Income:Interest:Alipay:YuEBao                         -0.91 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.91 CNY
 
 2025-12-19 * "博时基金管理有限公司" "余额宝-2025.12.18-收益发放"
-    Income:CN:Interest:YuEBao                         -0.86 CNY
-    Assets:MMF:Alipay:YuEBao                           0.86 CNY
+    Income:Interest:Alipay:YuEBao                         -0.86 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.86 CNY
 
 2025-12-20 * "博时基金管理有限公司" "余额宝-2025.12.19-收益发放"
-    Income:CN:Interest:YuEBao                         -0.92 CNY
-    Assets:MMF:Alipay:YuEBao                           0.92 CNY
+    Income:Interest:Alipay:YuEBao                         -0.92 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.92 CNY
 
 2025-12-21 * "博时基金管理有限公司" "余额宝-2025.12.20-收益发放"
-    Income:CN:Interest:YuEBao                         -0.88 CNY
-    Assets:MMF:Alipay:YuEBao                           0.88 CNY
+    Income:Interest:Alipay:YuEBao                         -0.88 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.88 CNY
 
 2025-12-21 * "中国工商银行" "利息"
-    Income:CN:ICBC:4931                               -0.05 CNY
-    Assets:DebitCard:ICBC:4931                         0.05 CNY
+    Income:Interest:Bank:ICBC:4931                               -0.05 CNY
+    Assets:Bank:ICBC:Checking:4931                         0.05 CNY
 
 2025-12-22 * "博时基金管理有限公司" "余额宝-2025.12.21-收益发放"
-    Income:CN:Interest:YuEBao                         -0.88 CNY
-    Assets:MMF:Alipay:YuEBao                           0.88 CNY
+    Income:Interest:Alipay:YuEBao                         -0.88 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.88 CNY
 
 2025-12-23 * "博时基金管理有限公司" "余额宝-2025.12.22-收益发放"
-    Income:CN:Interest:YuEBao                         -0.95 CNY
-    Assets:MMF:Alipay:YuEBao                           0.95 CNY
+    Income:Interest:Alipay:YuEBao                         -0.95 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.95 CNY
 
 2025-12-24 * "博时基金管理有限公司" "余额宝-2025.12.23-收益发放"
-    Income:CN:Interest:YuEBao                         -0.88 CNY
-    Assets:MMF:Alipay:YuEBao                           0.88 CNY
+    Income:Interest:Alipay:YuEBao                         -0.88 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.88 CNY
 
 2025-12-25 * "博时基金管理有限公司" "余额宝-2025.12.24-收益发放"
-    Income:CN:Interest:YuEBao                         -0.87 CNY
-    Assets:MMF:Alipay:YuEBao                           0.87 CNY
+    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
 
 2025-12-26 * "博时基金管理有限公司" "余额宝-2025.12.25-收益发放"
-    Income:CN:Interest:YuEBao                         -0.87 CNY
-    Assets:MMF:Alipay:YuEBao                           0.87 CNY
+    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
 
 2025-12-27 * "博时基金管理有限公司" "余额宝-2025.12.26-收益发放"
-    Income:CN:Interest:YuEBao                         -0.89 CNY
-    Assets:MMF:Alipay:YuEBao                           0.89 CNY
+    Income:Interest:Alipay:YuEBao                         -0.89 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.89 CNY
 
 2025-12-28 * "博时基金管理有限公司" "余额宝-2025.12.27-收益发放"
-    Income:CN:Interest:YuEBao                         -0.87 CNY
-    Assets:MMF:Alipay:YuEBao                           0.87 CNY
+    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
 
 2025-12-29 * "博时基金管理有限公司" "余额宝-2025.12.28-收益发放"
-    Income:CN:Interest:YuEBao                         -0.87 CNY
-    Assets:MMF:Alipay:YuEBao                           0.87 CNY
+    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
 
 2025-12-30 * "博时基金管理有限公司" "余额宝-2025.12.29-收益发放"
-    Income:CN:Interest:YuEBao                         -0.95 CNY
-    Assets:MMF:Alipay:YuEBao                           0.95 CNY
+    Income:Interest:Alipay:YuEBao                         -0.95 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.95 CNY
 
 2025-12-31 * "博时基金管理有限公司" "余额宝-2025.12.30-收益发放"
-    Income:CN:Interest:YuEBao                         -0.90 CNY
-    Assets:MMF:Alipay:YuEBao                           0.90 CNY
+    Income:Interest:Alipay:YuEBao                         -0.90 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.90 CNY

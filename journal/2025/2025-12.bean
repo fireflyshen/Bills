@@ -1,92 +1,92 @@
 2025-12-01 * "中国移动" "话费"
-    Expenses:Utilities:Phone:Domestic                 30.00 CNY
-    Liabilities:CreditCard:HuaBei                    -30.00 CNY
+    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Liabilities:ConsumerCredit:Huabei                    -30.00 CNY
 
 2025-12-03 * "南阳市万德隆商贸有限责任公司" "牛奶, 香菇酱"
     Expenses:Food:Groceries                           26.10 CNY
-    Liabilities:CreditCard:HuaBei                    -26.10 CNY
+    Liabilities:ConsumerCredit:Huabei                    -26.10 CNY
 
 2025-12-03 * "淘宝/闲鱼" "Apple Music 家庭组年费"
-    Expenses:Entertainment:Subscriptions              35.00 CNY
-    Liabilities:CreditCard:HuaBei                    -35.00 CNY
+    Expenses:Entertainment:Subscriptions:DigitalMedia              35.00 CNY
+    Liabilities:ConsumerCredit:Huabei                    -35.00 CNY
 
 2025-12-06 * "晨光文具" "笔记本"
-    Expenses:Household:General                         9.85 CNY
-    Liabilities:CreditCard:HuaBei                     -9.85 CNY
+    Expenses:Household:Supplies                         9.85 CNY
+    Liabilities:ConsumerCredit:Huabei                     -9.85 CNY
 
 2025-12-09 * "花呗" "还款"
-    Liabilities:CreditCard:HuaBei                    332.87 CNY
-    Assets:MMF:Alipay:YuEBao                        -332.87 CNY
+    Liabilities:ConsumerCredit:Huabei                    332.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                        -332.87 CNY
 
 2025-12-09 * "Racknerd" "VPS"
-    Expenses:Tech:Subscriptions:Racknerd:VPS                       75.33 CNY
-    Liabilities:CreditCard:HuaBei                    -75.33 CNY
+    Expenses:Technology:CloudInfrastructure:Racknerd:VPS                       75.33 CNY
+    Liabilities:ConsumerCredit:Huabei                    -75.33 CNY
 
 2025-12-09 * "南阳市万德隆商贸有限责任公司" "面包, 意大利面"
     Expenses:Food:Groceries                           16.75 CNY
-    Liabilities:CreditCard:ICBC-8393                 -16.75 CNY
+    Liabilities:CreditCard:ICBC:8393                 -16.75 CNY
 
 2025-12-10 * "AppStore" "Apple礼品卡"
-    Expenses:Tech:Software                            13.00 USD
-    Liabilities:CreditCard:ICBC-5788                 -13.00 USD
+    Expenses:Technology:Software:Applications                            13.00 USD
+    Liabilities:CreditCard:ICBC:5788                 -13.00 USD
 
 2025-12-11 * "中国移动" "话费"
-    Expenses:Utilities:Phone:Domestic                 30.00 CNY
-    Liabilities:CreditCard:HuaBei                    -30.00 CNY
+    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Liabilities:ConsumerCredit:Huabei                    -30.00 CNY
 
 2025-12-14 * "工商银行" "转账提现"
-    Assets:DebitCard:ICBC:4931                       252.21 CNY
-    Assets:MMF:Alipay:YuEBao                        -252.21 CNY
+    Assets:Bank:ICBC:Checking:4931                       252.21 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                        -252.21 CNY
 
 2025-12-14 * "工商银行" "还款"
-    Liabilities:CreditCard:ICBC-5788                  32.99 USD @@ 233.21 CNY
-    Liabilities:CreditCard:ICBC-8393                  19.00 CNY
-    Assets:DebitCard:ICBC:4931                      -252.21 CNY
+    Liabilities:CreditCard:ICBC:5788                  32.99 USD @@ 233.21 CNY
+    Liabilities:CreditCard:ICBC:8393                  19.00 CNY
+    Assets:Bank:ICBC:Checking:4931                      -252.21 CNY
 
 2025-12-14 * "Google" "Google One pro"
-    Expenses:Tech:Subscriptions:GoogleAI                       22.06 USD
-    Liabilities:CreditCard:ICBC-5788                 -22.06 USD
+    Expenses:Technology:AI:Google                       22.06 USD
+    Liabilities:CreditCard:ICBC:5788                 -22.06 USD
 
 2025-12-14 * "NameSilo" "域名 caten.top"
-    Expenses:Tech:Subscriptions:Domain                       13.34 CNY
-    Liabilities:CreditCard:ICBC-8393                 -13.34 CNY
+    Expenses:Technology:Domains                       13.34 CNY
+    Liabilities:CreditCard:ICBC:8393                 -13.34 CNY
 
 2025-12-15 * "CliProxy" "住宅IP"
-    Expenses:Tech:Subscriptions:Proxy                       26.94 CNY
-    Liabilities:CreditCard:ICBC-8393                 -26.94 CNY
+    Expenses:Technology:Network:Proxy                       26.94 CNY
+    Liabilities:CreditCard:ICBC:8393                 -26.94 CNY
 
 2025-12-15 * "南阳市万德隆商贸有限责任公司" "西兰花, 老干妈, 牛奶"
     Expenses:Food:Groceries                           32.56 CNY
-    Liabilities:CreditCard:ICBC-8393                 -32.56 CNY
+    Liabilities:CreditCard:ICBC:8393                 -32.56 CNY
 
 2025-12-19 * "Apple" "iCloud"
-    Expenses:Tech:Subscriptions:ICloud                        6.00 CNY
-    Liabilities:CreditCard:ICBC-8393                  -6.00 CNY
+    Expenses:Technology:CloudStorage:ICloud                        6.00 CNY
+    Liabilities:CreditCard:ICBC:8393                  -6.00 CNY
 
 2025-12-19 * "机场" "vpn"
-    Expenses:Tech:Subscriptions:Proxy                       19.80 CNY
-    Liabilities:CreditCard:ICBC-8393                 -19.80 CNY
+    Expenses:Technology:Network:Proxy                       19.80 CNY
+    Liabilities:CreditCard:ICBC:8393                 -19.80 CNY
 
 2025-12-23 * "机场" "vpn"
-    Expenses:Tech:Subscriptions:Proxy                        8.88 CNY
-    Liabilities:CreditCard:ICBC-8393                  -8.88 CNY
+    Expenses:Technology:Network:Proxy                        8.88 CNY
+    Liabilities:CreditCard:ICBC:8393                  -8.88 CNY
 
 2025-12-23 * "南阳市万德隆商贸有限责任公司" "杂货"
     Expenses:Food:Groceries                           32.87 CNY
-    Liabilities:CreditCard:ICBC-8393                 -32.87 CNY
+    Liabilities:CreditCard:ICBC:8393                 -32.87 CNY
 
 2025-12-24 * "Apple" "Top calendar"
-    Expenses:Tech:Software                            18.00 CNY
-    Liabilities:CreditCard:ICBC-8393                 -18.00 CNY
+    Expenses:Technology:Software:Applications                            18.00 CNY
+    Liabilities:CreditCard:ICBC:8393                 -18.00 CNY
 
 2025-12-25 * "南阳市万德隆商贸有限责任公司" "杂货"
     Expenses:Food:Groceries                           39.30 CNY
-    Liabilities:CreditCard:ICBC-8393                 -39.30 CNY
+    Liabilities:CreditCard:ICBC:8393                 -39.30 CNY
 
 2025-12-27 * "中国移动" "话费"
-   Expenses:Utilities:Phone:Domestic                  30.00 CNY
-    Liabilities:CreditCard:ICBC-8393                 -30.00 CNY
+   Expenses:Communication:Mobile:Domestic                  30.00 CNY
+    Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 2025-12-29 * "南阳市万德隆商贸有限责任公司" "杂货"
     Expenses:Food:Groceries                           29.90 CNY
-    Liabilities:CreditCard:ICBC-8393                 -29.90 CNY
+    Liabilities:CreditCard:ICBC:8393                 -29.90 CNY
