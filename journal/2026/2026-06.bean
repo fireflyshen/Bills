@@ -201,6 +201,11 @@
     Liabilities:CreditCard:ICBC-8393                 -20.97 CNY
 
 
+2026-06-14 * "Google" "Google One Pro"
+    Expenses:Tech:Subscriptions:GoogleAI              22.10 USD
+    Liabilities:CreditCard:ICBC-5788                 -22.10 USD
+
+
 2026-06-16 * "中国移动" "话费自动充值"
     source: "ALiPay"
     pay_time: "2026-06-16 01:25:23"
