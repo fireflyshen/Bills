@@ -1,13 +1,36 @@
-; 负债
-; 信用卡与消费信贷
+; Liabilities
+; Naming rule:
+;   Liabilities:<class>:<institution-or-domain>:<product-or-purpose>[:identifier]
+
+; Revolving credit and consumer credit
 2025-01-01 open Liabilities:ConsumerCredit:Huabei               CNY
+  platform: "Alipay"
+  product: "Huabei"
+
 2025-01-01 open Liabilities:CreditCard:ICBC:8393                CNY
-2025-01-01 open Liabilities:CreditCard:ICBC:5788
+  institution: "ICBC"
+  account_type: "credit_card"
+  last4: "8393"
+
+2025-01-01 open Liabilities:CreditCard:ICBC:5788                USD, GBP
+  institution: "ICBC"
+  account_type: "credit_card"
+  last4: "5788"
+  note: "Multi-currency card used for USD and GBP subscriptions."
+
 2026-03-27 open Liabilities:CreditCard:CNCB:9177                CNY
+  institution: "CNCB"
+  account_type: "credit_card"
+  last4: "9177"
 
-; 预提应付款
+; Accrued payables used to separate expense recognition from cash payment.
 2026-01-01 open Liabilities:AccruedExpenses:Family:PropertyManagement  CNY
-2026-01-01 open Liabilities:AccruedExpenses:Family:Insurance:Mom        CNY
+  domain: "family"
+  recognition: "monthly_accrual"
 
-; 关闭账户
+2026-01-01 open Liabilities:AccruedExpenses:Family:Insurance:Mom        CNY
+  domain: "family"
+  recognition: "monthly_accrual"
+
+; Closed accounts
 2026-02-01 close Liabilities:ConsumerCredit:Huabei

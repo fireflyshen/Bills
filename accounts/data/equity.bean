@@ -1,2 +1,3 @@
-; 权益
+; Equity
+; Keep equity accounts sparse. New balancing buckets should be explicit and rare.
 2025-01-01 open Equity:Opening-Balances

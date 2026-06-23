@@ -1,5 +1,9 @@
-; 支出
-; 技术：AI、云服务、开发工具、网络与域名
+; Expenses
+; Naming rule:
+;   Expenses:<domain>:<category>[:vendor-or-purpose]
+; Keep recurring subscriptions at the most actionable level for budgets.
+
+; Technology: AI, cloud, developer tools, networking and domains
 2025-11-22 open Expenses:Technology:AI:Google
 2025-11-22 open Expenses:Technology:AI:JetBrains
 2025-11-22 open Expenses:Technology:AI:OpenAI
@@ -16,30 +20,30 @@
 2025-11-20 open Expenses:Technology:Software:Applications
 2025-11-22 open Expenses:Technology:Subscriptions:General
 
-; 教育与娱乐
+; Education and entertainment
 2025-11-22 open Expenses:Education:ProfessionalDevelopment
 2025-12-01 open Expenses:Entertainment:Subscriptions:DigitalMedia
 
-; 日常生活
-2025-11-26 open Expenses:Food:Groceries                       ; 杂货
-2025-12-09 open Expenses:Food:Meals                           ; 三餐
-2025-12-01 open Expenses:Food:Snacks                          ; 零食/饮料/下午茶
-2025-11-26 open Expenses:Health:Supplements                   ; 保健品
-2025-12-06 open Expenses:Household:Supplies                   ; 家居/日用品
-2025-11-26 open Expenses:Personal:Care:Haircut                ; 理发/仪容
-2026-01-08 open Expenses:Electronics:Accessories              ; 电子配件
+; Daily living
+2025-11-26 open Expenses:Food:Groceries                       ; groceries, coffee, tea, pantry
+2025-12-09 open Expenses:Food:Meals                           ; meals and takeout
+2025-12-01 open Expenses:Food:Snacks                          ; snacks, drinks, afternoon tea
+2025-11-26 open Expenses:Health:Supplements                   ; supplements and OTC nutrition
+2025-12-06 open Expenses:Household:Supplies                   ; household consumables
+2025-11-26 open Expenses:Personal:Care:Haircut                ; grooming
+2026-01-08 open Expenses:Electronics:Accessories              ; cables, screen protectors, peripherals
 
-; 通讯、交通与服务
-2025-12-01 open Expenses:Communication:Mobile:Domestic        ; 国内手机费
-2026-05-31 open Expenses:Communication:Mobile:International   ; 境外手机费
-2025-12-01 open Expenses:Transport:Local                      ; 市内交通/出行
+; Communication, transport and local services
+2025-12-01 open Expenses:Communication:Mobile:Domestic        ; domestic mobile service
+2026-05-31 open Expenses:Communication:Mobile:International   ; international mobile service
+2025-12-01 open Expenses:Transport:Local                      ; local transport
 2026-02-07 open Expenses:Services:EquipmentRental:PowerBank
 2026-02-06 open Expenses:Services:General
 2026-03-20 open Expenses:Services:LocalServices
-2026-04-19 open Expenses:Services:Logistics                   ; 快递邮寄/物流
+2026-04-19 open Expenses:Services:Logistics                   ; parcel and logistics
 2026-03-27 open Expenses:Financial:Fees
 
-; 家庭代付与家庭责任
+; Family obligations and pass-through support
 2026-05-22 open Expenses:Family:Support:Transfers
 2026-01-01 open Expenses:Family:Housing:PropertyManagement
 2026-01-01 open Expenses:Family:Insurance:Mom

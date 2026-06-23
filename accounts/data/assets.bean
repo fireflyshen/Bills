@@ -1,18 +1,50 @@
-; 资产
-; 银行账户
+; Assets
+; Naming rule:
+;   Assets:<class>:<institution-or-platform>:<product-or-purpose>[:identifier]
+; Bank deposits are cash equivalents and should stay separate from investments.
+
+; Bank deposits
 2025-01-01 open Assets:Bank:ICBC:Checking:4931                  CNY
+  institution: "ICBC"
+  account_type: "checking"
+  last4: "4931"
+
 2025-01-01 open Assets:Bank:ICBC:TimeDeposit                    CNY
+  institution: "ICBC"
+  account_type: "time_deposit"
+
 2025-01-01 open Assets:Bank:CMB:Checking:9231                   CNY
+  institution: "CMB"
+  account_type: "checking"
+  last4: "9231"
+
 2026-03-27 open Assets:Bank:CNCB:Checking:4668                  CNY
+  institution: "CNCB"
+  account_type: "checking"
+  last4: "4668"
 
-; 钱包与预付余额
-2026-03-27 open Assets:Cash:DigitalWallet:Alipay:Balance       CNY
-2026-03-27 open Assets:Cash:DigitalWallet:WeChat:Balance       CNY
-2025-01-01 open Assets:StoredValue:Apple:AppleID               USD
+; Payment wallets and platform balances
+2026-03-27 open Assets:Cash:DigitalWallet:Alipay:Balance        CNY
+  platform: "Alipay"
+  liquidity: "same_day"
 
-; 货币基金
+2026-03-27 open Assets:Cash:DigitalWallet:WeChat:Balance        CNY
+  platform: "WeChat"
+  liquidity: "same_day"
+
+2025-01-01 open Assets:StoredValue:Apple:AppleID                USD
+  platform: "Apple"
+  account_type: "stored_value"
+
+; Investments. Money-market funds are liquid investments, not bank deposits.
 2025-01-01 open Assets:Investments:MoneyMarket:Alipay:YuEBao    CNY
-2025-01-01 open Assets:Investments:MoneyMarket:CMB:ZhaoZhaoBao  CNY
+  platform: "Alipay"
+  product: "YuEBao"
 
-; 应收款
+2025-01-01 open Assets:Investments:MoneyMarket:CMB:ZhaoZhaoBao  CNY
+  institution: "CMB"
+  product: "ZhaoZhaoBao"
+
+; Receivables
 2026-01-03 open Assets:Receivables:Personal:SongJie             CNY
+  counterparty: "SongJie"
