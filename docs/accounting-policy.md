@@ -1,63 +1,52 @@
-# Accounting Policy
+# 账本会计政策
 
-This ledger is optimized for personal finance analysis in Fava while preserving
-plain Beancount compatibility.
+本账本面向个人财务管理与 Fava 分析使用，同时保持标准 Beancount
+兼容性。目标不是把账记得“差不多能看”，而是让账户分类、数据校验和后续扩展都有稳定规则。
 
-## Core Principles
+## 核心原则
 
-- Data correctness comes first: do not rewrite historical amounts or counterparties
-  unless the source record was wrong.
-- Account paths should be stable. Prefer adding a child account over renaming a
-  heavily used existing account.
-- Use account metadata for institution, platform, last four digits, product names
-  and recognition policy. This keeps account names readable while preserving
-  analytical detail.
-- Keep CNY as the base household currency. USD and GBP are operating currencies
-  because they are recurring subscription and card currencies.
+- 数据正确性优先：除非原始记录本身有误，否则不要改历史金额、交易对手和真实发生日期。
+- 账户路径要稳定：已经大量使用的账户不要轻易改名；需要细分时，优先新增下级账户。
+- 分析信息优先写入账户元数据：机构、平台、卡尾号、产品名、确认规则等信息放在 metadata
+  中，避免账户名越变越长。
+- CNY 是家庭/个人主报告货币。USD 和 GBP 因为有长期订阅、礼品卡和信用卡交易，也作为
+  operating currencies 维护。
 
-## Account Naming
+## 账户命名规则
 
-Assets:
+资产账户：
 
-`Assets:<class>:<institution-or-platform>:<product-or-purpose>[:identifier]`
+`Assets:<资产类别>:<机构或平台>:<产品或用途>[:标识符]`
 
-Liabilities:
+负债账户：
 
-`Liabilities:<class>:<institution-or-domain>:<product-or-purpose>[:identifier]`
+`Liabilities:<负债类别>:<机构或领域>:<产品或用途>[:标识符]`
 
-Income:
+收入账户：
 
-`Income:<source-class>:<source-or-platform>[:product-or-identifier]`
+`Income:<收入来源类别>:<来源或平台>[:产品或标识符]`
 
-Expenses:
+支出账户：
 
-`Expenses:<domain>:<category>[:vendor-or-purpose]`
+`Expenses:<支出领域>:<类别>[:商户或用途]`
 
-## Classification Rules
+## 分类规则
 
-- Bank checking and time deposits stay under `Assets:Bank`.
-- Alipay and WeChat spendable balances stay under `Assets:Cash:DigitalWallet`.
-- Platform prepaid balances, such as Apple ID credit, stay under
-  `Assets:StoredValue`.
-- Money-market funds stay under `Assets:Investments:MoneyMarket`, even when they
-  are liquid enough for daily cash management.
-- Credit cards stay under `Liabilities:CreditCard` and should carry institution,
-  account type and last-four metadata.
-- Recognized but unpaid family obligations stay under
-  `Liabilities:AccruedExpenses`. Cash payment should reduce the payable rather
-  than duplicate the monthly expense.
-- Recurring technology services should be classified at the service family level
-  when it helps budgets, for example `Technology:AI`, `CloudInfrastructure`,
-  `CloudStorage`, `DeveloperTools`, `Network` and `Domains`.
+- 银行活期、定期存款放在 `Assets:Bank`。
+- 支付宝、微信等可直接消费余额放在 `Assets:Cash:DigitalWallet`。
+- Apple ID 等平台预付余额放在 `Assets:StoredValue`。
+- 余额宝、朝朝宝等货币基金放在 `Assets:Investments:MoneyMarket`，即使它们流动性很强，也不要和银行存款混在一起。
+- 信用卡放在 `Liabilities:CreditCard`，并记录机构、账户类型、尾号等 metadata。
+- 已确认但尚未实际支付的家庭责任放在 `Liabilities:AccruedExpenses`。实际付款时冲减应付款，不要重复确认费用。
+- 技术类长期订阅按可预算、可分析的服务族分类，例如 `Technology:AI`、`CloudInfrastructure`、
+  `CloudStorage`、`DeveloperTools`、`Network`、`Domains`。
 
-## Extension Checklist
+## 新增账户检查清单
 
-Before adding a new account:
+新增账户前先确认：
 
-1. Check whether an existing child account already represents the same economic
-   substance.
-2. Add the narrowest useful account path.
-3. Add metadata for institution or platform, product, last four digits and any
-   recognition policy.
-4. Use an opening date no later than the first transaction date.
-5. Run `make validate` and keep the ledger at zero structural errors.
+1. 是否已有账户表达同一经济实质。
+2. 新账户路径是否足够具体，但没有过度细碎。
+3. 是否补充了机构、平台、产品、尾号、确认规则等必要 metadata。
+4. 开账日期是否不晚于该账户第一笔交易日期。
+5. 运行 `make validate`，并保持账本结构错误为 0。
