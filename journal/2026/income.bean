@@ -1,42 +1,42 @@
 2026-01-01 * "博时基金管理有限公司" "余额宝-2025.12.31-收益发放"
-    Income:Interest:Alipay:YuEBao                         -0.93 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.93 CNY
+    Income:Interest:Alipay:YuEBao                     -0.93 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.93 CNY
 
 2026-01-02 * "博时基金管理有限公司" "余额宝-2026.01.01-收益发放"
-    Income:Interest:Alipay:YuEBao                         -0.84 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.84 CNY
+    Income:Interest:Alipay:YuEBao                     -0.84 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.84 CNY
 
 2026-01-03 * "博时基金管理有限公司" "余额宝-2026.01.02-收益发放"
-    Income:Interest:Alipay:YuEBao                         -0.84 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.84 CNY
+    Income:Interest:Alipay:YuEBao                     -0.84 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.84 CNY
 
 2026-01-04 * "博时基金管理有限公司" "余额宝-2026.01.03-收益发放"
-    Income:Interest:Alipay:YuEBao                         -0.84 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.84 CNY
+    Income:Interest:Alipay:YuEBao                     -0.84 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.84 CNY
 
 2026-01-05 * "博时基金管理有限公司" "余额宝-2026.01.04-收益发放"
-    Income:Interest:Alipay:YuEBao                         -0.84 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.84 CNY
+    Income:Interest:Alipay:YuEBao                     -0.84 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.84 CNY
 
 2026-01-06 * "花呗" "花呗主动还款-2026年01月账单"
-    Liabilities:ConsumerCredit:Huabei                    206.28 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                        -206.28 CNY
+    Liabilities:ConsumerCredit:Huabei                206.28 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao    -206.28 CNY
 
 2026-01-06 * "博时基金管理有限公司" "余额宝-2026.01.05-收益发放"
-    Income:Interest:Alipay:YuEBao                         -0.91 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.91 CNY
+    Income:Interest:Alipay:YuEBao                     -0.91 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.91 CNY
 
 2026-01-07 * "博时基金管理有限公司" "余额宝-2026.01.06-收益发放"
-    Income:Interest:Alipay:YuEBao                         -0.91 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.91 CNY
+    Income:Interest:Alipay:YuEBao                     -0.91 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.91 CNY
 
 2026-01-08 * "博时基金管理有限公司" "余额宝-2026.01.07-收益发放"
-    Income:Interest:Alipay:YuEBao                         -0.90 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.90 CNY
+    Income:Interest:Alipay:YuEBao                     -0.90 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.90 CNY
 
 2026-01-09 * "博时基金管理有限公司" "余额宝-2026.01.08-收益发放"
-    Income:Interest:Alipay:YuEBao                         -0.85 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.85 CNY
+    Income:Interest:Alipay:YuEBao                     -0.85 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.85 CNY
 
 2026-01-10 * "博时基金管理有限公司" "余额宝-2026.01.09-收益发放"
     source: "ALiPay"
@@ -47,8 +47,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260110302664383651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.84 CNY
-    Income:Interest:Alipay:YuEBao                         -0.84 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.84 CNY
+    Income:Interest:Alipay:YuEBao                     -0.84 CNY
 
 2026-01-11 * "博时基金管理有限公司" "余额宝-2026.01.10-收益发放"
     source: "ALiPay"
@@ -59,8 +59,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260111309562038651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.84 CNY
-    Income:Interest:Alipay:YuEBao                         -0.84 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.84 CNY
+    Income:Interest:Alipay:YuEBao                     -0.84 CNY
 
 2026-01-12 * "博时基金管理有限公司" "余额宝-2026.01.11-收益发放"
     source: "ALiPay"
@@ -71,8 +71,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260112319548790651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.84 CNY
-    Income:Interest:Alipay:YuEBao                         -0.84 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.84 CNY
+    Income:Interest:Alipay:YuEBao                     -0.84 CNY
 
 2026-01-13 * "博时基金管理有限公司" "余额宝-2026.01.12-收益发放"
     source: "ALiPay"
@@ -83,8 +83,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260113321316073651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.90 CNY
-    Income:Interest:Alipay:YuEBao                         -0.90 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.90 CNY
+    Income:Interest:Alipay:YuEBao                     -0.90 CNY
 
 2026-01-14 * "博时基金管理有限公司" "余额宝-2026.01.13-收益发放"
     source: "ALiPay"
@@ -95,8 +95,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260114327780784651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
-    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.87 CNY
+    Income:Interest:Alipay:YuEBao                     -0.87 CNY
 
 2026-01-15 * "博时基金管理有限公司" "余额宝-2026.01.14-收益发放"
     source: "ALiPay"
@@ -107,8 +107,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260115338075270651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.88 CNY
-    Income:Interest:Alipay:YuEBao                         -0.88 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.88 CNY
+    Income:Interest:Alipay:YuEBao                     -0.88 CNY
 
 2026-01-16 * "博时基金管理有限公司" "余额宝-2026.01.15-收益发放"
     source: "ALiPay"
@@ -119,8 +119,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260116340243108651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.85 CNY
-    Income:Interest:Alipay:YuEBao                         -0.85 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.85 CNY
+    Income:Interest:Alipay:YuEBao                     -0.85 CNY
 
 2026-01-17 * "博时基金管理有限公司" "余额宝-2026.01.16-收益发放"
     source: "ALiPay"
@@ -131,8 +131,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260117350618276651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 2026-01-18 * "博时基金管理有限公司" "余额宝-2026.01.17-收益发放"
     source: "ALiPay"
@@ -143,8 +143,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260118352550203651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 2026-01-19 * "博时基金管理有限公司" "余额宝-2026.01.18-收益发放"
     source: "ALiPay"
@@ -155,8 +155,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260119362609523651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 2026-01-20 * "博时基金管理有限公司" "余额宝-2026.01.19-收益发放"
     source: "ALiPay"
@@ -167,8 +167,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260120368729141651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.88 CNY
-    Income:Interest:Alipay:YuEBao                         -0.88 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.88 CNY
+    Income:Interest:Alipay:YuEBao                     -0.88 CNY
 
 2026-01-21 * "博时基金管理有限公司" "余额宝-2026.01.20-收益发放"
     source: "ALiPay"
@@ -179,8 +179,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260121370334404651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.85 CNY
-    Income:Interest:Alipay:YuEBao                         -0.85 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.85 CNY
+    Income:Interest:Alipay:YuEBao                     -0.85 CNY
 
 2026-01-22 * "博时基金管理有限公司" "余额宝-2026.01.21-收益发放"
     source: "ALiPay"
@@ -191,8 +191,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260122383912225651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.86 CNY
-    Income:Interest:Alipay:YuEBao                         -0.86 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.86 CNY
+    Income:Interest:Alipay:YuEBao                     -0.86 CNY
 
 2026-01-23 * "博时基金管理有限公司" "余额宝-2026.01.22-收益发放"
     source: "ALiPay"
@@ -203,8 +203,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260123391313091651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
-    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.87 CNY
+    Income:Interest:Alipay:YuEBao                     -0.87 CNY
 
 2026-01-24 * "博时基金管理有限公司" "余额宝-2026.01.23-收益发放"
     source: "ALiPay"
@@ -215,8 +215,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260124392849244651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.85 CNY
-    Income:Interest:Alipay:YuEBao                         -0.85 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.85 CNY
+    Income:Interest:Alipay:YuEBao                     -0.85 CNY
 
 2026-01-25 * "博时基金管理有限公司" "余额宝-2026.01.24-收益发放"
     source: "ALiPay"
@@ -227,8 +227,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260125303776213651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 2026-01-26 * "博时基金管理有限公司" "余额宝-2026.01.25-收益发放"
     source: "ALiPay"
@@ -239,8 +239,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260126304306848651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 2026-01-27 * "博时基金管理有限公司" "余额宝-2026.01.26-收益发放"
     source: "ALiPay"
@@ -251,8 +251,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260127312566817651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.86 CNY
-    Income:Interest:Alipay:YuEBao                         -0.86 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.86 CNY
+    Income:Interest:Alipay:YuEBao                     -0.86 CNY
 
 2026-01-28 * "博时基金管理有限公司" "余额宝-2026.01.27-收益发放"
     source: "ALiPay"
@@ -263,8 +263,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260128316815760651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.84 CNY
-    Income:Interest:Alipay:YuEBao                         -0.84 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.84 CNY
+    Income:Interest:Alipay:YuEBao                     -0.84 CNY
 
 2026-01-29 * "博时基金管理有限公司" "余额宝-2026.01.28-收益发放"
     source: "ALiPay"
@@ -275,8 +275,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260129324609155651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.86 CNY
-    Income:Interest:Alipay:YuEBao                         -0.86 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.86 CNY
+    Income:Interest:Alipay:YuEBao                     -0.86 CNY
 
 2026-01-30 * "博时基金管理有限公司" "余额宝-2026.01.29-收益发放"
     source: "ALiPay"
@@ -287,8 +287,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260130336137937651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.88 CNY
-    Income:Interest:Alipay:YuEBao                         -0.88 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.88 CNY
+    Income:Interest:Alipay:YuEBao                     -0.88 CNY
 
 2026-01-31 * "博时基金管理有限公司" "余额宝-2026.01.30-收益发放"
     source: "ALiPay"
@@ -299,8 +299,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260131337637885651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.86 CNY
-    Income:Interest:Alipay:YuEBao                         -0.86 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.86 CNY
+    Income:Interest:Alipay:YuEBao                     -0.86 CNY
 
 
 2026-02-01 * "博时基金管理有限公司" "余额宝-2026.01.31-收益发放"
@@ -313,8 +313,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260201346568343651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.81 CNY
-    Income:Interest:Alipay:YuEBao                         -0.81 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.81 CNY
+    Income:Interest:Alipay:YuEBao                     -0.81 CNY
 
 
 2026-02-02 * "博时基金管理有限公司" "余额宝-2026.02.01-收益发放"
@@ -327,8 +327,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260202355199169651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 
 2026-02-03 * "博时基金管理有限公司" "余额宝-2026.02.02-收益发放"
@@ -341,8 +341,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260203356660675651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.88 CNY
-    Income:Interest:Alipay:YuEBao                         -0.88 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.88 CNY
+    Income:Interest:Alipay:YuEBao                     -0.88 CNY
 
 
 2026-02-04 * "博时基金管理有限公司" "余额宝-2026.02.03-收益发放"
@@ -355,8 +355,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260204368315678651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.88 CNY
-    Income:Interest:Alipay:YuEBao                         -0.88 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.88 CNY
+    Income:Interest:Alipay:YuEBao                     -0.88 CNY
 
 
 2026-02-05 * "博时基金管理有限公司" "余额宝-2026.02.04-收益发放"
@@ -369,8 +369,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260205374484402651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.84 CNY
-    Income:Interest:Alipay:YuEBao                         -0.84 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.84 CNY
+    Income:Interest:Alipay:YuEBao                     -0.84 CNY
 
 
 2026-02-06 * "博时基金管理有限公司" "余额宝-2026.02.05-收益发放"
@@ -383,8 +383,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260206378291847651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.85 CNY
-    Income:Interest:Alipay:YuEBao                         -0.85 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.85 CNY
+    Income:Interest:Alipay:YuEBao                     -0.85 CNY
 
 
 2026-02-07 * "博时基金管理有限公司" "余额宝-2026.02.06-收益发放"
@@ -397,8 +397,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260207387706747651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
-    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.87 CNY
+    Income:Interest:Alipay:YuEBao                     -0.87 CNY
 
 
 2026-02-08 * "博时基金管理有限公司" "余额宝-2026.02.07-收益发放"
@@ -411,8 +411,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260208389769847651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 
 2026-02-09 * "博时基金管理有限公司" "余额宝-2026.02.08-收益发放"
@@ -425,8 +425,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260209395866050651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 
 2026-02-10 * "博时基金管理有限公司" "余额宝-2026.02.09-收益发放"
@@ -439,8 +439,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260210306943023651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
-    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.87 CNY
+    Income:Interest:Alipay:YuEBao                     -0.87 CNY
 
 
 2026-02-11 * "博时基金管理有限公司" "余额宝-2026.02.10-收益发放"
@@ -453,8 +453,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260211308016125651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
-    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.87 CNY
+    Income:Interest:Alipay:YuEBao                     -0.87 CNY
 
 
 2026-02-12 * "博时基金管理有限公司" "余额宝-2026.02.11-收益发放"
@@ -467,8 +467,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260212319482135651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.86 CNY
-    Income:Interest:Alipay:YuEBao                         -0.86 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.86 CNY
+    Income:Interest:Alipay:YuEBao                     -0.86 CNY
 
 
 2026-02-13 * "博时基金管理有限公司" "余额宝-2026.02.12-收益发放"
@@ -481,8 +481,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260213325841069651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
-    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.87 CNY
+    Income:Interest:Alipay:YuEBao                     -0.87 CNY
 
 
 2026-02-14 * "博时基金管理有限公司" "余额宝-2026.02.13-收益发放"
@@ -495,8 +495,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260214327449366651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           1.22 CNY
-    Income:Interest:Alipay:YuEBao                         -1.22 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       1.22 CNY
+    Income:Interest:Alipay:YuEBao                     -1.22 CNY
 
 
 2026-02-15 * "博时基金管理有限公司" "余额宝-2026.02.14-收益发放"
@@ -509,8 +509,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260215337895879651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.84 CNY
-    Income:Interest:Alipay:YuEBao                         -0.84 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.84 CNY
+    Income:Interest:Alipay:YuEBao                     -0.84 CNY
 
 
 2026-02-16 * "博时基金管理有限公司" "余额宝-2026.02.15-收益发放"
@@ -523,8 +523,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260216343588637651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 
 2026-02-17 * "博时基金管理有限公司" "余额宝-2026.02.16-收益发放"
@@ -537,8 +537,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260217347010809651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 
 2026-02-18 * "博时基金管理有限公司" "余额宝-2026.02.17-收益发放"
@@ -551,8 +551,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260218350823632651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 
 2026-02-19 * "博时基金管理有限公司" "余额宝-2026.02.18-收益发放"
@@ -565,8 +565,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260219360107125651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 
 2026-02-20 * "博时基金管理有限公司" "余额宝-2026.02.19-收益发放"
@@ -579,8 +579,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260220366271444651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 
 2026-02-21 * "博时基金管理有限公司" "余额宝-2026.02.20-收益发放"
@@ -593,8 +593,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260221367613015651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 
 2026-02-22 * "博时基金管理有限公司" "余额宝-2026.02.21-收益发放"
@@ -607,8 +607,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260222376733101651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 
 2026-02-23 * "博时基金管理有限公司" "余额宝-2026.02.22-收益发放"
@@ -621,8 +621,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260223379140328651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 
 2026-02-24 * "博时基金管理有限公司" "余额宝-2026.02.23-收益发放"
@@ -635,8 +635,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260224387807863651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 
 2026-02-25 * "博时基金管理有限公司" "余额宝-2026.02.24-收益发放"
@@ -649,8 +649,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260225388813568651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
-    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.87 CNY
+    Income:Interest:Alipay:YuEBao                     -0.87 CNY
 
 
 2026-02-26 * "博时基金管理有限公司" "余额宝-2026.02.25-收益发放"
@@ -663,8 +663,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260226399995680651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 
 2026-02-27 * "博时基金管理有限公司" "余额宝-2026.02.26-收益发放"
@@ -677,8 +677,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260227301848849651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.84 CNY
-    Income:Interest:Alipay:YuEBao                         -0.84 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.84 CNY
+    Income:Interest:Alipay:YuEBao                     -0.84 CNY
 
 
 2026-02-28 * "博时基金管理有限公司" "余额宝-2026.02.27-收益发放"
@@ -691,8 +691,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260228312258984651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
-    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.87 CNY
+    Income:Interest:Alipay:YuEBao                     -0.87 CNY
 
 
 2026-03-01 * "博时基金管理有限公司" "余额宝-2026.02.28-收益发放"
@@ -705,8 +705,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260301313825048651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 
 2026-03-02 * "博时基金管理有限公司" "余额宝-2026.03.01-收益发放"
@@ -719,8 +719,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260302324630887651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 
 2026-03-03 * "博时基金管理有限公司" "余额宝-2026.03.02-收益发放"
@@ -733,8 +733,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260303330663676651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 
 2026-03-04 * "博时基金管理有限公司" "余额宝-2026.03.03-收益发放"
@@ -747,8 +747,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260304336871951651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.86 CNY
-    Income:Interest:Alipay:YuEBao                         -0.86 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.86 CNY
+    Income:Interest:Alipay:YuEBao                     -0.86 CNY
 
 
 2026-03-05 * "博时基金管理有限公司" "余额宝-2026.03.04-收益发放"
@@ -761,8 +761,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260305343400095651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.83 CNY
-    Income:Interest:Alipay:YuEBao                         -0.83 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.83 CNY
+    Income:Interest:Alipay:YuEBao                     -0.83 CNY
 
 
 2026-03-06 * "博时基金管理有限公司" "余额宝-2026.03.05-收益发放"
@@ -775,8 +775,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260306349406286651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.87 CNY
-    Income:Interest:Alipay:YuEBao                         -0.87 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.87 CNY
+    Income:Interest:Alipay:YuEBao                     -0.87 CNY
 
 
 2026-03-07 * "博时基金管理有限公司" "余额宝-2026.03.06-收益发放"
@@ -789,8 +789,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260307355697073651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.86 CNY
-    Income:Interest:Alipay:YuEBao                         -0.86 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.86 CNY
+    Income:Interest:Alipay:YuEBao                     -0.86 CNY
 
 
 
@@ -804,8 +804,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260308360470893651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 
 2026-03-09 * "博时基金管理有限公司" "余额宝-2026.03.08-收益发放"
@@ -818,8 +818,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260309362325145651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 
 2026-03-10 * "博时基金管理有限公司" "余额宝-2026.03.09-收益发放"
@@ -832,8 +832,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260310373240060651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 
 2026-03-11 * "博时基金管理有限公司" "余额宝-2026.03.10-收益发放"
@@ -846,8 +846,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260311378476613651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.76 CNY
-    Income:Interest:Alipay:YuEBao                         -0.76 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.76 CNY
+    Income:Interest:Alipay:YuEBao                     -0.76 CNY
 
 
 2026-03-12 * "博时基金管理有限公司" "余额宝-2026.03.11-收益发放"
@@ -860,8 +860,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260312384424079651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.76 CNY
-    Income:Interest:Alipay:YuEBao                         -0.76 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.76 CNY
+    Income:Interest:Alipay:YuEBao                     -0.76 CNY
 
 
 2026-03-13 * "博时基金管理有限公司" "余额宝-2026.03.12-收益发放"
@@ -874,8 +874,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260313391134319651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.81 CNY
-    Income:Interest:Alipay:YuEBao                         -0.81 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.81 CNY
+    Income:Interest:Alipay:YuEBao                     -0.81 CNY
 
 
 2026-03-14 * "博时基金管理有限公司" "余额宝-2026.03.13-收益发放"
@@ -888,8 +888,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260314396807864651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.85 CNY
-    Income:Interest:Alipay:YuEBao                         -0.85 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.85 CNY
+    Income:Interest:Alipay:YuEBao                     -0.85 CNY
 
 
 2026-03-15 * "博时基金管理有限公司" "余额宝-2026.03.14-收益发放"
@@ -902,8 +902,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260315302837639651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.74 CNY
-    Income:Interest:Alipay:YuEBao                         -0.74 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.74 CNY
+    Income:Interest:Alipay:YuEBao                     -0.74 CNY
 
 
 2026-03-16 * "博时基金管理有限公司" "余额宝-2026.03.15-收益发放"
@@ -916,8 +916,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260316308752155651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.72 CNY
-    Income:Interest:Alipay:YuEBao                         -0.72 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.72 CNY
+    Income:Interest:Alipay:YuEBao                     -0.72 CNY
 
 
 2026-03-17 * "博时基金管理有限公司" "余额宝-2026.03.16-收益发放"
@@ -930,8 +930,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260317314360441651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.76 CNY
-    Income:Interest:Alipay:YuEBao                         -0.76 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.76 CNY
+    Income:Interest:Alipay:YuEBao                     -0.76 CNY
 
 
 2026-03-18 * "博时基金管理有限公司" "余额宝-2026.03.17-收益发放"
@@ -944,8 +944,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260318318463512651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.75 CNY
-    Income:Interest:Alipay:YuEBao                         -0.75 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.75 CNY
+    Income:Interest:Alipay:YuEBao                     -0.75 CNY
 
 
 2026-03-19 * "博时基金管理有限公司" "余额宝-2026.03.18-收益发放"
@@ -958,8 +958,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260319325815435651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.75 CNY
-    Income:Interest:Alipay:YuEBao                         -0.75 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.75 CNY
+    Income:Interest:Alipay:YuEBao                     -0.75 CNY
 
 
 2026-03-20 * "博时基金管理有限公司" "余额宝-2026.03.19-收益发放"
@@ -972,8 +972,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260320335972812651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.76 CNY
-    Income:Interest:Alipay:YuEBao                         -0.76 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.76 CNY
+    Income:Interest:Alipay:YuEBao                     -0.76 CNY
 
 
 2026-03-21 * "博时基金管理有限公司" "余额宝-2026.03.20-收益发放"
@@ -986,8 +986,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260321342506354651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.80 CNY
-    Income:Interest:Alipay:YuEBao                         -0.80 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.80 CNY
+    Income:Interest:Alipay:YuEBao                     -0.80 CNY
 
 
 2026-03-22 * "博时基金管理有限公司" "余额宝-2026.03.21-收益发放"
@@ -1000,8 +1000,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260322349033680651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.73 CNY
-    Income:Interest:Alipay:YuEBao                         -0.73 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.73 CNY
+    Income:Interest:Alipay:YuEBao                     -0.73 CNY
 
 
 
@@ -1015,8 +1015,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260323354738813651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.73 CNY
-    Income:Interest:Alipay:YuEBao                         -0.73 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.73 CNY
+    Income:Interest:Alipay:YuEBao                     -0.73 CNY
 
 
 2026-03-24 * "博时基金管理有限公司" "余额宝-2026.03.23-收益发放"
@@ -1029,8 +1029,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260324360437809651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.74 CNY
-    Income:Interest:Alipay:YuEBao                         -0.74 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.74 CNY
+    Income:Interest:Alipay:YuEBao                     -0.74 CNY
 
 
 2026-03-25 * "博时基金管理有限公司" "余额宝-2026.03.24-收益发放"
@@ -1043,8 +1043,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260325370715048651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.75 CNY
-    Income:Interest:Alipay:YuEBao                         -0.75 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.75 CNY
+    Income:Interest:Alipay:YuEBao                     -0.75 CNY
 
 
 2026-03-26 * "博时基金管理有限公司" "余额宝-2026.03.25-收益发放"
@@ -1057,8 +1057,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260326376665482651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.78 CNY
-    Income:Interest:Alipay:YuEBao                         -0.78 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.78 CNY
+    Income:Interest:Alipay:YuEBao                     -0.78 CNY
 
 
 2026-03-27 * "博时基金管理有限公司" "余额宝-2026.03.26-收益发放"
@@ -1071,8 +1071,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260327382644189651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.80 CNY
-    Income:Interest:Alipay:YuEBao                         -0.80 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.80 CNY
+    Income:Interest:Alipay:YuEBao                     -0.80 CNY
 
 
 2026-03-28 * "博时基金管理有限公司" "余额宝-2026.03.27-收益发放"
@@ -1085,8 +1085,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260328389203394651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.79 CNY
-    Income:Interest:Alipay:YuEBao                         -0.79 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.79 CNY
+    Income:Interest:Alipay:YuEBao                     -0.79 CNY
 
 
 2026-03-29 * "博时基金管理有限公司" "余额宝-2026.03.28-收益发放"
@@ -1098,8 +1098,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260329393912148651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.73 CNY
-    Income:Interest:Alipay:YuEBao                         -0.73 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.73 CNY
+    Income:Interest:Alipay:YuEBao                     -0.73 CNY
 
 
 2026-03-30 * "博时基金管理有限公司" "余额宝-2026.03.29-收益发放"
@@ -1111,8 +1111,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260330300932905651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.73 CNY
-    Income:Interest:Alipay:YuEBao                         -0.73 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.73 CNY
+    Income:Interest:Alipay:YuEBao                     -0.73 CNY
 
 
 2026-03-31 * "博时基金管理有限公司" "余额宝-2026.03.30-收益发放"
@@ -1124,8 +1124,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260331306458892651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.74 CNY
-    Income:Interest:Alipay:YuEBao                         -0.74 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.74 CNY
+    Income:Interest:Alipay:YuEBao                     -0.74 CNY
 
 
 2026-04-01 * "博时基金管理有限公司" "余额宝-2026.03.31-收益发放"
@@ -1137,8 +1137,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260401311565272651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.74 CNY
-    Income:Interest:Alipay:YuEBao                         -0.74 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.74 CNY
+    Income:Interest:Alipay:YuEBao                     -0.74 CNY
 
 
 2026-04-02 * "博时基金管理有限公司" "余额宝-2026.04.01-收益发放"
@@ -1150,8 +1150,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260402318667600651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.72 CNY
-    Income:Interest:Alipay:YuEBao                         -0.72 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.72 CNY
+    Income:Interest:Alipay:YuEBao                     -0.72 CNY
 
 
 2026-04-03 * "博时基金管理有限公司" "余额宝-2026.04.02-收益发放"
@@ -1163,8 +1163,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260403329397739651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.81 CNY
-    Income:Interest:Alipay:YuEBao                         -0.81 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.81 CNY
+    Income:Interest:Alipay:YuEBao                     -0.81 CNY
 
 
 2026-04-04 * "博时基金管理有限公司" "余额宝-2026.04.03-收益发放"
@@ -1176,8 +1176,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260404335096050651"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.86 CNY
-    Income:Interest:Alipay:YuEBao                         -0.86 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.86 CNY
+    Income:Interest:Alipay:YuEBao                     -0.86 CNY
 
 
 2026-04-05 * "博时基金管理有限公司" "余额宝-2026.04.04-收益发放"
@@ -1189,8 +1189,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.71 CNY
-    Income:Interest:Alipay:YuEBao                         -0.71 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.71 CNY
+    Income:Interest:Alipay:YuEBao                     -0.71 CNY
 
 
 2026-04-06 * "博时基金管理有限公司" "余额宝-2026.04.05-收益发放"
@@ -1202,8 +1202,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.71 CNY
-    Income:Interest:Alipay:YuEBao                         -0.71 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.71 CNY
+    Income:Interest:Alipay:YuEBao                     -0.71 CNY
 
 
 2026-04-07 * "博时基金管理有限公司" "余额宝-2026.04.06-收益发放"
@@ -1215,8 +1215,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.71 CNY
-    Income:Interest:Alipay:YuEBao                         -0.71 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.71 CNY
+    Income:Interest:Alipay:YuEBao                     -0.71 CNY
 
 
 2026-04-08 * "博时基金管理有限公司" "余额宝-2026.04.07-收益发放"
@@ -1228,8 +1228,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.76 CNY
-    Income:Interest:Alipay:YuEBao                         -0.76 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.76 CNY
+    Income:Interest:Alipay:YuEBao                     -0.76 CNY
 
 
 2026-04-09 * "博时基金管理有限公司" "余额宝-2026.04.08-收益发放"
@@ -1241,8 +1241,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.82 CNY
-    Income:Interest:Alipay:YuEBao                         -0.82 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.82 CNY
+    Income:Interest:Alipay:YuEBao                     -0.82 CNY
 
 
 2026-04-10 * "博时基金管理有限公司" "余额宝-2026.04.09-收益发放"
@@ -1254,8 +1254,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.78 CNY
-    Income:Interest:Alipay:YuEBao                         -0.78 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.78 CNY
+    Income:Interest:Alipay:YuEBao                     -0.78 CNY
 
 
 2026-04-11 * "博时基金管理有限公司" "余额宝-2026.04.10-收益发放"
@@ -1267,8 +1267,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.73 CNY
-    Income:Interest:Alipay:YuEBao                         -0.73 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.73 CNY
+    Income:Interest:Alipay:YuEBao                     -0.73 CNY
 
 
 2026-04-12 * "博时基金管理有限公司" "余额宝-2026.04.11-收益发放"
@@ -1280,8 +1280,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.71 CNY
-    Income:Interest:Alipay:YuEBao                         -0.71 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.71 CNY
+    Income:Interest:Alipay:YuEBao                     -0.71 CNY
 
 
 2026-04-13 * "博时基金管理有限公司" "余额宝-2026.04.12-收益发放"
@@ -1293,8 +1293,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.71 CNY
-    Income:Interest:Alipay:YuEBao                         -0.71 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.71 CNY
+    Income:Interest:Alipay:YuEBao                     -0.71 CNY
 
 
 2026-04-14 * "博时基金管理有限公司" "余额宝-2026.04.13-收益发放"
@@ -1306,8 +1306,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.71 CNY
-    Income:Interest:Alipay:YuEBao                         -0.71 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.71 CNY
+    Income:Interest:Alipay:YuEBao                     -0.71 CNY
 
 
 2026-04-15 * "博时基金管理有限公司" "余额宝-2026.04.14-收益发放"
@@ -1319,8 +1319,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.70 CNY
-    Income:Interest:Alipay:YuEBao                         -0.70 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.70 CNY
+    Income:Interest:Alipay:YuEBao                     -0.70 CNY
 
 
 2026-04-16 * "博时基金管理有限公司" "余额宝-2026.04.15-收益发放"
@@ -1332,8 +1332,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.70 CNY
-    Income:Interest:Alipay:YuEBao                         -0.70 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.70 CNY
+    Income:Interest:Alipay:YuEBao                     -0.70 CNY
 
 
 2026-04-17 * "博时基金管理有限公司" "余额宝-2026.04.16-收益发放"
@@ -1345,8 +1345,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.71 CNY
-    Income:Interest:Alipay:YuEBao                         -0.71 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.71 CNY
+    Income:Interest:Alipay:YuEBao                     -0.71 CNY
 
 
 2026-04-18 * "博时基金管理有限公司" "余额宝-2026.04.17-收益发放"
@@ -1358,8 +1358,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.69 CNY
-    Income:Interest:Alipay:YuEBao                         -0.69 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.69 CNY
+    Income:Interest:Alipay:YuEBao                     -0.69 CNY
 
 
 2026-04-19 * "博时基金管理有限公司" "余额宝-2026.04.18-收益发放"
@@ -1371,8 +1371,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.69 CNY
-    Income:Interest:Alipay:YuEBao                         -0.69 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.69 CNY
+    Income:Interest:Alipay:YuEBao                     -0.69 CNY
 
 
 2026-04-20 * "博时基金管理有限公司" "余额宝-2026.04.19-收益发放"
@@ -1384,8 +1384,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.69 CNY
-    Income:Interest:Alipay:YuEBao                         -0.69 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.69 CNY
+    Income:Interest:Alipay:YuEBao                     -0.69 CNY
 
 
 2026-04-21 * "博时基金管理有限公司" "余额宝-2026.04.20-收益发放"
@@ -1397,8 +1397,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.70 CNY
-    Income:Interest:Alipay:YuEBao                         -0.70 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.70 CNY
+    Income:Interest:Alipay:YuEBao                     -0.70 CNY
 
 
 2026-04-22 * "博时基金管理有限公司" "余额宝-2026.04.21-收益发放"
@@ -1410,8 +1410,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.69 CNY
-    Income:Interest:Alipay:YuEBao                         -0.69 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.69 CNY
+    Income:Interest:Alipay:YuEBao                     -0.69 CNY
 
 
 2026-04-23 * "博时基金管理有限公司" "余额宝-2026.04.22-收益发放"
@@ -1423,8 +1423,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.68 CNY
-    Income:Interest:Alipay:YuEBao                         -0.68 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.68 CNY
+    Income:Interest:Alipay:YuEBao                     -0.68 CNY
 
 
 2026-04-24 * "博时基金管理有限公司" "余额宝-2026.04.23-收益发放"
@@ -1436,8 +1436,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.69 CNY
-    Income:Interest:Alipay:YuEBao                         -0.69 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.69 CNY
+    Income:Interest:Alipay:YuEBao                     -0.69 CNY
 
 
 2026-04-25 * "博时基金管理有限公司" "余额宝-2026.04.24-收益发放"
@@ -1449,8 +1449,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.70 CNY
-    Income:Interest:Alipay:YuEBao                         -0.70 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.70 CNY
+    Income:Interest:Alipay:YuEBao                     -0.70 CNY
 
 
 2026-04-26 * "博时基金管理有限公司" "余额宝-2026.04.25-收益发放"
@@ -1462,8 +1462,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.68 CNY
-    Income:Interest:Alipay:YuEBao                         -0.68 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.68 CNY
+    Income:Interest:Alipay:YuEBao                     -0.68 CNY
 
 
 2026-04-27 * "博时基金管理有限公司" "余额宝-2026.04.26-收益发放"
@@ -1475,8 +1475,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.68 CNY
-    Income:Interest:Alipay:YuEBao                         -0.68 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.68 CNY
+    Income:Interest:Alipay:YuEBao                     -0.68 CNY
 
 
 2026-04-28 * "博时基金管理有限公司" "余额宝-2026.04.27-收益发放"
@@ -1488,8 +1488,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.68 CNY
-    Income:Interest:Alipay:YuEBao                         -0.68 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.68 CNY
+    Income:Interest:Alipay:YuEBao                     -0.68 CNY
 
 
 2026-04-29 * "博时基金管理有限公司" "余额宝-2026.04.28-收益发放"
@@ -1501,8 +1501,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-04-30 * "博时基金管理有限公司" "余额宝-2026.04.29-收益发放"
@@ -1514,8 +1514,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.92 CNY
-    Income:Interest:Alipay:YuEBao                         -0.92 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.92 CNY
+    Income:Interest:Alipay:YuEBao                     -0.92 CNY
 
 
 2026-05-01 * "博时基金管理有限公司" "余额宝-2026.04.30-收益发放"
@@ -1527,8 +1527,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.91 CNY
-    Income:Interest:Alipay:YuEBao                         -0.91 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.91 CNY
+    Income:Interest:Alipay:YuEBao                     -0.91 CNY
 
 
 2026-05-02 * "博时基金管理有限公司" "余额宝-2026.05.01-收益发放"
@@ -1540,8 +1540,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-03 * "博时基金管理有限公司" "余额宝-2026.05.02-收益发放"
@@ -1553,8 +1553,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-04 * "博时基金管理有限公司" "余额宝-2026.05.03-收益发放"
@@ -1566,8 +1566,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-05 * "博时基金管理有限公司" "余额宝-2026.05.04-收益发放"
@@ -1579,8 +1579,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-06 * "博时基金管理有限公司" "余额宝-2026.05.05-收益发放"
@@ -1592,8 +1592,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-07 * "博时基金管理有限公司" "余额宝-2026.05.06-收益发放"
@@ -1605,8 +1605,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-08 * "博时基金管理有限公司" "余额宝-2026.05.07-收益发放"
@@ -1618,8 +1618,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-09 * "博时基金管理有限公司" "余额宝-2026.05.08-收益发放"
@@ -1631,8 +1631,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-10 * "博时基金管理有限公司" "余额宝-2026.05.09-收益发放"
@@ -1644,8 +1644,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-11 * "博时基金管理有限公司" "余额宝-2026.05.10-收益发放"
@@ -1657,8 +1657,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-12 * "博时基金管理有限公司" "余额宝-2026.05.11-收益发放"
@@ -1670,8 +1670,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-13 * "博时基金管理有限公司" "余额宝-2026.05.12-收益发放"
@@ -1683,8 +1683,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.68 CNY
-    Income:Interest:Alipay:YuEBao                         -0.68 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.68 CNY
+    Income:Interest:Alipay:YuEBao                     -0.68 CNY
 
 
 2026-05-14 * "博时基金管理有限公司" "余额宝-2026.05.13-收益发放"
@@ -1696,8 +1696,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-15 * "博时基金管理有限公司" "余额宝-2026.05.14-收益发放"
@@ -1709,8 +1709,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.65 CNY
-    Income:Interest:Alipay:YuEBao                         -0.65 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.65 CNY
+    Income:Interest:Alipay:YuEBao                     -0.65 CNY
 
 
 2026-05-16 * "博时基金管理有限公司" "余额宝-2026.05.15-收益发放"
@@ -1722,8 +1722,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.64 CNY
-    Income:Interest:Alipay:YuEBao                         -0.64 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.64 CNY
+    Income:Interest:Alipay:YuEBao                     -0.64 CNY
 
 
 2026-05-17 * "博时基金管理有限公司" "余额宝-2026.05.16-收益发放"
@@ -1735,8 +1735,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.64 CNY
-    Income:Interest:Alipay:YuEBao                         -0.64 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.64 CNY
+    Income:Interest:Alipay:YuEBao                     -0.64 CNY
 
 2026-05-18 * "博时基金管理有限公司" "余额宝-2026.05.17-收益发放"
     source: "ALiPay"
@@ -1747,8 +1747,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.64 CNY
-    Income:Interest:Alipay:YuEBao                         -0.64 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.64 CNY
+    Income:Interest:Alipay:YuEBao                     -0.64 CNY
 
 
 2026-05-19 * "博时基金管理有限公司" "余额宝-2026.05.18-收益发放"
@@ -1760,8 +1760,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.64 CNY
-    Income:Interest:Alipay:YuEBao                         -0.64 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.64 CNY
+    Income:Interest:Alipay:YuEBao                     -0.64 CNY
 
 
 2026-05-20 * "博时基金管理有限公司" "余额宝-2026.05.19-收益发放"
@@ -1773,8 +1773,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.64 CNY
-    Income:Interest:Alipay:YuEBao                         -0.64 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.64 CNY
+    Income:Interest:Alipay:YuEBao                     -0.64 CNY
 
 
 2026-05-21 * "博时基金管理有限公司" "余额宝-2026.05.20-收益发放"
@@ -1786,8 +1786,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.68 CNY
-    Income:Interest:Alipay:YuEBao                         -0.68 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.68 CNY
+    Income:Interest:Alipay:YuEBao                     -0.68 CNY
 
 
 2026-05-22 * "博时基金管理有限公司" "余额宝-2026.05.21-收益发放"
@@ -1799,8 +1799,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.64 CNY
-    Income:Interest:Alipay:YuEBao                         -0.64 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.64 CNY
+    Income:Interest:Alipay:YuEBao                     -0.64 CNY
 
 
 2026-05-23 * "博时基金管理有限公司" "余额宝-2026.05.22-收益发放"
@@ -1812,8 +1812,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.64 CNY
-    Income:Interest:Alipay:YuEBao                         -0.64 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.64 CNY
+    Income:Interest:Alipay:YuEBao                     -0.64 CNY
 
 
 2026-05-24 * "博时基金管理有限公司" "余额宝-2026.05.23-收益发放"
@@ -1825,8 +1825,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.63 CNY
-    Income:Interest:Alipay:YuEBao                         -0.63 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.63 CNY
+    Income:Interest:Alipay:YuEBao                     -0.63 CNY
 
 
 2026-05-25 * "博时基金管理有限公司" "余额宝-2026.05.24-收益发放"
@@ -1838,8 +1838,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.63 CNY
-    Income:Interest:Alipay:YuEBao                         -0.63 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.63 CNY
+    Income:Interest:Alipay:YuEBao                     -0.63 CNY
 
 
 2026-05-26 * "博时基金管理有限公司" "余额宝-2026.05.25-收益发放"
@@ -1851,8 +1851,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.68 CNY
-    Income:Interest:Alipay:YuEBao                         -0.68 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.68 CNY
+    Income:Interest:Alipay:YuEBao                     -0.68 CNY
 
 
 2026-05-27 * "博时基金管理有限公司" "余额宝-2026.05.26-收益发放"
@@ -1864,8 +1864,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.69 CNY
-    Income:Interest:Alipay:YuEBao                         -0.69 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.69 CNY
+    Income:Interest:Alipay:YuEBao                     -0.69 CNY
 
 
 2026-05-28 * "博时基金管理有限公司" "余额宝-2026.05.27-收益发放"
@@ -1877,8 +1877,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.68 CNY
-    Income:Interest:Alipay:YuEBao                         -0.68 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.68 CNY
+    Income:Interest:Alipay:YuEBao                     -0.68 CNY
 
 
 2026-05-29 * "博时基金管理有限公司" "余额宝-2026.05.28-收益发放"
@@ -1890,8 +1890,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-30 * "博时基金管理有限公司" "余额宝-2026.05.29-收益发放"
@@ -1903,8 +1903,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-05-31 * "博时基金管理有限公司" "余额宝-2026.05.30-收益发放"
@@ -1916,8 +1916,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-06-01 * "博时基金管理有限公司" "余额宝-2026.05.31-收益发放"
@@ -1929,8 +1929,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-06-02 * "博时基金管理有限公司" "余额宝-2026.06.01-收益发放"
@@ -1942,8 +1942,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-06-03 * "博时基金管理有限公司" "余额宝-2026.06.02-收益发放"
@@ -1955,8 +1955,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-06-04 * "博时基金管理有限公司" "余额宝-2026.06.03-收益发放"
@@ -1968,8 +1968,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.68 CNY
-    Income:Interest:Alipay:YuEBao                         -0.68 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.68 CNY
+    Income:Interest:Alipay:YuEBao                     -0.68 CNY
 
 
 2026-06-05 * "博时基金管理有限公司" "余额宝-2026.06.04-收益发放"
@@ -1981,8 +1981,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.67 CNY
-    Income:Interest:Alipay:YuEBao                         -0.67 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.67 CNY
+    Income:Interest:Alipay:YuEBao                     -0.67 CNY
 
 
 2026-06-06 * "博时基金管理有限公司" "余额宝-2026.06.05-收益发放"
@@ -1994,8 +1994,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.65 CNY
-    Income:Interest:Alipay:YuEBao                         -0.65 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.65 CNY
+    Income:Interest:Alipay:YuEBao                     -0.65 CNY
 
 
 2026-06-07 * "博时基金管理有限公司" "余额宝-2026.06.06-收益发放"
@@ -2007,8 +2007,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           0.64 CNY
-    Income:Interest:Alipay:YuEBao                         -0.64 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.64 CNY
+    Income:Interest:Alipay:YuEBao                     -0.64 CNY
 
 
 2026-06-08 * "博时基金管理有限公司" "余额宝-2026.06.07-收益发放"
@@ -2020,8 +2020,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.64 CNY
-    Income:Interest:Alipay:YuEBao                            -0.64 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.64 CNY
+    Income:Interest:Alipay:YuEBao                     -0.64 CNY
 
 
 2026-06-09 * "博时基金管理有限公司" "余额宝-2026.06.08-收益发放"
@@ -2033,8 +2033,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.65 CNY
-    Income:Interest:Alipay:YuEBao                            -0.65 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.65 CNY
+    Income:Interest:Alipay:YuEBao                     -0.65 CNY
 
 
 2026-06-10 * "博时基金管理有限公司" "余额宝-2026.06.09-收益发放"
@@ -2046,8 +2046,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.64 CNY
-    Income:Interest:Alipay:YuEBao                            -0.64 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.64 CNY
+    Income:Interest:Alipay:YuEBao                     -0.64 CNY
 
 
 2026-06-11 * "博时基金管理有限公司" "余额宝-2026.06.10-收益发放"
@@ -2059,8 +2059,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.63 CNY
-    Income:Interest:Alipay:YuEBao                            -0.63 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.63 CNY
+    Income:Interest:Alipay:YuEBao                     -0.63 CNY
 
 
 2026-06-12 * "博时基金管理有限公司" "余额宝-2026.06.11-收益发放"
@@ -2072,8 +2072,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.64 CNY
-    Income:Interest:Alipay:YuEBao                            -0.64 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.64 CNY
+    Income:Interest:Alipay:YuEBao                     -0.64 CNY
 
 
 2026-06-13 * "博时基金管理有限公司" "余额宝-2026.06.12-收益发放"
@@ -2085,8 +2085,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.64 CNY
-    Income:Interest:Alipay:YuEBao                            -0.64 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.64 CNY
+    Income:Interest:Alipay:YuEBao                     -0.64 CNY
 
 
 2026-06-14 * "博时基金管理有限公司" "余额宝-2026.06.13-收益发放"
@@ -2098,8 +2098,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.62 CNY
-    Income:Interest:Alipay:YuEBao                            -0.62 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.62 CNY
+    Income:Interest:Alipay:YuEBao                     -0.62 CNY
 
 
 
@@ -2112,8 +2112,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.62 CNY
-    Income:Interest:Alipay:YuEBao                            -0.62 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.62 CNY
+    Income:Interest:Alipay:YuEBao                     -0.62 CNY
 
 
 2026-06-16 * "博时基金管理有限公司" "余额宝-2026.06.15-收益发放"
@@ -2125,8 +2125,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.62 CNY
-    Income:Interest:Alipay:YuEBao                            -0.62 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.62 CNY
+    Income:Interest:Alipay:YuEBao                     -0.62 CNY
 
 
 2026-06-17 * "博时基金管理有限公司" "余额宝-2026.06.16-收益发放"
@@ -2138,8 +2138,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.61 CNY
-    Income:Interest:Alipay:YuEBao                            -0.61 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.61 CNY
+    Income:Interest:Alipay:YuEBao                     -0.61 CNY
 
 
 2026-06-18 * "博时基金管理有限公司" "余额宝-2026.06.17-收益发放"
@@ -2151,8 +2151,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.61 CNY
-    Income:Interest:Alipay:YuEBao                            -0.61 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.61 CNY
+    Income:Interest:Alipay:YuEBao                     -0.61 CNY
 
 
 2026-06-19 * "博时基金管理有限公司" "余额宝-2026.06.18-收益发放"
@@ -2164,8 +2164,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.61 CNY
-    Income:Interest:Alipay:YuEBao                            -0.61 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.61 CNY
+    Income:Interest:Alipay:YuEBao                     -0.61 CNY
 
 
 2026-06-20 * "博时基金管理有限公司" "余额宝-2026.06.19-收益发放"
@@ -2177,8 +2177,8 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.61 CNY
-    Income:Interest:Alipay:YuEBao                            -0.61 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.61 CNY
+    Income:Interest:Alipay:YuEBao                     -0.61 CNY
 
 
 2026-06-21 * "博时基金管理有限公司" "余额宝-2026.06.20-收益发放"
@@ -2190,5 +2190,5 @@
     type: "不计收支"
     method: "余额宝"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                              0.61 CNY
-    Income:Interest:Alipay:YuEBao                            -0.61 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       0.61 CNY
+    Income:Interest:Alipay:YuEBao                     -0.61 CNY

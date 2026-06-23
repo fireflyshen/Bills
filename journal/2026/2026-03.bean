@@ -8,7 +8,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026030122001192651429473055"
-    Expenses:Food:Meals                           8.80 CNY
+    Expenses:Food:Meals                                8.80 CNY
     Liabilities:CreditCard:ICBC:8393                  -8.80 CNY
 
 
@@ -22,7 +22,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026030223001492651431263190"
-    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Expenses:Communication:Mobile:Domestic            30.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 
@@ -88,7 +88,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026030722001192651456362640"
-    Expenses:Food:Meals                           9.30 CNY
+    Expenses:Food:Meals                                9.30 CNY
     Liabilities:CreditCard:ICBC:8393                  -9.30 CNY
 
 
@@ -116,7 +116,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026030923001492651457810405"
-    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Expenses:Communication:Mobile:Domestic            30.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 
@@ -130,7 +130,7 @@
     method: "工商银行信用卡(8393)&红包"
     status: "交易成功"
     order_id: "2026030922001492651457203305"
-    Expenses:Personal:Care:Haircut                        29.82 CNY
+    Expenses:Personal:Care:Haircut                    29.82 CNY
     Liabilities:CreditCard:ICBC:8393                 -29.82 CNY
 
 
@@ -158,8 +158,8 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260310200040011100650063240244"
-    Expenses:Transport:Local                      2600.00 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                       -2600.00 CNY
+    Expenses:Transport:Local                        2600.00 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao   -2600.00 CNY
 
 
 2026-03-10 * "怡家24小时便利店" "怡家24小时便利店1_10021002603102346070492802719058_XJLW126031023453710474934209223"
@@ -200,7 +200,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026031122001192651410270538"
-    Expenses:Food:Meals                          10.34 CNY
+    Expenses:Food:Meals                               10.34 CNY
     Liabilities:CreditCard:ICBC:8393                 -10.34 CNY
 
 
@@ -228,12 +228,12 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026031422001492651419974278"
-    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Expenses:Communication:Mobile:Domestic            30.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 
 2026-03-14 * "Google" "Google One pro"
-    Expenses:Technology:AI:Google              22.10 USD
+    Expenses:Technology:AI:Google                     22.10 USD
     Liabilities:CreditCard:ICBC:5788                 -22.10 USD
 
 2026-03-14 * "淘宝闪购" "偶遇饭先森.干锅焖饭(万悦城店)外卖订单"
@@ -246,7 +246,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026031422001192651420989810"
-    Expenses:Food:Meals                          11.04 CNY
+    Expenses:Food:Meals                               11.04 CNY
     Liabilities:CreditCard:ICBC:8393                 -11.04 CNY
 
 
@@ -260,16 +260,16 @@
     method: "中国工商银行储蓄卡(4931)"
     status: "交易成功"
     order_id: "20260315019130201010650094380122"
-    Assets:Bank:ICBC:Checking:4931                       667.42 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                        -667.42 CNY
+    Assets:Bank:ICBC:Checking:4931                   667.42 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao    -667.42 CNY
 
 2026-03-15 * "中国工商银行" "信用卡还款"
     Liabilities:CreditCard:ICBC:8393                 514.48 CNY
-    Assets:Bank:ICBC:Checking:4931                      -514.48 CNY
+    Assets:Bank:ICBC:Checking:4931                  -514.48 CNY
 
 2026-03-15 * "中国工商银行" "信用卡还款"
     Liabilities:CreditCard:ICBC:5788                  22.10 USD @@ 152.94 CNY
-    Assets:Bank:ICBC:Checking:4931                      -152.94 CNY
+    Assets:Bank:ICBC:Checking:4931                  -152.94 CNY
 
 2026-03-15 * "淘宝闪购" "烤香烤肉拌饭外卖订单"
     source: "ALiPay"
@@ -281,7 +281,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026031522001192651424461446"
-    Expenses:Food:Meals                           9.00 CNY
+    Expenses:Food:Meals                                9.00 CNY
     Liabilities:CreditCard:ICBC:8393                  -9.00 CNY
 
 
@@ -295,7 +295,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026031522001192651427159940"
-    Expenses:Food:Meals                          11.90 CNY
+    Expenses:Food:Meals                               11.90 CNY
     Liabilities:CreditCard:ICBC:8393                 -11.90 CNY
 
 
@@ -323,7 +323,7 @@
     method: "工商银行信用卡(8393)"
     status: "等待确认收货"
     order_id: "2026031622001192651425897911"
-    Expenses:Household:Supplies                        34.80 CNY
+    Expenses:Household:Supplies                       34.80 CNY
     Liabilities:CreditCard:ICBC:8393                 -34.80 CNY
 
 
@@ -337,7 +337,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026031722001192651433193114"
-    Expenses:Food:Meals                          12.40 CNY
+    Expenses:Food:Meals                               12.40 CNY
     Liabilities:CreditCard:ICBC:8393                 -12.40 CNY
 
 
@@ -352,7 +352,7 @@
     status: "交易成功"
     order_id: "2026031822001492651436564673"
     Expenses:Food:Snacks                               3.93 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                          -3.93 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao      -3.93 CNY
 
 
 2026-03-19 * "iCloud 由云上贵州运营" "iCloud；03.19购买"
@@ -365,7 +365,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026031923001492651442450461"
-    Expenses:Technology:CloudStorage:ICloud                 6.00 CNY
+    Expenses:Technology:CloudStorage:ICloud            6.00 CNY
     Liabilities:CreditCard:ICBC:8393                  -6.00 CNY
 
 
@@ -379,7 +379,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026031923001492651439931509"
-    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Expenses:Communication:Mobile:Domestic            30.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 
@@ -393,7 +393,7 @@
     method: "工商银行信用卡(8393)&红包&到店支付立减券"
     status: "交易成功"
     order_id: "2026032022001492651446536124"
-    Expenses:Services:LocalServices                            24.08 CNY
+    Expenses:Services:LocalServices                   24.08 CNY
     Liabilities:CreditCard:ICBC:8393                 -24.08 CNY
 
 
@@ -436,7 +436,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026032723001492651416603571"
-    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Expenses:Communication:Mobile:Domestic            30.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 
@@ -450,7 +450,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026032822001492651419644172"
-    Expenses:Technology:CloudInfrastructure:AliYun:RDS            14.00 CNY
+    Expenses:Technology:CloudInfrastructure:AliYun:RDS  14.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -14.00 CNY
 
 
@@ -464,7 +464,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026032822001192651421993737"
-    Expenses:Food:Meals                          11.70 CNY
+    Expenses:Food:Meals                               11.70 CNY
     Liabilities:CreditCard:ICBC:8393                 -11.70 CNY
 
 
@@ -478,8 +478,8 @@
     method: "中国工商银行储蓄卡(4931)"
     status: "交易成功"
     order_id: "20260328019130201010650000541065"
-    Assets:Bank:ICBC:Checking:4931                         5.00 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                          -5.00 CNY
+    Assets:Bank:ICBC:Checking:4931                     5.00 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao      -5.00 CNY
 
 
 2026-03-28 * "沈博" "余额宝-转出到余额"
@@ -492,8 +492,8 @@
     method: "余额"
     status: "交易成功"
     order_id: "20260328019130200010650000627447"
-    Assets:Cash:DigitalWallet:Alipay:Balance                             5.00 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                          -5.00 CNY
+    Assets:Cash:DigitalWallet:Alipay:Balance           5.00 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao      -5.00 CNY
 
 
 2026-03-28 * "中信银行" "提现-实时提现"
@@ -506,8 +506,8 @@
     method: "余额"
     status: "交易成功"
     order_id: "20260328200040011100650071437652"
-    Assets:Bank:CNCB:Checking:4668                         5.00 CNY
-    Assets:Cash:DigitalWallet:Alipay:Balance                            -5.00 CNY
+    Assets:Bank:CNCB:Checking:4668                     5.00 CNY
+    Assets:Cash:DigitalWallet:Alipay:Balance          -5.00 CNY
 
 
 2026-03-28 * "*博" "充值-普通充值"
@@ -520,8 +520,8 @@
     method: "账户余额"
     status: "交易成功"
     order_id: "20260328200040011100650071305232"
-    Assets:Cash:DigitalWallet:Alipay:Balance                             1.00 CNY
-    Assets:Bank:CNCB:Checking:4668                        -1.00 CNY
+    Assets:Cash:DigitalWallet:Alipay:Balance           1.00 CNY
+    Assets:Bank:CNCB:Checking:4668                    -1.00 CNY
 
 
 2026-03-25 * "郑州庖丁科技有限公司" "庖丁科技"
@@ -532,7 +532,7 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003063202603254977486755"
-    Expenses:Technology:DeveloperTools:JetBrains         56.00 CNY
+    Expenses:Technology:DeveloperTools:JetBrains      56.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -56.00 CNY
 
 
@@ -567,7 +567,7 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4500000148202603289325351209"
-    Expenses:Transport:Local                         2.50 CNY
+    Expenses:Transport:Local                           2.50 CNY
     Liabilities:CreditCard:ICBC:8393                  -2.50 CNY
 
 
@@ -579,7 +579,7 @@
     method: "中信银行信用卡(9177)"
     status: "支付成功"
     order_id: "4200003066202603286551694510"
-    Expenses:Communication:Mobile:Domestic                 50.00 CNY
+    Expenses:Communication:Mobile:Domestic            50.00 CNY
     Liabilities:CreditCard:CNCB:9177                 -50.00 CNY
 
 2026-03-29 * "余额宝" "余额宝-自动转入"
@@ -592,8 +592,8 @@
     method: "账户余额"
     status: "交易成功"
     order_id: "20260329019130101000650073692859"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                           1.00 CNY
-    Assets:Cash:DigitalWallet:Alipay:Balance                            -1.00 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       1.00 CNY
+    Assets:Cash:DigitalWallet:Alipay:Balance          -1.00 CNY
 
 
 2026-03-29 * "靳报" "韭菜"
@@ -607,7 +607,7 @@
     status: "交易成功"
     order_id: "2026032922001492651427540292"
     Expenses:Food:Groceries                            0.89 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                          -0.89 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao      -0.89 CNY
 
 
 2026-03-29 * "哈啰骑行" "哈啰助力车骑行"
@@ -618,7 +618,7 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4500000115202603295174931062"
-    Expenses:Transport:Local                         2.50 CNY
+    Expenses:Transport:Local                           2.50 CNY
     Liabilities:CreditCard:ICBC:8393                  -2.50 CNY
 
 
@@ -630,8 +630,8 @@
     method: "/"
     status: "已存入零钱"
     order_id: "1000050001202603301034993534693"
-    Assets:Cash:DigitalWallet:WeChat:Balance                         1.00 CNY
-    Income:Family:Support                                     -1.00 CNY
+    Assets:Cash:DigitalWallet:WeChat:Balance           1.00 CNY
+    Income:Family:Support                             -1.00 CNY
 
 
 2026-03-30 * "宋捷" "/"
@@ -642,8 +642,8 @@
     method: "/"
     status: "已存入零钱"
     order_id: "1000039801000603306133771285422"
-    Assets:Cash:DigitalWallet:WeChat:Balance                       200.00 CNY
-    Assets:Receivables:Personal:SongJie                      -200.00 CNY
+    Assets:Cash:DigitalWallet:WeChat:Balance         200.00 CNY
+    Assets:Receivables:Personal:SongJie             -200.00 CNY
 
 
 2026-03-30 * "工商银行信用卡还款" "/"
@@ -656,7 +656,7 @@
     order_id: "4200003129202603301465457956"
     Liabilities:CreditCard:ICBC:8393                 200.00 CNY
     Expenses:Financial:Fees                            0.20 CNY
-    Assets:Cash:DigitalWallet:WeChat:Balance                      -200.20 CNY
+    Assets:Cash:DigitalWallet:WeChat:Balance        -200.20 CNY
 
 2026-03-30 * "拼多多" "维生素D"
     Expenses:Health:Supplements                       59.85 CNY

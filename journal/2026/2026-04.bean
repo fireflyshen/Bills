@@ -1,5 +1,5 @@
 2026-04-01 * "Google" "Google Cloud"
-    Expenses:Technology:CloudInfrastructure:GoogleCloud            0.32 USD
+    Expenses:Technology:CloudInfrastructure:GoogleCloud  0.32 USD
     Liabilities:CreditCard:ICBC:5788                  -0.32 USD
 
 2026-04-04 * "中国移动" "话费自动充值"
@@ -12,7 +12,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026040422001492651447776237"
-    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Expenses:Communication:Mobile:Domestic            30.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 
@@ -54,8 +54,8 @@
     type: "不计收支"
     method: "中国工商银行储蓄卡(4931)"
     status: "交易成功"
-    Assets:Bank:ICBC:Checking:4931                       315.33 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                        -315.33 CNY
+    Assets:Bank:ICBC:Checking:4931                   315.33 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao    -315.33 CNY
 
 
 2026-04-05 * "余额宝" "余额宝-单次转入"
@@ -68,8 +68,8 @@
     type: "不计收支"
     method: "工商银行储蓄卡(4931)"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                         320.33 CNY
-    Assets:Bank:ICBC:Checking:4931                      -320.33 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao     320.33 CNY
+    Assets:Bank:ICBC:Checking:4931                  -320.33 CNY
 
 
 2026-04-05 * "南阳市卧龙区梅溪路捷森文具商行" "南阳市卧龙区梅溪路捷森文具商行-消费"
@@ -82,7 +82,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)&红包"
     status: "交易成功"
-    Expenses:Household:Supplies                         9.99 CNY
+    Expenses:Household:Supplies                        9.99 CNY
     Liabilities:CreditCard:ICBC:8393                  -9.99 CNY
 
 
@@ -110,8 +110,8 @@
     type: "支出"
     method: "余额宝"
     status: "交易成功"
-    Expenses:Household:Supplies                        35.00 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                         -35.00 CNY
+    Expenses:Household:Supplies                       35.00 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao     -35.00 CNY
 
 
 2026-04-06 * "淘宝闪购" "偶遇饭先森干锅焖饭(新华广场店)外卖订单"
@@ -124,7 +124,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Food:Meals                          11.49 CNY
+    Expenses:Food:Meals                               11.49 CNY
     Liabilities:CreditCard:ICBC:8393                 -11.49 CNY
 
 
@@ -193,7 +193,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Expenses:Communication:Mobile:Domestic            30.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 
@@ -207,12 +207,12 @@
     method: "余额宝"
     status: "还款成功"
     Liabilities:CreditCard:ICBC:8393                 453.63 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                        -453.63 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao    -453.63 CNY
 
 
 2026-04-14 * "中国工商银行" "5788信用卡还款"
     Liabilities:CreditCard:ICBC:5788                  22.42 USD @@ 153.52 CNY
-    Assets:Bank:ICBC:Checking:4931                      -153.52 CNY
+    Assets:Bank:ICBC:Checking:4931                  -153.52 CNY
 
 
 2026-04-14 * "中国工商银行" "余额宝-转出到银行卡"
@@ -225,8 +225,8 @@
     type: "不计收支"
     method: "中国工商银行储蓄卡(4931)"
     status: "交易成功"
-    Assets:Bank:ICBC:Checking:4931                       153.52 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                        -153.52 CNY
+    Assets:Bank:ICBC:Checking:4931                   153.52 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao    -153.52 CNY
 
 
 2026-04-18 * "中国移动" "话费自动充值"
@@ -239,12 +239,12 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Expenses:Communication:Mobile:Domestic            30.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 
 2026-04-19 * "Google" "Google One Pro"
-    Expenses:Technology:AI:Google              22.10 USD
+    Expenses:Technology:AI:Google                     22.10 USD
     Liabilities:CreditCard:ICBC:5788                 -22.10 USD
 
 
@@ -306,7 +306,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Technology:CloudStorage:ICloud                 6.00 CNY
+    Expenses:Technology:CloudStorage:ICloud            6.00 CNY
     Liabilities:CreditCard:ICBC:8393                  -6.00 CNY
 
 
@@ -334,7 +334,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Services:LocalServices                            30.00 CNY
+    Expenses:Services:LocalServices                   30.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 
@@ -374,7 +374,7 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4500000122202604205820445137"
-    Expenses:Services:Logistics                           12.00 CNY
+    Expenses:Services:Logistics                       12.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -12.00 CNY
 
 
@@ -388,13 +388,13 @@
     type: "不计收支"
     method: "中信银行储蓄卡(4668)"
     status: "交易成功"
-    Assets:Bank:CNCB:Checking:4668                        46.00 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                         -46.00 CNY
+    Assets:Bank:CNCB:Checking:4668                    46.00 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao     -46.00 CNY
 
 
 2026-04-26 * "中信银行" "余额宝-转出到银行卡"
     Liabilities:CreditCard:CNCB:9177                  50.00 CNY
-    Assets:Bank:CNCB:Checking:4668                       -50.00 CNY
+    Assets:Bank:CNCB:Checking:4668                   -50.00 CNY
 
 2026-04-26 * "中国移动" "话费自动充值"
     source: "ALiPay"
@@ -406,7 +406,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Expenses:Communication:Mobile:Domestic            30.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 
@@ -438,8 +438,8 @@
     Liabilities:CreditCard:ICBC:8393                  -3.33 CNY
 
 2026-04-28 * "工资" "工资"
-    Assets:Bank:CNCB:Checking:4668                      1623.00 CNY
-    Income:Employment:Salary                                  -1623.00 CNY
+    Assets:Bank:CNCB:Checking:4668                  1623.00 CNY
+    Income:Employment:Salary                       -1623.00 CNY
 
 
 2026-04-30 * "杭州恒座网络科技有限公司" "元宝充值135.1元"

@@ -1,23 +1,23 @@
 2025-11-22 * "机场" "月度订阅"
-    Expenses:Technology:Network:Proxy                       19.79 CNY
-    Liabilities:ConsumerCredit:Huabei                    -19.79 CNY
+    Expenses:Technology:Network:Proxy                 19.79 CNY
+    Liabilities:ConsumerCredit:Huabei                -19.79 CNY
 
 2025-11-26 * "南阳市万德隆商贸有限责任公司" "牛奶和老干妈"
     Expenses:Food:Groceries                           28.90 CNY
-    Liabilities:ConsumerCredit:Huabei                    -28.90 CNY
+    Liabilities:ConsumerCredit:Huabei                -28.90 CNY
 
 2025-11-26 * "拼多多" "保健品囤货：氨糖, 蛋白粉, 镁, 维他命"
     Expenses:Health:Supplements                      174.40 CNY
-    Liabilities:ConsumerCredit:Huabei                   -174.40 CNY
+    Liabilities:ConsumerCredit:Huabei               -174.40 CNY
 
 2025-11-26 * "HuaBei" "蛋白粉退款"
-    Liabilities:ConsumerCredit:Huabei                     29.90 CNY
+    Liabilities:ConsumerCredit:Huabei                 29.90 CNY
     Expenses:Health:Supplements                      -29.90 CNY
 
 2025-11-28 * "南阳市万德隆商贸有限责任公司" "牛奶"
     Expenses:Food:Groceries                           15.80 CNY
-    Liabilities:ConsumerCredit:Huabei                    -15.80 CNY
+    Liabilities:ConsumerCredit:Huabei                -15.80 CNY
 
 2025-11-28 * "YoYo理发" "理发"
-    Expenses:Personal:Care:Haircut                        30.00 CNY
-    Liabilities:ConsumerCredit:Huabei                    -30.00 CNY
+    Expenses:Personal:Care:Haircut                    30.00 CNY
+    Liabilities:ConsumerCredit:Huabei                -30.00 CNY

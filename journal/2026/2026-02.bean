@@ -22,7 +22,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026020522001492651454185872"
-    Expenses:Transport:Local                         2.96 CNY
+    Expenses:Transport:Local                           2.96 CNY
     Liabilities:CreditCard:ICBC:8393                  -2.96 CNY
 
 
@@ -64,7 +64,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026020723001492651458310897"
-    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Expenses:Communication:Mobile:Domestic            30.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 
@@ -78,7 +78,7 @@
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
     order_id: "2026020722001492651458932788"
-    Expenses:Transport:Local                        13.05 CNY
+    Expenses:Transport:Local                          13.05 CNY
     Liabilities:CreditCard:ICBC:8393                 -13.05 CNY
 
 
@@ -92,7 +92,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026020723001492651401063167"
-    Expenses:Services:EquipmentRental:PowerBank                             3.00 CNY
+    Expenses:Services:EquipmentRental:PowerBank        3.00 CNY
     Liabilities:CreditCard:ICBC:8393                  -3.00 CNY
 
 
@@ -106,7 +106,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026020722001492651402544190"
-    Expenses:Services:EquipmentRental:PowerBank                             4.00 CNY
+    Expenses:Services:EquipmentRental:PowerBank        4.00 CNY
     Liabilities:CreditCard:ICBC:8393                  -4.00 CNY
 
 
@@ -120,7 +120,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026020722001492651403703793"
-    Expenses:Transport:Local                         1.00 CNY
+    Expenses:Transport:Local                           1.00 CNY
     Liabilities:CreditCard:ICBC:8393                  -1.00 CNY
 
 
@@ -163,15 +163,15 @@
     status: "还款成功"
     order_id: "2026021400003001650079743773"
     Liabilities:CreditCard:ICBC:8393                 136.91 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                        -136.91 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao    -136.91 CNY
 
 2026-02-14 * "中国工商银行" "信用卡还款"
     Liabilities:CreditCard:ICBC:5788                  22.10 USD @@ 153.07 CNY
-    Assets:Bank:ICBC:Checking:4931                      -153.07 CNY
+    Assets:Bank:ICBC:Checking:4931                  -153.07 CNY
 
 
 2026-02-14 * "Google" "Google One pro"
-    Expenses:Technology:AI:Google              22.10 USD
+    Expenses:Technology:AI:Google                     22.10 USD
     Liabilities:CreditCard:ICBC:5788                 -22.10 USD
 
 
@@ -185,8 +185,8 @@
     method: "中国工商银行储蓄卡(4931)"
     status: "交易成功"
     order_id: "20260214019130201010650080912881"
-    Assets:Bank:ICBC:Checking:4931                       153.07 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao                        -153.07 CNY
+    Assets:Bank:ICBC:Checking:4931                   153.07 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao    -153.07 CNY
 
 
 2026-02-15 * "成都零食有鸣商业管理有限公司" "河南省南阳市宛城区建设中路店"
@@ -241,7 +241,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026021923001492651449385887"
-    Expenses:Technology:CloudStorage:ICloud                 6.00 CNY
+    Expenses:Technology:CloudStorage:ICloud            6.00 CNY
     Liabilities:CreditCard:ICBC:8393                  -6.00 CNY
 
 
@@ -269,7 +269,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026022022001492651451134384"
-    Expenses:Communication:Mobile:Domestic                 30.00 CNY
+    Expenses:Communication:Mobile:Domestic            30.00 CNY
     Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
 
 
@@ -283,7 +283,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026022822001492651425553884"
-    Expenses:Technology:Services:Other                 20.70 CNY
+    Expenses:Technology:Services:Other                20.70 CNY
     Liabilities:CreditCard:ICBC:8393                 -20.70 CNY
 
 
@@ -297,7 +297,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026022822001492651425289854"
-    Expenses:Technology:Services:Other                 13.80 CNY
+    Expenses:Technology:Services:Other                13.80 CNY
     Liabilities:CreditCard:ICBC:8393                 -13.80 CNY
 
 
@@ -321,7 +321,7 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003061202602220068300736"
-    Expenses:Transport:Local                         6.40 CNY
+    Expenses:Transport:Local                           6.40 CNY
     Liabilities:CreditCard:ICBC:8393                  -6.40 CNY
 
 
@@ -333,7 +333,7 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003029202602237357112207"
-    Expenses:Education:ProfessionalDevelopment                199.00 CNY
+    Expenses:Education:ProfessionalDevelopment       199.00 CNY
     Liabilities:CreditCard:ICBC:8393                -199.00 CNY
 
 
