@@ -2192,3 +2192,81 @@
     status: "交易成功"
     Assets:Investments:MoneyMarket:Alipay:YuEBao       0.61 CNY
     Income:Interest:Alipay:YuEBao                     -0.61 CNY
+2026-06-22 * "博时基金管理有限公司" "余额宝-2026.06.21-收益发放"
+    source: "ALiPay"
+    pay_time: "2026-06-22 03:41:11"
+    deal_no: "20260622327014863651"
+    order_id: "20260622327014863651"
+    category: "投资理财"
+    type: "不计收支"
+    method: "余额宝"
+    status: "交易成功"
+    Assets:Investments:MoneyMarket:Alipay:YuEBao          0.61 CNY
+    Income:Interest:Alipay:YuEBao                        -0.61 CNY
+
+
+2026-06-23 * "博时基金管理有限公司" "余额宝-2026.06.22-收益发放"
+    source: "ALiPay"
+    pay_time: "2026-06-23 02:59:46"
+    deal_no: "20260623334738792651"
+    order_id: "20260623334738792651"
+    category: "投资理财"
+    type: "不计收支"
+    method: "余额宝"
+    status: "交易成功"
+    Assets:Investments:MoneyMarket:Alipay:YuEBao          0.61 CNY
+    Income:Interest:Alipay:YuEBao                        -0.61 CNY
+
+
+2026-06-24 * "博时基金管理有限公司" "余额宝-2026.06.23-收益发放"
+    source: "ALiPay"
+    pay_time: "2026-06-24 03:36:25"
+    deal_no: "20260624343406368651"
+    order_id: "20260624343406368651"
+    category: "投资理财"
+    type: "不计收支"
+    method: "余额宝"
+    status: "交易成功"
+    Assets:Investments:MoneyMarket:Alipay:YuEBao          0.64 CNY
+    Income:Interest:Alipay:YuEBao                        -0.64 CNY
+
+
+2026-06-25 * "博时基金管理有限公司" "余额宝-2026.06.24-收益发放"
+    source: "ALiPay"
+    pay_time: "2026-06-25 03:35:13"
+    deal_no: "20260625349328149651"
+    order_id: "20260625349328149651"
+    category: "投资理财"
+    type: "不计收支"
+    method: "余额宝"
+    status: "交易成功"
+    Assets:Investments:MoneyMarket:Alipay:YuEBao          0.62 CNY
+    Income:Interest:Alipay:YuEBao                        -0.62 CNY
+
+
+2026-06-26 * "博时基金管理有限公司" "余额宝-2026.06.25-收益发放"
+    source: "ALiPay"
+    pay_time: "2026-06-26 03:17:23"
+    deal_no: "20260626355242708651"
+    order_id: "20260626355242708651"
+    category: "投资理财"
+    type: "不计收支"
+    method: "余额宝"
+    status: "交易成功"
+    Assets:Investments:MoneyMarket:Alipay:YuEBao          0.62 CNY
+    Income:Interest:Alipay:YuEBao                        -0.62 CNY
+
+
+2026-06-27 * "博时基金管理有限公司" "余额宝-2026.06.26-收益发放"
+    source: "ALiPay"
+    pay_time: "2026-06-27 03:13:42"
+    deal_no: "20260627361679608651"
+    order_id: "20260627361679608651"
+    category: "投资理财"
+    type: "不计收支"
+    method: "余额宝"
+    status: "交易成功"
+    Assets:Investments:MoneyMarket:Alipay:YuEBao          0.64 CNY
+    Income:Interest:Alipay:YuEBao                        -0.64 CNY
+
+

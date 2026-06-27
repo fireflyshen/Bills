@@ -409,3 +409,73 @@
     status: "支付成功"
     Expenses:Household:Supplies                       11.50 CNY
     Liabilities:CreditCard:ICBC:8393                 -11.50 CNY
+2026-06-25 * "d***e" "Berkeley Mono v2 正版字体 Cursor 同"
+    source: "ALiPay"
+    pay_time: "2026-06-25 14:27:23"
+    deal_no: "2026062523001192651414785069"
+    order_id: "2026062523001192651414785069"
+    merchant_id: "T200P5121694261045014911"
+    category: "日用百货"
+    type: "支出"
+    method: "余额宝"
+    status: "等待确认收货"
+    Expenses:FIXME                                       50.00 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao        -50.00 CNY
+
+
+2026-06-25 * "中国移动" "话费自动充值"
+    source: "ALiPay"
+    pay_time: "2026-06-25 09:26:31"
+    deal_no: "2026062523001492651408351682"
+    order_id: "2026062523001492651408351682"
+    merchant_id: "00952026062509263123203207399704"
+    category: "充值缴费"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Communication:Mobile:Domestic               30.00 CNY
+    Liabilities:CreditCard:ICBC:8393                    -30.00 CNY
+
+
+2026-06-25 * "余额宝" "余额宝-单次转入"
+    source: "ALiPay"
+    pay_time: "2026-06-25 22:44:18"
+    deal_no: "20260625019130100010650050702946"
+    order_id: "20260625019130100010650050702946"
+    merchant_id: "LC2026062522441820885229093926520289"
+    category: "投资理财"
+    type: "不计收支"
+    method: "中信银行储蓄卡(4668)"
+    status: "交易成功"
+    Expenses:FIXME                                     3535.06 CNY
+    Assets:FIXME                                      -3535.06 CNY
+
+
+2026-06-27 * "南阳市卧龙区雨飞美容美发店（个体工商户）" "南阳市卧龙区雨飞美容美发店（个体工商户）"
+    source: "ALiPay"
+    pay_time: "2026-06-27 20:00:35"
+    deal_no: "2026062723001492651427601750"
+    order_id: "2026062723001492651427601750"
+    merchant_id: "621266000048490000471171759798651250278400"
+    category: "美容美发"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:FIXME                                       30.00 CNY
+    Liabilities:CreditCard:ICBC:8393                    -30.00 CNY
+
+
+2026-06-27 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-06-27 20:12:28"
+    deal_no: "2026062723001492651425838949"
+    order_id: "2026062723001492651425838949"
+    merchant_id: "51106600004857000220260627MM6pcbek"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 15.08 CNY
+    Liabilities:CreditCard:ICBC:8393                    -15.08 CNY
+
+
