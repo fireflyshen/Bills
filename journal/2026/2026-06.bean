@@ -409,6 +409,8 @@
     status: "支付成功"
     Expenses:Household:Supplies                       11.50 CNY
     Liabilities:CreditCard:ICBC:8393                 -11.50 CNY
+
+
 2026-06-25 * "d***e" "Berkeley Mono v2 正版字体 Cursor 同"
     source: "ALiPay"
     pay_time: "2026-06-25 14:27:23"
@@ -419,7 +421,7 @@
     type: "支出"
     method: "余额宝"
     status: "等待确认收货"
-    Expenses:FIXME                                       50.00 CNY
+    Expenses:Technology:DeveloperTools:Fonts             50.00 CNY
     Assets:Investments:MoneyMarket:Alipay:YuEBao        -50.00 CNY
 
 
@@ -437,6 +439,11 @@
     Liabilities:CreditCard:ICBC:8393                    -30.00 CNY
 
 
+2026-06-25 * "工资" "工资"
+    Assets:Bank:CNCB:Checking:4668                     3535.06 CNY
+    Income:Employment:Salary                          -3535.06 CNY
+
+
 2026-06-25 * "余额宝" "余额宝-单次转入"
     source: "ALiPay"
     pay_time: "2026-06-25 22:44:18"
@@ -447,8 +454,8 @@
     type: "不计收支"
     method: "中信银行储蓄卡(4668)"
     status: "交易成功"
-    Expenses:FIXME                                     3535.06 CNY
-    Assets:FIXME                                      -3535.06 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       3535.06 CNY
+    Assets:Bank:CNCB:Checking:4668                    -3535.06 CNY
 
 
 2026-06-27 * "南阳市卧龙区雨飞美容美发店（个体工商户）" "南阳市卧龙区雨飞美容美发店（个体工商户）"
@@ -461,7 +468,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:FIXME                                       30.00 CNY
+    Expenses:Personal:Care:Haircut                       30.00 CNY
     Liabilities:CreditCard:ICBC:8393                    -30.00 CNY
 
 
@@ -477,5 +484,3 @@
     status: "交易成功"
     Expenses:Food:Snacks                                 15.08 CNY
     Liabilities:CreditCard:ICBC:8393                    -15.08 CNY
-
-
