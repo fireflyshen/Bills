@@ -50,3 +50,15 @@
 3. 是否补充了机构、平台、产品、尾号、确认规则等必要 metadata。
 4. 开账日期是否不晚于该账户第一笔交易日期。
 5. 运行 `make validate`，并保持账本结构错误为 0。
+
+## 固定订阅处理
+
+- 固定订阅配置写在 `plugins/auto_subscriptions.json`。
+- 使用 `make subscriptions-dry-run` 预览当前月份将要生成的交易。
+- 确认无误后使用 `make subscriptions` 写入当前月份流水文件。
+- 写入后运行 `make validate`，再打开 Fava。
+- Fava 只负责展示账本，不负责在加载账本时自动修改文件。
+- 如需生成指定月份，使用 `make subscriptions SUBSCRIPTION_MONTH=2026-07`。
+
+订阅配置要包含稳定的 `id`、`status`、`type`、`interval`、收付款账户、金额、币种、账单日、开始日期和可选结束日期。生成的交易会写入
+`subscription_id`、`subscription_type`、`generated_by`、`period` 元数据，用于追踪和防止重复生成。

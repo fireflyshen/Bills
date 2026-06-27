@@ -2,7 +2,8 @@ option "title" "Personal Ledger"
 plugin "beancount.plugins.auto_accounts"
 option "render_commas" "TRUE"
 
-2010-01-01 custom "fava-extension" "plugins.fava_auto_subs"
+; Subscriptions are generated explicitly with `make subscriptions`.
+; 2010-01-01 custom "fava-extension" "plugins.fava_auto_subs"
 ; option "inferred_tolerance_default" "*:0.005"
 
 ; Primary reporting currencies. Keep CNY first as the household base currency.

@@ -1,32 +1,47 @@
 [
   {
+    "id": "google-one-pro",
+    "status": "active",
+    "type": "expense",
+    "interval": "monthly",
     "payee": "Google",
     "narration": "Google One Pro",
-    "expense_account": "Expenses:Technology:AI:Google",
-    "asset_account": "Liabilities:CreditCard:ICBC:5788",
+    "debit_account": "Expenses:Technology:AI:Google",
+    "credit_account": "Liabilities:CreditCard:ICBC:5788",
     "amount": "22.10",
     "currency": "USD",
-    "day_of_month": 15,
-    "start_date": "2026-07-01"
+    "billing_day": 15,
+    "start_date": "2026-07-01",
+    "end_date": null
   },
   {
+    "id": "openai-codex",
+    "status": "active",
+    "type": "expense",
+    "interval": "monthly",
     "payee": "OpenAI",
     "narration": "ChatGPT CodeX",
-    "expense_account": "Expenses:Technology:AI:OpenAI",
-    "asset_account": "Assets:StoredValue:Apple:AppleID",
+    "debit_account": "Expenses:Technology:AI:OpenAI",
+    "credit_account": "Assets:StoredValue:Apple:AppleID",
     "amount": "19.99",
     "currency": "USD",
-    "day_of_month": 5,
-    "start_date": "2026-07-01"
+    "billing_day": 5,
+    "start_date": "2026-07-01",
+    "end_date": null
   },
   {
+    "id": "apple-gift-card-topup",
+    "status": "active",
+    "type": "transfer",
+    "interval": "monthly",
     "payee": "Apple",
     "narration": "Apple Gift Card",
-    "expense_account": "Assets:StoredValue:Apple:AppleID",
-    "asset_account": "Liabilities:CreditCard:ICBC:5788",
-    "amount": "20",
+    "debit_account": "Assets:StoredValue:Apple:AppleID",
+    "credit_account": "Liabilities:CreditCard:ICBC:5788",
+    "amount": "20.00",
     "currency": "USD",
-    "day_of_month": 5,
-    "start_date": "2026-07-01"
+    "billing_day": 5,
+    "start_date": "2026-07-01",
+    "end_date": null
   }
 ]
