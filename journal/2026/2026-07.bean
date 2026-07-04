@@ -1,3 +1,8 @@
+2026-07-01 * "Google" "Google Cloud"
+    Expenses:Technology:CloudInfrastructure:GoogleCloud  1.80 USD
+    Liabilities:CreditCard:ICBC:5788                  -1.80 USD
+
+
 2026-07-03 * "Apple" "Apple Gift Card"
     Assets:StoredValue:Apple:AppleID                  17.00 USD
     Liabilities:CreditCard:ICBC:5788                 -17.00 USD
