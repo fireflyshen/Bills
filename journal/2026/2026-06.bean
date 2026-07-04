@@ -484,6 +484,8 @@
     status: "交易成功"
     Expenses:Food:Snacks                                 15.08 CNY
     Liabilities:CreditCard:ICBC:8393                    -15.08 CNY
+
+
 2026-06-28 * "中国移动" "话费自动充值"
     source: "ALiPay"
     pay_time: "2026-06-28 20:11:45"
@@ -522,7 +524,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:FIXME                                       99.00 CNY
+    Expenses:Technology:Services:Office                  99.00 CNY
     Liabilities:CreditCard:ICBC:8393                    -99.00 CNY
 
 
@@ -536,7 +538,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:FIXME                                       39.90 CNY
+    Expenses:Technology:Software:Applications            39.90 CNY
     Liabilities:CreditCard:ICBC:8393                    -39.90 CNY
 
 
@@ -552,5 +554,3 @@
     status: "交易成功"
     Expenses:Communication:Mobile:Domestic               30.00 CNY
     Liabilities:CreditCard:ICBC:8393                    -30.00 CNY
-
-
