@@ -1,3 +1,8 @@
+2026-07-03 * "Apple" "Apple Gift Card"
+    Assets:StoredValue:Apple:AppleID                  17.00 USD
+    Liabilities:CreditCard:ICBC:5788                 -17.00 USD
+
+
 2026-07-04 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
     source: "ALiPay"
     pay_time: "2026-07-04 18:47:58"
@@ -10,5 +15,3 @@
     status: "交易成功"
     Expenses:Food:Snacks                                 10.91 CNY
     Liabilities:CreditCard:ICBC:8393                    -10.91 CNY
-
-
