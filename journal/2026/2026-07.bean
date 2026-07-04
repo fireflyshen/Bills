@@ -1,0 +1,14 @@
+2026-07-04 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-07-04 18:47:58"
+    deal_no: "2026070423001492651405149167"
+    order_id: "2026070423001492651405149167"
+    merchant_id: "72106600004857000220260704MMgfm5kf"
+    category: "日用百货"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 10.91 CNY
+    Liabilities:CreditCard:ICBC:8393                    -10.91 CNY
+
+
