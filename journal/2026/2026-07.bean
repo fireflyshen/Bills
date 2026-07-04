@@ -6,3 +6,30 @@
 2026-07-03 * "Apple" "Apple Gift Card"
     Assets:StoredValue:Apple:AppleID                  17.00 USD
     Liabilities:CreditCard:ICBC:5788                 -17.00 USD
+2026-07-04 * "中国工商银行" "信用卡还款"
+    source: "ALiPay"
+    pay_time: "2026-07-04 23:58:52"
+    deal_no: "2026070400003001650094401394"
+    order_id: "2026070400003001650094401394"
+    category: "信用借还"
+    type: "不计收支"
+    method: "余额宝"
+    status: "还款成功"
+    Liabilities:CreditCard:ICBC:8393                    577.63 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       -577.63 CNY
+
+
+2026-07-04 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-07-04 18:47:58"
+    deal_no: "2026070423001492651405149167"
+    order_id: "2026070423001492651405149167"
+    merchant_id: "72106600004857000220260704MMgfm5kf"
+    category: "日用百货"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 10.91 CNY
+    Liabilities:CreditCard:ICBC:8393                    -10.91 CNY
+
+
