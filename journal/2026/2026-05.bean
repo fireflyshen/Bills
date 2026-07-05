@@ -312,14 +312,10 @@
     Assets:Cash:DigitalWallet:WeChat:Balance         -11.00 CNY
 
 
-2026-05-22 * "工资" "工资"
-    Assets:Bank:CNCB:Checking:4668                  3540.00 CNY
-    Income:Employment:Salary                       -3540.00 CNY
-
-
 2026-05-22 * "妈" "物业费"
     Liabilities:AccruedExpenses:Family:PropertyManagement  3000.00 CNY
     Assets:Bank:CNCB:Checking:4668                 -3000.00 CNY
+
 
 2026-05-23 * "南阳市卧龙区雨飞美容美发店（个体工商户）" "南阳市卧龙区雨飞美容美发店（个体工商户）"
     source: "WeChat"

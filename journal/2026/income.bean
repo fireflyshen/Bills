@@ -1479,6 +1479,11 @@
     Income:Interest:Alipay:YuEBao                     -0.68 CNY
 
 
+2026-04-28 * "工资" "工资"
+    Assets:Bank:CNCB:Checking:4668                  1623.00 CNY
+    Income:Employment:Salary                       -1623.00 CNY
+
+
 2026-04-28 * "博时基金管理有限公司" "余额宝-2026.04.27-收益发放"
     source: "ALiPay"
     pay_time: "2026-04-28 03:24:20"
@@ -1788,6 +1793,11 @@
     status: "交易成功"
     Assets:Investments:MoneyMarket:Alipay:YuEBao       0.68 CNY
     Income:Interest:Alipay:YuEBao                     -0.68 CNY
+
+
+2026-05-22 * "工资" "工资"
+    Assets:Bank:CNCB:Checking:4668                  3540.00 CNY
+    Income:Employment:Salary                       -3540.00 CNY
 
 
 2026-05-22 * "博时基金管理有限公司" "余额宝-2026.05.21-收益发放"
@@ -2231,6 +2241,11 @@
     status: "交易成功"
     Assets:Investments:MoneyMarket:Alipay:YuEBao          0.64 CNY
     Income:Interest:Alipay:YuEBao                        -0.64 CNY
+
+
+2026-06-25 * "工资" "工资"
+    Assets:Bank:CNCB:Checking:4668                     3535.06 CNY
+    Income:Employment:Salary                          -3535.06 CNY
 
 
 2026-06-25 * "博时基金管理有限公司" "余额宝-2026.06.24-收益发放"

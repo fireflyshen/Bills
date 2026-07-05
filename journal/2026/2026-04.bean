@@ -437,10 +437,6 @@
     Expenses:Food:Snacks                               3.33 CNY
     Liabilities:CreditCard:ICBC:8393                  -3.33 CNY
 
-2026-04-28 * "工资" "工资"
-    Assets:Bank:CNCB:Checking:4668                  1623.00 CNY
-    Income:Employment:Salary                       -1623.00 CNY
-
 
 2026-04-30 * "杭州恒座网络科技有限公司" "元宝充值135.1元"
     source: "ALiPay"
@@ -454,4 +450,4 @@
     status: "交易成功"
     Expenses:Technology:Network:Proxy                134.61 CNY
     Liabilities:CreditCard:ICBC:8393                -134.61 CNY
-; 
+;

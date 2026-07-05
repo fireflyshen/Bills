@@ -439,11 +439,6 @@
     Liabilities:CreditCard:ICBC:8393                    -30.00 CNY
 
 
-2026-06-25 * "工资" "工资"
-    Assets:Bank:CNCB:Checking:4668                     3535.06 CNY
-    Income:Employment:Salary                          -3535.06 CNY
-
-
 2026-06-25 * "余额宝" "余额宝-单次转入"
     source: "ALiPay"
     pay_time: "2026-06-25 22:44:18"
