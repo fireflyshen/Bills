@@ -6,6 +6,8 @@
 2026-07-03 * "Apple" "Apple Gift Card"
     Assets:StoredValue:Apple:AppleID                  17.00 USD
     Liabilities:CreditCard:ICBC:5788                 -17.00 USD
+
+
 2026-07-04 * "中国工商银行" "信用卡还款"
     source: "ALiPay"
     pay_time: "2026-07-04 23:58:52"
@@ -31,5 +33,3 @@
     status: "交易成功"
     Expenses:Food:Snacks                                 10.91 CNY
     Liabilities:CreditCard:ICBC:8393                    -10.91 CNY
-
-
