@@ -33,6 +33,8 @@
     status: "交易成功"
     Expenses:Food:Snacks                                 10.91 CNY
     Liabilities:CreditCard:ICBC:8393                    -10.91 CNY
+
+
 2026-07-05 * "天**" "Casio卡西欧多功能复古小方块学生表W-800H-1A"
     source: "ALiPay"
     pay_time: "2026-07-05 18:53:15"
@@ -143,5 +145,3 @@
     status: "交易成功"
     Expenses:Technology:Network:Proxy                    13.15 CNY
     Liabilities:CreditCard:ICBC:8393                    -13.15 CNY
-
-
