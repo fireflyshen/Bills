@@ -45,7 +45,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "等待确认收货"
-    Expenses:FIXME                                      174.39 CNY
+    Expenses:Personal:Accessories                       174.39 CNY
     Liabilities:CreditCard:ICBC:8393                   -174.39 CNY
 
 
@@ -101,7 +101,7 @@
     type: "支出"
     method: "余额宝"
     status: "等待确认收货"
-    Expenses:FIXME                                        7.88 CNY
+    Expenses:Technology:Services:Other                    7.88 CNY
     Assets:Investments:MoneyMarket:Alipay:YuEBao         -7.88 CNY
 
 

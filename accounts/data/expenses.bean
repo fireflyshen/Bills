@@ -22,6 +22,7 @@
 2025-11-20 open Expenses:Technology:Software:Applications
 2025-11-22 open Expenses:Technology:Subscriptions:General
 
+
 ; Education and entertainment
 2025-11-22 open Expenses:Education:ProfessionalDevelopment
 2025-12-01 open Expenses:Entertainment:Subscriptions:DigitalMedia
@@ -33,6 +34,7 @@
 2025-11-26 open Expenses:Health:Supplements                   ; supplements and OTC nutrition
 2025-12-06 open Expenses:Household:Supplies                   ; household consumables
 2025-11-26 open Expenses:Personal:Care:Haircut                ; grooming
+2026-07-05 open Expenses:Personal:Accessories                 ; Accessories
 2026-01-08 open Expenses:Electronics:Accessories              ; cables, screen protectors, peripherals
 
 ; Communication, transport and local services
