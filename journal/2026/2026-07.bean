@@ -33,3 +33,115 @@
     status: "交易成功"
     Expenses:Food:Snacks                                 10.91 CNY
     Liabilities:CreditCard:ICBC:8393                    -10.91 CNY
+2026-07-05 * "天**" "Casio卡西欧多功能复古小方块学生表W-800H-1A"
+    source: "ALiPay"
+    pay_time: "2026-07-05 18:53:15"
+    deal_no: "2026070523001192651413277408"
+    order_id: "2026070523001192651413277408"
+    merchant_id: "T200P5122682426667096930"
+    category: "服饰装扮"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "等待确认收货"
+    Expenses:FIXME                                      174.39 CNY
+    Liabilities:CreditCard:ICBC:8393                   -174.39 CNY
+
+
+2026-07-05 * "零食有鸣（河南省南阳市宛城区建设中路店）" "河南省南阳市宛城区建设中路店零售商品"
+    source: "ALiPay"
+    pay_time: "2026-07-05 19:34:03"
+    deal_no: "2026070523001492651409245811"
+    order_id: "2026070523001492651409245811"
+    merchant_id: "44126600004802000020260705193403409693918534"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 17.93 CNY
+    Liabilities:CreditCard:ICBC:8393                    -17.93 CNY
+
+
+2026-07-08 * "中国移动" "话费自动充值"
+    source: "ALiPay"
+    pay_time: "2026-07-08 07:05:12"
+    deal_no: "2026070823001492651427652071"
+    order_id: "2026070823001492651427652071"
+    merchant_id: "00952026070807034042685657299704"
+    category: "充值缴费"
+    type: "支出"
+    method: "工商银行信用卡(8393)&工商银行立减金"
+    status: "交易成功"
+    Expenses:Communication:Mobile:Domestic               29.88 CNY
+    Liabilities:CreditCard:ICBC:8393                    -29.88 CNY
+
+
+2026-07-08 * "滴滴出行" "特惠快车打车-范师傅-07月08日行程"
+    source: "ALiPay"
+    pay_time: "2026-07-08 21:27:25"
+    deal_no: "2026070823001492651431686171"
+    order_id: "2026070823001492651431686171"
+    merchant_id: "212_202607084072769201847584"
+    category: "交通出行"
+    type: "支出"
+    method: "工商银行信用卡(8393)&工商银行立减金"
+    status: "交易成功"
+    Expenses:Technology:Network:Proxy                    14.80 CNY
+    Liabilities:CreditCard:ICBC:8393                    -14.80 CNY
+
+
+2026-07-09 * "和信**室" "移动不换号转换8元保号老用户降低变29元新资费取消合约定制方案"
+    source: "ALiPay"
+    pay_time: "2026-07-09 12:33:52"
+    deal_no: "2026070923001192651437792156"
+    order_id: "2026070923001192651437792156"
+    merchant_id: "T200P5123471724430005729"
+    category: "生活服务"
+    type: "支出"
+    method: "余额宝"
+    status: "等待确认收货"
+    Expenses:FIXME                                        7.88 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao         -7.88 CNY
+
+
+2026-07-09 * "滴滴出行" "特惠快车打车-鲁师傅-07月09日行程"
+    source: "ALiPay"
+    pay_time: "2026-07-09 08:16:22"
+    deal_no: "2026070923001492651437222052"
+    order_id: "2026070923001492651437222052"
+    merchant_id: "212_202607094072940001658540"
+    category: "交通出行"
+    type: "支出"
+    method: "工商银行信用卡(8393)&工商银行立减金"
+    status: "交易成功"
+    Expenses:Technology:Network:Proxy                    15.04 CNY
+    Liabilities:CreditCard:ICBC:8393                    -15.04 CNY
+
+
+2026-07-10 * "国网河南省电力公司（南阳）" "电费"
+    source: "ALiPay"
+    pay_time: "2026-07-10 22:36:47"
+    deal_no: "2026071023001492651442590239"
+    order_id: "2026071023001492651442590239"
+    merchant_id: "4105268125058"
+    category: "充值缴费"
+    type: "支出"
+    method: "工商银行信用卡(8393)&现金抵价券"
+    status: "交易成功"
+    Expenses:Family:Utilities:Electricity               129.00 CNY
+    Liabilities:CreditCard:ICBC:8393                   -129.00 CNY
+
+
+2026-07-11 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-07-11 20:16:03"
+    deal_no: "2026071123001492651449869706"
+    order_id: "2026071123001492651449869706"
+    merchant_id: "73106600004857000220260711MMek8dr1"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Technology:Network:Proxy                    13.15 CNY
+    Liabilities:CreditCard:ICBC:8393                    -13.15 CNY
+
+
