@@ -145,3 +145,212 @@
     status: "交易成功"
     Expenses:Technology:Network:Proxy                    13.15 CNY
     Liabilities:CreditCard:ICBC:8393                    -13.15 CNY
+2026-07-13 * "中国工商银行" "余额宝-转出到银行卡"
+    source: "ALiPay"
+    pay_time: "2026-07-13 21:53:04"
+    deal_no: "20260713019130201010650047468585"
+    order_id: "20260713019130201010650047468585"
+    merchant_id: "LC2026071321530420885229093926523514"
+    category: "投资理财"
+    type: "不计收支"
+    method: "中国工商银行储蓄卡(4931)"
+    status: "交易成功"
+    Assets:Bank:ICBC:Checking:4931                      695.15 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       -695.15 CNY
+
+
+2026-07-13 * "中国工商银行" "余额宝-转出到银行卡"
+    source: "ALiPay"
+    pay_time: "2026-07-13 21:53:51"
+    deal_no: "20260713019130201010650047366038"
+    order_id: "20260713019130201010650047366038"
+    merchant_id: "LC2026071321535020885229093926526066"
+    category: "投资理财"
+    type: "不计收支"
+    method: "中国工商银行储蓄卡(4931)"
+    status: "交易成功"
+    Assets:Bank:ICBC:Checking:4931                      277.32 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       -277.32 CNY
+
+
+2026-07-13 * "中国工商银行" "余额宝-转出到银行卡"
+    source: "ALiPay"
+    pay_time: "2026-07-13 21:55:34"
+    deal_no: "20260713019130201010650047667675"
+    order_id: "20260713019130201010650047667675"
+    merchant_id: "LC2026071321553420885229093926526869"
+    category: "投资理财"
+    type: "不计收支"
+    method: "中国工商银行储蓄卡(4931)"
+    status: "交易成功"
+    Assets:Bank:ICBC:Checking:4931                        0.02 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao         -0.02 CNY
+
+
+2026-07-13 * "中国工商银行" "信用卡提前还款"
+    source: "ALiPay"
+    pay_time: "2026-07-13 21:55:34"
+    deal_no: "20260713019130201010650047667675"
+    order_id: "20260713019130201010650047667675"
+    merchant_id: "LC2026071321553420885229093926526869"
+    category: "投资理财"
+    type: "不计收支"
+    method: "中国工商银行储蓄卡(4931)"
+    status: "交易成功"
+    Liabilities:CreditCard:ICBC:5788                40.90 USD @@ 0.02 CNY
+    Assets:Bank:ICBC:Checking:4931                  -0.02 CNY
+
+
+2026-07-13 * "河南南阳宛城嵩山路美宜佳" "美宜佳豫00298店"
+    source: "ALiPay"
+    pay_time: "2026-07-13 08:09:27"
+    deal_no: "2026071323001492651459387553"
+    order_id: "2026071323001492651459387553"
+    merchant_id: "b1fcd78e81f34bac973ff8b7d54c4082"
+    category: "日用百货"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:FIXME                                        4.00 CNY
+    Liabilities:CreditCard:ICBC:8393                     -4.00 CNY
+
+
+2026-07-13 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-07-13 19:40:45"
+    deal_no: "2026071323001492651458718767"
+    order_id: "2026071323001492651458718767"
+    merchant_id: "11106600004857000220260713MMhatgi8"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)&支付宝立减"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 15.78 CNY
+    Liabilities:CreditCard:ICBC:8393                    -15.78 CNY
+
+
+2026-07-14 * "bu**舰" "typec快充100w磁吸收纳数据线60w适用华为苹果小米vivo安卓双头tpyec充电器线iphone15车载磁吸 等多件"
+    source: "ALiPay"
+    pay_time: "2026-07-14 20:46:23"
+    deal_no: "20260714300000018492651246352540"
+    order_id: "20260714300000018492651246352540"
+    merchant_id: "T200P5122682426667106112"
+    category: "数码电器"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    Expenses:FIXME                                       38.41 CNY
+    Liabilities:CreditCard:ICBC:8393                    -38.41 CNY
+
+
+2026-07-14 * "盒马**店" "盒马MAX冻干蜂蜜柠檬片150g泡茶干片水果茶泡水喝茶叶独立包装"
+    source: "ALiPay"
+    pay_time: "2026-07-14 20:45:59"
+    deal_no: "20260714300000018492651243379302"
+    order_id: "20260714300000018492651243379302"
+    merchant_id: "T200P5123569646617005729"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    Expenses:FIXME                                       29.90 CNY
+    Liabilities:CreditCard:ICBC:8393                    -29.90 CNY
+
+
+2026-07-14 * "颂潮**店" "冻干青桔金桔柠檬适合女生喝的果茶搭百香果泡水饮品冷泡水果茶"
+    source: "ALiPay"
+    pay_time: "2026-07-14 20:45:49"
+    deal_no: "20260714300000018492651245788287"
+    order_id: "20260714300000018492651245788287"
+    merchant_id: "T200P5123395479812005729"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    Expenses:FIXME                                       19.80 CNY
+    Liabilities:CreditCard:ICBC:8393                    -19.80 CNY
+
+
+2026-07-15 * "秀玲(吕秀玲)" "转账"
+    source: "ALiPay"
+    pay_time: "2026-07-15 21:36:32"
+    deal_no: "20260715200040011100650018600203"
+    order_id: "20260715200040011100650018600203"
+    category: "转账红包"
+    type: "支出"
+    method: "余额宝"
+    status: "交易成功"
+    Expenses:FIXME                                      350.00 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao       -350.00 CNY
+
+
+2026-07-15 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-07-15 20:21:32"
+    deal_no: "2026071523001492651410463843"
+    order_id: "2026071523001492651410463843"
+    merchant_id: "41106600004857000220260715MM87gvb1"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 10.06 CNY
+    Liabilities:CreditCard:ICBC:8393                    -10.06 CNY
+
+
+2026-07-16 * "si**店" "Sinloy/辛鹿 挂耳咖啡 多风味精品现磨咖啡粉 云南咖啡鲜烘焙20杯"
+    source: "ALiPay"
+    pay_time: "2026-07-16 09:06:30"
+    deal_no: "20260716300000013792651202991800"
+    order_id: "20260716300000013792651202991800"
+    merchant_id: "T200P5123890621486005729"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    Expenses:Food:Groceries                              33.00 CNY
+    Liabilities:CreditCard:ICBC:8393                    -33.00 CNY
+
+
+2026-07-16 * "天**" "Sinloy辛鹿 冷萃咖啡现磨咖啡粉 拿铁袋泡挂耳咖啡混合装"
+    source: "ALiPay"
+    pay_time: "2026-07-16 09:06:22"
+    deal_no: "20260716300000013792651256866513"
+    order_id: "20260716300000013792651256866513"
+    merchant_id: "T200P5123570330302005729"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    Expenses:Food:Groceries                              36.90 CNY
+    Liabilities:CreditCard:ICBC:8393                    -36.90 CNY
+
+
+2026-07-17 * "天猫**市" "【自营】妮维雅止汗露女腋下走珠液香体滚珠石男士专用去异味进口"
+    source: "ALiPay"
+    pay_time: "2026-07-17 17:42:25"
+    deal_no: "2026071723001192651420673938"
+    order_id: "2026071723001192651420673938"
+    merchant_id: "T2700P5124984445463005729"
+    category: "美容美发"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "等待确认收货"
+    Expenses:FIXME                                       17.60 CNY
+    Liabilities:CreditCard:ICBC:8393                    -17.60 CNY
+
+
+2026-07-17 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-07-17 19:27:39"
+    deal_no: "2026071723001492651422674340"
+    order_id: "2026071723001492651422674340"
+    merchant_id: "72106600004857000220260717MMav58rr"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 15.88 CNY
+    Liabilities:CreditCard:ICBC:8393                    -15.88 CNY
+
+
