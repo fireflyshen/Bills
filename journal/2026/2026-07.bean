@@ -145,6 +145,8 @@
     status: "交易成功"
     Expenses:Technology:Network:Proxy                    13.15 CNY
     Liabilities:CreditCard:ICBC:8393                    -13.15 CNY
+
+
 2026-07-13 * "中国工商银行" "余额宝-转出到银行卡"
     source: "ALiPay"
     pay_time: "2026-07-13 21:53:04"
@@ -211,7 +213,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:FIXME                                        4.00 CNY
+    Expenses:Food:Snacks                                  4.00 CNY
     Liabilities:CreditCard:ICBC:8393                     -4.00 CNY
 
 
@@ -239,7 +241,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:FIXME                                       38.41 CNY
+    Expenses:Electronics:Accessories                     38.41 CNY
     Liabilities:CreditCard:ICBC:8393                    -38.41 CNY
 
 
@@ -253,7 +255,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:FIXME                                       29.90 CNY
+    Expenses:Food:Groceries                              29.90 CNY
     Liabilities:CreditCard:ICBC:8393                    -29.90 CNY
 
 
@@ -267,7 +269,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:FIXME                                       19.80 CNY
+    Expenses:Food:Groceries                              19.80 CNY
     Liabilities:CreditCard:ICBC:8393                    -19.80 CNY
 
 
@@ -280,7 +282,8 @@
     type: "支出"
     method: "余额宝"
     status: "交易成功"
-    Expenses:FIXME                                      350.00 CNY
+    Expenses:Household:DrinkingWater                    150.00 CNY  ; 打水
+    Expenses:Food:Meals                                 200.00 CNY  ; 早餐
     Assets:Investments:MoneyMarket:Alipay:YuEBao       -350.00 CNY
 
 
@@ -336,7 +339,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "等待确认收货"
-    Expenses:FIXME                                       17.60 CNY
+    Expenses:Personal:Care:Toiletries                    17.60 CNY
     Liabilities:CreditCard:ICBC:8393                    -17.60 CNY
 
 
@@ -352,5 +355,3 @@
     status: "交易成功"
     Expenses:Food:Snacks                                 15.88 CNY
     Liabilities:CreditCard:ICBC:8393                    -15.88 CNY
-
-
