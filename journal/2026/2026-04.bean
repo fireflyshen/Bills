@@ -1,6 +1,6 @@
 2026-04-01 * "Google" "Google Cloud"
-    Expenses:Technology:CloudInfrastructure:GoogleCloud  0.32 USD
-    Liabilities:CreditCard:ICBC:5788                  -0.32 USD
+    Expenses:Technology:CloudInfrastructure:GoogleCloud           0.32 USD
+    Liabilities:CreditCard:ICBC:5788                             -0.32 USD
 
 2026-04-04 * "中国移动" "话费自动充值"
     source: "ALiPay"
@@ -12,9 +12,8 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026040422001492651447776237"
-    Expenses:Communication:Mobile:Domestic            30.00 CNY
-    Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
-
+    Expenses:Communication:Mobile:Domestic                       30.00 CNY
+    Liabilities:CreditCard:ICBC:8393                            -30.00 CNY
 
 2026-04-03 * "零食很忙" "零食很忙河南南阳宛城新华商城店-消费"
     source: "WeChat"
@@ -24,9 +23,8 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003045202604038382250738"
-    Expenses:Food:Snacks                              19.10 CNY
-    Liabilities:CreditCard:ICBC:8393                 -19.10 CNY
-
+    Expenses:Food:Snacks                                         19.10 CNY
+    Liabilities:CreditCard:ICBC:8393                            -19.10 CNY
 
 2026-04-04 * "南阳市万德隆商贸有限责任公司" "南阳市万德隆商贸有限责任公司"
     source: "WeChat"
@@ -36,13 +34,12 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003107202604041498887373"
-    Expenses:Food:Groceries                           13.11 CNY
-    Liabilities:CreditCard:ICBC:8393                 -13.11 CNY
-
+    Expenses:Food:Groceries                                      13.11 CNY
+    Liabilities:CreditCard:ICBC:8393                            -13.11 CNY
 
 2026-04-04 * "拼多多" "酵母蛋白"
-    Expenses:Health:Supplements                       89.10 CNY
-    Liabilities:CreditCard:ICBC:8393                 -89.10 CNY
+    Expenses:Health:Supplements                                  89.10 CNY
+    Liabilities:CreditCard:ICBC:8393                            -89.10 CNY
 
 2026-04-05 * "中国工商银行" "余额宝-转出到银行卡"
     source: "ALiPay"
@@ -54,9 +51,8 @@
     type: "不计收支"
     method: "中国工商银行储蓄卡(4931)"
     status: "交易成功"
-    Assets:Bank:ICBC:Checking:4931                   315.33 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao    -315.33 CNY
-
+    Assets:Bank:ICBC:Checking:4931                              315.33 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao               -315.33 CNY
 
 2026-04-05 * "余额宝" "余额宝-单次转入"
     source: "ALiPay"
@@ -68,9 +64,8 @@
     type: "不计收支"
     method: "工商银行储蓄卡(4931)"
     status: "交易成功"
-    Assets:Investments:MoneyMarket:Alipay:YuEBao     320.33 CNY
-    Assets:Bank:ICBC:Checking:4931                  -320.33 CNY
-
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                320.33 CNY
+    Assets:Bank:ICBC:Checking:4931                             -320.33 CNY
 
 2026-04-05 * "南阳市卧龙区梅溪路捷森文具商行" "南阳市卧龙区梅溪路捷森文具商行-消费"
     source: "ALiPay"
@@ -82,9 +77,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&红包"
     status: "交易成功"
-    Expenses:Household:Supplies                        9.99 CNY
-    Liabilities:CreditCard:ICBC:8393                  -9.99 CNY
-
+    Expenses:Household:Supplies                                   9.99 CNY
+    Liabilities:CreditCard:ICBC:8393                             -9.99 CNY
 
 2026-04-05 * "零食很忙" "南阳市卧龙区雅涵食品商贸行（个体工商户）"
     source: "ALiPay"
@@ -96,9 +90,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&红包"
     status: "交易成功"
-    Expenses:Food:Snacks                              16.66 CNY
-    Liabilities:CreditCard:ICBC:8393                 -16.66 CNY
-
+    Expenses:Food:Snacks                                         16.66 CNY
+    Liabilities:CreditCard:ICBC:8393                            -16.66 CNY
 
 2026-04-06 * "x***3" "员工离岗文档资料模板WORDPDF"
     source: "ALiPay"
@@ -110,9 +103,8 @@
     type: "支出"
     method: "余额宝"
     status: "交易成功"
-    Expenses:Household:Supplies                       35.00 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao     -35.00 CNY
-
+    Expenses:Household:Supplies                                  35.00 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                -35.00 CNY
 
 2026-04-06 * "淘宝闪购" "偶遇饭先森干锅焖饭(新华广场店)外卖订单"
     source: "ALiPay"
@@ -124,9 +116,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Food:Meals                               11.49 CNY
-    Liabilities:CreditCard:ICBC:8393                 -11.49 CNY
-
+    Expenses:Food:Meals                                          11.49 CNY
+    Liabilities:CreditCard:ICBC:8393                            -11.49 CNY
 
 2026-04-06 * "苏州浩斯利信息科技有限公司" "元宝充值14.3元"
     source: "ALiPay"
@@ -138,9 +129,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Technology:Network:Proxy                 14.30 CNY
-    Liabilities:CreditCard:ICBC:8393                 -14.30 CNY
-
+    Expenses:Technology:Network:Proxy                            14.30 CNY
+    Liabilities:CreditCard:ICBC:8393                            -14.30 CNY
 
 2026-04-06 * "零食很忙" "南阳市卧龙区雅涵食品商贸行（个体工商户）"
     source: "ALiPay"
@@ -152,9 +142,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&红包&工作日到店支付立减券"
     status: "交易成功"
-    Expenses:Food:Snacks                              11.00 CNY
-    Liabilities:CreditCard:ICBC:8393                 -11.00 CNY
-
+    Expenses:Food:Snacks                                         11.00 CNY
+    Liabilities:CreditCard:ICBC:8393                            -11.00 CNY
 
 2026-04-07 * "成都零食有鸣商业管理有限公司" "河南省南阳市宛城区建设中路店"
     source: "ALiPay"
@@ -166,9 +155,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&红包&工作日到店支付立减券"
     status: "交易成功"
-    Expenses:Food:Snacks                              16.27 CNY
-    Liabilities:CreditCard:ICBC:8393                 -16.27 CNY
-
+    Expenses:Food:Snacks                                         16.27 CNY
+    Liabilities:CreditCard:ICBC:8393                            -16.27 CNY
 
 2026-04-11 * "零食很忙" "南阳市卧龙区雅涵食品商贸行（个体工商户）"
     source: "ALiPay"
@@ -180,8 +168,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&红包"
     status: "交易成功"
-    Expenses:Food:Snacks                              17.38 CNY
-    Liabilities:CreditCard:ICBC:8393                 -17.38 CNY
+    Expenses:Food:Snacks                                         17.38 CNY
+    Liabilities:CreditCard:ICBC:8393                            -17.38 CNY
 
 2026-04-12 * "中国移动" "话费自动充值"
     source: "ALiPay"
@@ -193,9 +181,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Communication:Mobile:Domestic            30.00 CNY
-    Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
-
+    Expenses:Communication:Mobile:Domestic                       30.00 CNY
+    Liabilities:CreditCard:ICBC:8393                            -30.00 CNY
 
 2026-04-13 * "中国工商银行" "信用卡还款"
     source: "ALiPay"
@@ -206,14 +193,12 @@
     type: "不计收支"
     method: "余额宝"
     status: "还款成功"
-    Liabilities:CreditCard:ICBC:8393                 453.63 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao    -453.63 CNY
-
+    Liabilities:CreditCard:ICBC:8393                            453.63 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao               -453.63 CNY
 
 2026-04-14 * "中国工商银行" "5788信用卡还款"
-    Liabilities:CreditCard:ICBC:5788                  22.42 USD @@ 153.52 CNY
-    Assets:Bank:ICBC:Checking:4931                  -153.52 CNY
-
+    Liabilities:CreditCard:ICBC:5788                             22.42 USD @@ 153.52 CNY
+    Assets:Bank:ICBC:Checking:4931                             -153.52 CNY
 
 2026-04-14 * "中国工商银行" "余额宝-转出到银行卡"
     source: "ALiPay"
@@ -225,9 +210,8 @@
     type: "不计收支"
     method: "中国工商银行储蓄卡(4931)"
     status: "交易成功"
-    Assets:Bank:ICBC:Checking:4931                   153.52 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao    -153.52 CNY
-
+    Assets:Bank:ICBC:Checking:4931                              153.52 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao               -153.52 CNY
 
 2026-04-18 * "中国移动" "话费自动充值"
     source: "ALiPay"
@@ -239,14 +223,12 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Communication:Mobile:Domestic            30.00 CNY
-    Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
-
+    Expenses:Communication:Mobile:Domestic                       30.00 CNY
+    Liabilities:CreditCard:ICBC:8393                            -30.00 CNY
 
 2026-04-19 * "Google" "Google One Pro"
-    Expenses:Technology:AI:Google                     22.10 USD
-    Liabilities:CreditCard:ICBC:5788                 -22.10 USD
-
+    Expenses:Technology:AI:Google                                22.10 USD
+    Liabilities:CreditCard:ICBC:5788                            -22.10 USD
 
 2026-04-12 * "零食很忙" "南阳市卧龙区雅涵食品商贸行（个体工商户）"
     source: "WeChat"
@@ -256,9 +238,8 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003014202604127646112509"
-    Expenses:Food:Snacks                              11.30 CNY
-    Liabilities:CreditCard:ICBC:8393                 -11.30 CNY
-
+    Expenses:Food:Snacks                                         11.30 CNY
+    Liabilities:CreditCard:ICBC:8393                            -11.30 CNY
 
 2026-04-14 * "零食很忙" "南阳市卧龙区雅涵食品商贸行（个体工商户）"
     source: "WeChat"
@@ -268,9 +249,8 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003102202604144950001487"
-    Expenses:Food:Snacks                              11.04 CNY
-    Liabilities:CreditCard:ICBC:8393                 -11.04 CNY
-
+    Expenses:Food:Snacks                                         11.04 CNY
+    Liabilities:CreditCard:ICBC:8393                            -11.04 CNY
 
 2026-04-16 * "零食很忙" "零食很忙河南南阳宛城新华商城店-消费"
     source: "WeChat"
@@ -280,9 +260,8 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003014202604163067452002"
-    Expenses:Food:Snacks                              26.80 CNY
-    Liabilities:CreditCard:ICBC:8393                 -26.80 CNY
-
+    Expenses:Food:Snacks                                         26.80 CNY
+    Liabilities:CreditCard:ICBC:8393                            -26.80 CNY
 
 2026-04-18 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
     source: "WeChat"
@@ -292,9 +271,8 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003124202604180998815050"
-    Expenses:Food:Snacks                              18.08 CNY
-    Liabilities:CreditCard:ICBC:8393                 -18.08 CNY
-
+    Expenses:Food:Snacks                                         18.08 CNY
+    Liabilities:CreditCard:ICBC:8393                            -18.08 CNY
 
 2026-04-19 * "iCloud 由云上贵州运营" "iCloud；04.19购买"
     source: "ALiPay"
@@ -306,9 +284,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Technology:CloudStorage:ICloud            6.00 CNY
-    Liabilities:CreditCard:ICBC:8393                  -6.00 CNY
-
+    Expenses:Technology:CloudStorage:ICloud                       6.00 CNY
+    Liabilities:CreditCard:ICBC:8393                             -6.00 CNY
 
 2026-04-19 * "怡家24小时便利店" "怡家24小时便利店1_10021002604192303420732802718106_XJLW126041923034187074934201007"
     source: "ALiPay"
@@ -320,9 +297,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&红包"
     status: "交易成功"
-    Expenses:Food:Snacks                               2.99 CNY
-    Liabilities:CreditCard:ICBC:8393                  -2.99 CNY
-
+    Expenses:Food:Snacks                                          2.99 CNY
+    Liabilities:CreditCard:ICBC:8393                             -2.99 CNY
 
 2026-04-19 * "河南**章" "河南刻章定制圆形光敏章印方形红胶名字私章定刻椭圆刻字制作印章"
     source: "ALiPay"
@@ -334,9 +310,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Services:LocalServices                   30.00 CNY
-    Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
-
+    Expenses:Services:LocalServices                              30.00 CNY
+    Liabilities:CreditCard:ICBC:8393                            -30.00 CNY
 
 2026-04-21 * "零食很忙河南南阳宛城新华商城店" "二维码支付"
     source: "ALiPay"
@@ -348,9 +323,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&红包"
     status: "交易成功"
-    Expenses:Food:Snacks                              21.86 CNY
-    Liabilities:CreditCard:ICBC:8393                 -21.86 CNY
-
+    Expenses:Food:Snacks                                         21.86 CNY
+    Liabilities:CreditCard:ICBC:8393                            -21.86 CNY
 
 2026-04-23 * "零食很忙河南南阳宛城新华商城店" "二维码支付"
     source: "ALiPay"
@@ -362,9 +336,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&红包"
     status: "交易成功"
-    Expenses:Food:Snacks                              14.69 CNY
-    Liabilities:CreditCard:ICBC:8393                 -14.69 CNY
-
+    Expenses:Food:Snacks                                         14.69 CNY
+    Liabilities:CreditCard:ICBC:8393                            -14.69 CNY
 
 2026-04-20 * "顺丰速运" "散单运费-顺丰速运"
     source: "WeChat"
@@ -374,9 +347,8 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4500000122202604205820445137"
-    Expenses:Services:Logistics                       12.00 CNY
-    Liabilities:CreditCard:ICBC:8393                 -12.00 CNY
-
+    Expenses:Services:Logistics                                  12.00 CNY
+    Liabilities:CreditCard:ICBC:8393                            -12.00 CNY
 
 2026-04-26 * "中信银行" "余额宝-转出到银行卡"
     source: "ALiPay"
@@ -388,13 +360,12 @@
     type: "不计收支"
     method: "中信银行储蓄卡(4668)"
     status: "交易成功"
-    Assets:Bank:CNCB:Checking:4668                    46.00 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao     -46.00 CNY
-
+    Assets:Bank:CNCB:Checking:4668                               46.00 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                -46.00 CNY
 
 2026-04-26 * "中信银行" "余额宝-转出到银行卡"
-    Liabilities:CreditCard:CNCB:9177                  50.00 CNY
-    Assets:Bank:CNCB:Checking:4668                   -50.00 CNY
+    Liabilities:CreditCard:CNCB:9177                             50.00 CNY
+    Assets:Bank:CNCB:Checking:4668                              -50.00 CNY
 
 2026-04-26 * "中国移动" "话费自动充值"
     source: "ALiPay"
@@ -406,9 +377,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Communication:Mobile:Domestic            30.00 CNY
-    Liabilities:CreditCard:ICBC:8393                 -30.00 CNY
-
+    Expenses:Communication:Mobile:Domestic                       30.00 CNY
+    Liabilities:CreditCard:ICBC:8393                            -30.00 CNY
 
 2026-04-26 * "零食很忙河南南阳宛城新华商城店" "二维码支付"
     source: "ALiPay"
@@ -420,9 +390,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&红包"
     status: "交易成功"
-    Expenses:Food:Snacks                              11.43 CNY
-    Liabilities:CreditCard:ICBC:8393                 -11.43 CNY
-
+    Expenses:Food:Snacks                                         11.43 CNY
+    Liabilities:CreditCard:ICBC:8393                            -11.43 CNY
 
 2026-04-26 * "零食很忙河南南阳宛城新华商城店" "二维码支付"
     source: "ALiPay"
@@ -434,9 +403,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)&红包"
     status: "交易成功"
-    Expenses:Food:Snacks                               3.33 CNY
-    Liabilities:CreditCard:ICBC:8393                  -3.33 CNY
-
+    Expenses:Food:Snacks                                          3.33 CNY
+    Liabilities:CreditCard:ICBC:8393                             -3.33 CNY
 
 2026-04-30 * "杭州恒座网络科技有限公司" "元宝充值135.1元"
     source: "ALiPay"
@@ -448,6 +416,6 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
-    Expenses:Technology:Network:Proxy                134.61 CNY
-    Liabilities:CreditCard:ICBC:8393                -134.61 CNY
+    Expenses:Technology:Network:Proxy                           134.61 CNY
+    Liabilities:CreditCard:ICBC:8393                           -134.61 CNY
 ;

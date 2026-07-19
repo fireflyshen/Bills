@@ -9,16 +9,16 @@
 2025-11-19 pad Liabilities:CreditCard:ICBC:8393  Equity:Opening-Balances
 2025-11-19 pad Liabilities:CreditCard:ICBC:5788  Equity:Opening-Balances
 
-2025-11-20 balance Assets:Bank:ICBC:Checking:4931          0.98 CNY
-2025-11-20 balance Assets:Bank:CMB:Checking:9231           0.49 CNY
-2025-11-20 balance Assets:Investments:MoneyMarket:CMB:ZhaoZhaoBao          0.26 CNY
-2025-11-20 balance Assets:Bank:ICBC:TimeDeposit    38486.17 CNY
-2025-11-20 balance Assets:Investments:MoneyMarket:Alipay:YuEBao        32424.47 CNY
-2025-11-20 balance Assets:StoredValue:Apple:AppleID              0.39 USD
-2025-11-20 balance Liabilities:ConsumerCredit:Huabei     -93.88 CNY
-2025-11-20 balance Liabilities:CreditCard:ICBC:8393   -2.25 CNY
-2025-11-20 balance Liabilities:CreditCard:ICBC:5788  -19.99 USD
+2025-11-20 balance Assets:Bank:ICBC:Checking:4931                 0.98 CNY
+2025-11-20 balance Assets:Bank:CMB:Checking:9231                  0.49 CNY
+2025-11-20 balance Assets:Investments:MoneyMarket:CMB:ZhaoZhaoBao  0.26 CNY
+2025-11-20 balance Assets:Bank:ICBC:TimeDeposit               38486.17 CNY
+2025-11-20 balance Assets:Investments:MoneyMarket:Alipay:YuEBao  32424.47 CNY
+2025-11-20 balance Assets:StoredValue:Apple:AppleID               0.39 USD
+2025-11-20 balance Liabilities:ConsumerCredit:Huabei            -93.88 CNY
+2025-11-20 balance Liabilities:CreditCard:ICBC:8393              -2.25 CNY
+2025-11-20 balance Liabilities:CreditCard:ICBC:5788             -19.99 USD
 
 ; 2026
 2026-03-27 pad Assets:Cash:DigitalWallet:WeChat:Balance        Equity:Opening-Balances
-2026-03-28 balance Assets:Cash:DigitalWallet:WeChat:Balance          0.01 ~ 0.00 CNY
+2026-03-28 balance Assets:Cash:DigitalWallet:WeChat:Balance          0.01 ~  0.00 CNY
