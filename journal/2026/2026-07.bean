@@ -161,6 +161,11 @@
     Assets:Investments:MoneyMarket:Alipay:YuEBao       -695.15 CNY
 
 
+2026-07-13 * "中国工商银行" "信用卡提前还款"
+    Liabilities:CreditCard:ICBC:8393                 695.15 CNY
+    Assets:Bank:ICBC:Checking:4931                  -695.15 CNY
+
+
 2026-07-13 * "中国工商银行" "余额宝-转出到银行卡"
     source: "ALiPay"
     pay_time: "2026-07-13 21:53:51"
@@ -199,8 +204,8 @@
     type: "不计收支"
     method: "中国工商银行储蓄卡(4931)"
     status: "交易成功"
-    Liabilities:CreditCard:ICBC:5788                40.90 USD @@ 0.02 CNY
-    Assets:Bank:ICBC:Checking:4931                  -0.02 CNY
+    Liabilities:CreditCard:ICBC:5788                40.90 USD @@ 277.34 CNY
+    Assets:Bank:ICBC:Checking:4931                  -277.34 CNY
 
 
 2026-07-13 * "河南南阳宛城嵩山路美宜佳" "美宜佳豫00298店"
