@@ -147,6 +147,10 @@
     Expenses:Technology:Network:Proxy                            14.30 CNY
     Liabilities:CreditCard:ICBC:8393                            -14.30 CNY
 
+2026-07-12 * "Google" "Google One Pro"
+    Expenses:Technology:AI:Google                                22.10 USD
+    Liabilities:CreditCard:ICBC:5788                            -22.10 USD
+
 2026-07-12 * "拼多多" "电话卡"
     Expenses:Communication:Mobile:Domestic                        0.01 CNY
     Liabilities:CreditCard:ICBC:8393                             -0.01 CNY
