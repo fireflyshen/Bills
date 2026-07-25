@@ -353,3 +353,149 @@
     status: "交易成功"
     Expenses:Food:Snacks                                         15.88 CNY
     Liabilities:CreditCard:ICBC:8393                            -15.88 CNY
+2026-07-19 * "iCloud 由云上贵州运营" "iCloud; Purchases on 07.19"
+    source: "ALiPay"
+    pay_time: "2026-07-19 11:06:41"
+    deal_no: "2026071923001492651431785069"
+    order_id: "2026071923001492651431785069"
+    merchant_id: "MQVS2Z540Da0"
+    category: "文化休闲"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Technology:CloudStorage:ICloud               6.00 CNY
+    Liabilities:CreditCard:ICBC:8393                     -6.00 CNY
+
+
+2026-07-19 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-07-19 19:21:27"
+    deal_no: "2026071923001492651433214456"
+    order_id: "2026071923001492651433214456"
+    merchant_id: "21106600004857000220260719MMdn89fd"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 15.22 CNY
+    Liabilities:CreditCard:ICBC:8393                    -15.22 CNY
+
+
+2026-07-19 * "香**" "johnsblend日本香薰卧室内衣柜香氛片家用车载香包挂件持久淡香"
+    source: "ALiPay"
+    pay_time: "2026-07-19 12:55:34"
+    deal_no: "20260719300000015292651228818299"
+    order_id: "20260719300000015292651228818299"
+    merchant_id: "T200P5124832705639005729"
+    category: "日用百货"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    Expenses:FIXME                                       21.50 CNY
+    Liabilities:CreditCard:ICBC:8393                    -21.50 CNY
+
+
+2026-07-20 * "威露**店" "清可新固体香薰膏衣柜鞋柜车载室内卫生间厕所除臭香薰freshHY"
+    source: "ALiPay"
+    pay_time: "2026-07-20 10:55:30"
+    deal_no: "2026072023001192651436284465"
+    order_id: "2026072023001192651436284465"
+    merchant_id: "T200P5124695655439005729"
+    category: "日用百货"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "等待确认收货"
+    Expenses:FIXME                                       16.90 CNY
+    Liabilities:CreditCard:ICBC:8393                    -16.90 CNY
+
+
+2026-07-20 * "宫本**店" "宫本川海盐后背痘控油祛除螨沐浴露止痒持久留香72小时香水男女士"
+    source: "ALiPay"
+    pay_time: "2026-07-20 10:56:22"
+    deal_no: "20260720300000014492651235405196"
+    order_id: "20260720300000014492651235405196"
+    merchant_id: "T200P5124833461215060103"
+    category: "美容美发"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    Expenses:FIXME                                       35.90 CNY
+    Liabilities:CreditCard:ICBC:8393                    -35.90 CNY
+
+
+2026-07-20 * "繁***4" "【最新】全国移动流量120GB 立即到账 每月可领 一月一次"
+    source: "ALiPay"
+    pay_time: "2026-07-20 20:48:04"
+    deal_no: "2026072023001192651437669492"
+    order_id: "2026072023001192651437669492"
+    merchant_id: "T200P5124847539435014911"
+    category: "日用百货"
+    type: "支出"
+    method: "余额宝"
+    status: "等待确认收货"
+    Expenses:FIXME                                        0.10 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao         -0.10 CNY
+
+
+2026-07-22 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-07-22 19:01:23"
+    deal_no: "2026072223001492651449353920"
+    order_id: "2026072223001492651449353920"
+    merchant_id: "47106600004857000220260722MMhp316o"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 17.63 CNY
+    Liabilities:CreditCard:ICBC:8393                    -17.63 CNY
+
+
+2026-07-21 * "Ma妈～ (辰星＆心语)" "转账备注:微信转账"
+    source: "WeChat"
+    pay_time: "2026-07-21"
+    merchant_id: "/"
+    tx_type: "转账"
+    method: "/"
+    status: "已存入零钱"
+    order_id: "1000050001202607210333706674881"
+    Assets:Cash:DigitalWallet:WeChat:Balance             20.00 CNY
+    Income:Family:Support                               -20.00 CNY
+
+
+2026-07-21 * "南阳市万德隆商贸有限责任公司" "南阳市万德隆商贸有限责任公司"
+    source: "WeChat"
+    pay_time: "2026-07-21"
+    merchant_id: "20260721203906409940093979"
+    tx_type: "商户消费"
+    method: "零钱"
+    status: "支付成功"
+    order_id: "4200003106202607210191064339"
+    Income:FIXME                                         18.67 CNY
+    Assets:Cash:DigitalWallet:Alipay:Balance            -18.67 CNY
+
+
+2026-07-24 * "姐 (徐爱平13720596344)" "转账备注:微信转账"
+    source: "WeChat"
+    pay_time: "2026-07-24"
+    merchant_id: "/"
+    tx_type: "转账"
+    method: "/"
+    status: "已存入零钱"
+    order_id: "1000050001202607240127329450214"
+    Assets:Cash:DigitalWallet:Alipay:Balance           2100.00 CNY
+    Income:FIXME                                      -2100.00 CNY
+
+
+2026-07-25 * "松果出行" "先骑后付"
+    source: "WeChat"
+    pay_time: "2026-07-25"
+    merchant_id: "RVxBsjTEMMIqdZjOAtrh9xxxxxxd18vx"
+    tx_type: "商户消费"
+    method: "零钱"
+    status: "支付成功"
+    order_id: "4200003184202607259601806491"
+    Expenses:Transport:Local                              2.50 CNY
+    Assets:Cash:DigitalWallet:Alipay:Balance             -2.50 CNY
+
+
