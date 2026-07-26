@@ -4,7 +4,7 @@
 
 **Goal:** Replace ambiguous and misclassified Bills accounts with the approved purpose-first taxonomy while proving that every historical posting amount, currency, date, and transaction balance is unchanged.
 
-**Architecture:** Add two narrow safety layers before migrating data: unit-tested ledger-account hygiene checks in the normal validator, and a unit-tested before/after migration verifier that permits account-field changes only. Then update explicit account opens and every ledger, budget, and subscription reference according to the approved mapping.
+**Architecture:** Add two narrow safety layers before migrating data: unit-tested ledger-account hygiene checks in the normal validator, and a unit-tested before/after migration verifier that permits structurally typed account-field changes only. Then update explicit account opens and every ledger, budget, and subscription reference according to the approved mapping.
 
 **Tech Stack:** Python 3, Beancount, unittest, Beanquery, JSON, Make
 
@@ -497,6 +497,17 @@ verify_account_migration.py BEFORE_MAIN AFTER_MAIN MAPPING_JSON
 It loads both ledgers, fails on loader errors, prints every mismatch, and exits
 1 on failure or prints `Account migration verification passed.` and exits 0.
 
+Review hardening supersedes the illustrative implementation above:
+
+- Recognize account fields structurally (`account`, `source_account`, and
+  Beancount custom values whose `dtype` equals `beancount.core.account.TYPE`).
+- Preserve account-shaped strings in payees, narrations, tags, links, and
+  metadata so changing them still fails as a non-account change.
+- Reject any mapped source that remains open or referenced unless its own path
+  is explicitly included in its permitted replacement list.
+- Verify Open date, currencies, booking method, and metadata independently
+  from the account path.
+
 - [ ] **Step 4: Run verifier tests and verify GREEN**
 
 Run:
@@ -559,6 +570,7 @@ Create `docs/account-migration-2026-07.json`:
   ],
   "Expenses:Technology:Network:Proxy": [
     "Expenses:Food:Snacks",
+    "Expenses:Technology:Network:Proxy",
     "Expenses:Transport:RideHailing"
   ],
   "Expenses:Technology:Services:Office": [
@@ -569,7 +581,8 @@ Create `docs/account-migration-2026-07.json`:
     "Expenses:Technology:DigitalGoods:GiftCards"
   ],
   "Expenses:Technology:Software:Applications": [
-    "Expenses:Technology:DigitalGoods:GiftCards"
+    "Expenses:Technology:DigitalGoods:GiftCards",
+    "Expenses:Technology:Software:Applications"
   ],
   "Expenses:Technology:Subscriptions:General": [
     "Expenses:Technology:Network:Proxy"
@@ -585,7 +598,8 @@ Create `docs/account-migration-2026-07.json`:
 }
 ```
 
-Unchanged accounts are valid only when old and new paths are exactly equal.
+Unchanged mapped source accounts are valid only when their own path is
+explicitly included in the replacement list.
 
 - [ ] **Step 6: Run all unit tests**
 
@@ -595,7 +609,7 @@ Run:
 /Users/enmu/.local/pipx/venvs/fava/bin/python -m unittest discover -s tests -v
 ```
 
-Expected: 6 tests pass.
+Expected: 11 tests pass.
 
 ### Task 3: Migrate account opens and historical postings
 
@@ -741,7 +755,7 @@ make validate
 git diff --check
 ```
 
-Expected: 6 unit tests pass; ledger validation reports 0 errors; subscription
+Expected: 11 unit tests pass; ledger validation reports 0 errors; subscription
 config is valid; Git reports no whitespace errors.
 
 ### Task 5: Prove the migration and commit

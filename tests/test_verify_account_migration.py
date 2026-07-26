@@ -97,6 +97,91 @@ class MigrationVerifierTests(unittest.TestCase):
             any("open fields changed" in item for item in failures)
         )
 
+    def test_rejects_an_account_shaped_payee_change(self):
+        before = BEFORE.replace(
+            '"Didi"',
+            '"Expenses:Transport:Local"',
+        )
+        after = AFTER.replace(
+            '"Didi"',
+            '"Expenses:Transport:RideHailing"',
+        )
+        failures = verify_migration(
+            entries(before),
+            entries(after),
+            {
+                "Expenses:Transport:Local": {
+                    "Expenses:Transport:RideHailing"
+                }
+            },
+        )
+
+        self.assertTrue(
+            any("non-account fields changed" in item for item in failures)
+        )
+
+    def test_rejects_an_account_shaped_metadata_change(self):
+        before = BEFORE.replace(
+            '2026-01-02 * "Didi" "Ride"\n',
+            '2026-01-02 * "Didi" "Ride"\n'
+            '  reference: "Expenses:Transport:Local"\n',
+        )
+        after = AFTER.replace(
+            '2026-01-02 * "Didi" "Ride"\n',
+            '2026-01-02 * "Didi" "Ride"\n'
+            '  reference: "Expenses:Transport:RideHailing"\n',
+        )
+        failures = verify_migration(
+            entries(before),
+            entries(after),
+            {
+                "Expenses:Transport:Local": {
+                    "Expenses:Transport:RideHailing"
+                }
+            },
+        )
+
+        self.assertTrue(
+            any("non-account fields changed" in item for item in failures)
+        )
+
+    def test_rejects_a_retired_source_left_unchanged(self):
+        failures = verify_migration(
+            entries(BEFORE),
+            entries(BEFORE),
+            {
+                "Expenses:Transport:Local": {
+                    "Expenses:Transport:RideHailing"
+                }
+            },
+        )
+
+        self.assertTrue(
+            any("retired account remains" in item for item in failures)
+        )
+
+    def test_accepts_an_allowed_account_change_in_a_custom_directive(self):
+        before = """
+2026-01-01 open Expenses:Health:Supplements CNY
+2026-01-01 custom "budget" Expenses:Health:Supplements "monthly" 150 CNY
+"""
+        after = before.replace(
+            "Expenses:Health:Supplements",
+            "Expenses:Health:Supplements:VitaminsAndMinerals",
+        )
+
+        failures = verify_migration(
+            entries(before),
+            entries(after),
+            {
+                "Expenses:Health:Supplements": {
+                    "Expenses:Health:Supplements:VitaminsAndMinerals"
+                }
+            },
+        )
+
+        self.assertEqual(failures, [])
+
 
 if __name__ == "__main__":
     unittest.main()

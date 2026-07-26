@@ -5,35 +5,36 @@ from __future__ import annotations
 
 import argparse
 import json
-import re
 
 from beancount import loader
+from beancount.core.account import TYPE as ACCOUNT_TYPE
 from beancount.core.data import Open
 
 
-ACCOUNT_RE = re.compile(
-    r"^[A-Z][A-Za-z0-9-]*(?::[A-Z][A-Za-z0-9-]*)+$"
-)
+ACCOUNT_FIELDS = frozenset({"account", "source_account"})
 SOURCE_META_KEYS = frozenset({"filename", "lineno"})
 
 
-def is_account(value) -> bool:
-    return isinstance(value, str) and ACCOUNT_RE.fullmatch(value) is not None
+def is_custom_account_value(value) -> bool:
+    return (
+        getattr(value, "dtype", None) == ACCOUNT_TYPE
+        and hasattr(value, "value")
+    )
 
 
 def account_values(value) -> list[str]:
-    if is_account(value):
-        return [value]
     if isinstance(value, dict):
-        accounts = []
-        for key, item in value.items():
-            if key not in SOURCE_META_KEYS:
-                accounts.extend(account_values(item))
-        return accounts
+        return []
     if hasattr(value, "_fields"):
+        if is_custom_account_value(value):
+            return [value.value]
         accounts = []
         for field in value._fields:
-            accounts.extend(account_values(getattr(value, field)))
+            item = getattr(value, field)
+            if field in ACCOUNT_FIELDS and isinstance(item, str):
+                accounts.append(item)
+            else:
+                accounts.extend(account_values(item))
         return accounts
     if isinstance(value, (list, tuple, set, frozenset)):
         accounts = []
@@ -44,8 +45,6 @@ def account_values(value) -> list[str]:
 
 
 def normalized(value):
-    if is_account(value):
-        return "<ACCOUNT>"
     if isinstance(value, dict):
         return tuple(
             sorted(
@@ -55,10 +54,17 @@ def normalized(value):
             )
         )
     if hasattr(value, "_fields"):
+        custom_account_value = is_custom_account_value(value)
         return (
             type(value).__name__,
             tuple(
-                (field, normalized(getattr(value, field)))
+                (
+                    field,
+                    "<ACCOUNT>"
+                    if field in ACCOUNT_FIELDS
+                    or (custom_account_value and field == "value")
+                    else normalized(getattr(value, field)),
+                )
                 for field in value._fields
             ),
         )
@@ -76,6 +82,11 @@ def verify_account(
     location: str,
 ) -> list[str]:
     if before == after:
+        if (
+            before in allowed_mapping
+            and before not in set(allowed_mapping[before])
+        ):
+            return [f"{location}: retired account remains: {before}"]
         return []
     allowed = set(allowed_mapping.get(before, ()))
     if after in allowed:
@@ -103,6 +114,11 @@ def verify_opens(
     for account, old_open in sorted(before_opens.items()):
         new_open = after_opens.get(account)
         if new_open is not None:
+            if (
+                account in allowed_mapping
+                and account not in set(allowed_mapping[account])
+            ):
+                failures.append(f"{account}: retired account remains open")
             if normalized(old_open) != normalized(new_open):
                 failures.append(f"{account}: open fields changed")
             continue

@@ -45,6 +45,7 @@
   ],
   "Expenses:Technology:Network:Proxy": [
     "Expenses:Food:Snacks",
+    "Expenses:Technology:Network:Proxy",
     "Expenses:Transport:RideHailing"
   ],
   "Expenses:Technology:Services:Office": [
@@ -55,7 +56,8 @@
     "Expenses:Technology:DigitalGoods:GiftCards"
   ],
   "Expenses:Technology:Software:Applications": [
-    "Expenses:Technology:DigitalGoods:GiftCards"
+    "Expenses:Technology:DigitalGoods:GiftCards",
+    "Expenses:Technology:Software:Applications"
   ],
   "Expenses:Technology:Subscriptions:General": [
     "Expenses:Technology:Network:Proxy"

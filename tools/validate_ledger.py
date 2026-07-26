@@ -13,6 +13,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from beancount import loader
+from beancount.core.account import TYPE as ACCOUNT_TYPE
 from beancount.core.data import Balance, Close, Custom, Open, Pad, Transaction
 
 
@@ -60,7 +61,7 @@ def unused_open_accounts(opens, first_usage) -> list[str]:
 def account_values(custom: Custom) -> set[str]:
     accounts = set()
     for value in custom.values:
-        if getattr(value, "dtype", None) == "account":
+        if getattr(value, "dtype", None) == ACCOUNT_TYPE:
             accounts.add(value.value)
     return accounts
 

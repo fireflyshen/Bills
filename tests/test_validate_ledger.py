@@ -1,8 +1,11 @@
 import unittest
 
+from beancount import loader
+
 from tools.validate_ledger import (
     ambiguous_account_segments,
     unused_open_accounts,
+    used_accounts,
 )
 
 
@@ -32,6 +35,20 @@ class AccountHygieneTests(unittest.TestCase):
         self.assertEqual(
             unused_open_accounts(opens, first_usage),
             ["Expenses:Food:Snacks"],
+        )
+
+    def test_treats_custom_account_values_as_usage(self):
+        entries, errors, _ = loader.load_string(
+            """
+2026-01-01 open Expenses:Health:Supplements CNY
+2026-01-01 custom "budget" Expenses:Health:Supplements "monthly" 150 CNY
+"""
+        )
+        self.assertEqual(errors, [])
+
+        self.assertIn(
+            "Expenses:Health:Supplements",
+            used_accounts(entries),
         )
 
 
