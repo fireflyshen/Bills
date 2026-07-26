@@ -236,6 +236,22 @@ class MigrationVerifierTests(unittest.TestCase):
         )
         self.assertTrue(any("unapproved account change" in item for item in failures))
 
+    def test_rejects_changed_fields_on_a_renamed_open(self):
+        changed = AFTER.replace(
+            "2026-01-01 open Expenses:Transport:RideHailing",
+            "2025-12-31 open Expenses:Transport:RideHailing",
+        )
+        failures = verify_migration(
+            entries(BEFORE),
+            entries(changed),
+            {
+                "Expenses:Transport:Local": {
+                    "Expenses:Transport:RideHailing"
+                }
+            },
+        )
+        self.assertTrue(any("open fields changed" in item for item in failures))
+
 
 if __name__ == "__main__":
     unittest.main()
@@ -331,10 +347,62 @@ def verify_account(before, after, allowed_mapping, location):
     return [f"{location}: unapproved account change: {before} -> {after}"]
 
 
+def verify_opens(before_entries, after_entries, allowed_mapping):
+    before_opens = {
+        entry.account: entry
+        for entry in before_entries
+        if isinstance(entry, Open)
+    }
+    after_opens = {
+        entry.account: entry
+        for entry in after_entries
+        if isinstance(entry, Open)
+    }
+    failures = []
+
+    for account, old_open in sorted(before_opens.items()):
+        new_open = after_opens.get(account)
+        if new_open is not None:
+            if normalized(old_open) != normalized(new_open):
+                failures.append(f"{account}: open fields changed")
+            continue
+        if account not in allowed_mapping:
+            failures.append(f"{account}: open was removed without approval")
+            continue
+        replacements = set(allowed_mapping[account])
+        if replacements and not replacements.intersection(after_opens):
+            failures.append(
+                f"{account}: open was removed without an approved replacement"
+            )
+
+    for account, new_open in sorted(after_opens.items()):
+        if account in before_opens:
+            continue
+        sources = [
+            before_opens[source]
+            for source, replacements in allowed_mapping.items()
+            if source in before_opens and account in replacements
+        ]
+        if not sources:
+            failures.append(f"{account}: open was added without approval")
+            continue
+        if not any(
+            normalized(source_open) == normalized(new_open)
+            for source_open in sources
+        ):
+            failures.append(f"{account}: open fields changed")
+
+    return failures
+
+
 def verify_migration(before_entries, after_entries, allowed_mapping):
+    failures = verify_opens(
+        before_entries,
+        after_entries,
+        allowed_mapping,
+    )
     before = [entry for entry in before_entries if not isinstance(entry, Open)]
     after = [entry for entry in after_entries if not isinstance(entry, Open)]
-    failures = []
 
     if len(before) != len(after):
         failures.append(
@@ -437,7 +505,7 @@ Run:
 /Users/enmu/.local/pipx/venvs/fava/bin/python -m unittest tests/test_verify_account_migration.py -v
 ```
 
-Expected: 3 tests pass.
+Expected: 4 tests pass.
 
 - [ ] **Step 5: Add the approved one-to-many mapping**
 
@@ -476,6 +544,7 @@ Create `docs/account-migration-2026-07.json`:
   "Expenses:Services:LocalServices": [
     "Expenses:Services:Administrative"
   ],
+  "Expenses:Services:General": [],
   "Expenses:Technology:AI:Google": [
     "Expenses:Technology:AI:Google:GoogleOnePro"
   ],
@@ -510,7 +579,9 @@ Create `docs/account-migration-2026-07.json`:
     "Expenses:Transport:PublicTransit",
     "Expenses:Transport:RideHailing",
     "Expenses:Transport:Vehicle:Purchase"
-  ]
+  ],
+  "Income:Interest:Bank:ICBC": [],
+  "Income:Interest:Investment": []
 }
 ```
 
@@ -524,7 +595,7 @@ Run:
 /Users/enmu/.local/pipx/venvs/fava/bin/python -m unittest discover -s tests -v
 ```
 
-Expected: 5 tests pass.
+Expected: 6 tests pass.
 
 ### Task 3: Migrate account opens and historical postings
 
@@ -670,7 +741,7 @@ make validate
 git diff --check
 ```
 
-Expected: 5 unit tests pass; ledger validation reports 0 errors; subscription
+Expected: 6 unit tests pass; ledger validation reports 0 errors; subscription
 config is valid; Git reports no whitespace errors.
 
 ### Task 5: Prove the migration and commit

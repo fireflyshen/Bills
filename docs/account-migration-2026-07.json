@@ -27,6 +27,7 @@
     "Expenses:Personal:Wellness:SleepAids",
     "Expenses:Professional:Resources"
   ],
+  "Expenses:Services:General": [],
   "Expenses:Services:LocalServices": [
     "Expenses:Services:Administrative"
   ],
@@ -64,5 +65,7 @@
     "Expenses:Transport:PublicTransit",
     "Expenses:Transport:RideHailing",
     "Expenses:Transport:Vehicle:Purchase"
-  ]
+  ],
+  "Income:Interest:Bank:ICBC": [],
+  "Income:Interest:Investment": []
 }

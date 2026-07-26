@@ -50,7 +50,7 @@
 ; Communication, transport and local services
 2025-12-01 open Expenses:Communication:Mobile:Domestic        ; domestic mobile service
 2026-05-31 open Expenses:Communication:Mobile:International   ; international mobile service
-2025-12-01 open Expenses:Communication:Mobile:ServiceFees
+2025-11-22 open Expenses:Communication:Mobile:ServiceFees
 2025-12-01 open Expenses:Transport:Micromobility
 2025-12-01 open Expenses:Transport:PublicTransit
 2025-12-01 open Expenses:Transport:RideHailing

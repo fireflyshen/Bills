@@ -78,6 +78,25 @@ class MigrationVerifierTests(unittest.TestCase):
             any("unapproved account change" in item for item in failures)
         )
 
+    def test_rejects_changed_fields_on_a_renamed_open(self):
+        changed = AFTER.replace(
+            "2026-01-01 open Expenses:Transport:RideHailing",
+            "2025-12-31 open Expenses:Transport:RideHailing",
+        )
+        failures = verify_migration(
+            entries(BEFORE),
+            entries(changed),
+            {
+                "Expenses:Transport:Local": {
+                    "Expenses:Transport:RideHailing"
+                }
+            },
+        )
+
+        self.assertTrue(
+            any("open fields changed" in item for item in failures)
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

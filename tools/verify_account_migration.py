@@ -83,14 +83,74 @@ def verify_account(
     return [f"{location}: unapproved account change: {before} -> {after}"]
 
 
+def verify_opens(
+    before_entries,
+    after_entries,
+    allowed_mapping,
+) -> list[str]:
+    before_opens = {
+        entry.account: entry
+        for entry in before_entries
+        if isinstance(entry, Open)
+    }
+    after_opens = {
+        entry.account: entry
+        for entry in after_entries
+        if isinstance(entry, Open)
+    }
+    failures = []
+
+    for account, old_open in sorted(before_opens.items()):
+        new_open = after_opens.get(account)
+        if new_open is not None:
+            if normalized(old_open) != normalized(new_open):
+                failures.append(f"{account}: open fields changed")
+            continue
+
+        if account not in allowed_mapping:
+            failures.append(f"{account}: open was removed without approval")
+            continue
+
+        replacements = set(allowed_mapping[account])
+        if replacements and not replacements.intersection(after_opens):
+            failures.append(
+                f"{account}: open was removed without an approved replacement"
+            )
+
+    for account, new_open in sorted(after_opens.items()):
+        if account in before_opens:
+            continue
+
+        sources = [
+            before_opens[source]
+            for source, replacements in allowed_mapping.items()
+            if source in before_opens and account in replacements
+        ]
+        if not sources:
+            failures.append(f"{account}: open was added without approval")
+            continue
+
+        if not any(
+            normalized(source_open) == normalized(new_open)
+            for source_open in sources
+        ):
+            failures.append(f"{account}: open fields changed")
+
+    return failures
+
+
 def verify_migration(
     before_entries,
     after_entries,
     allowed_mapping,
 ) -> list[str]:
+    failures = verify_opens(
+        before_entries,
+        after_entries,
+        allowed_mapping,
+    )
     before = [entry for entry in before_entries if not isinstance(entry, Open)]
     after = [entry for entry in after_entries if not isinstance(entry, Open)]
-    failures = []
 
     if len(before) != len(after):
         failures.append(
