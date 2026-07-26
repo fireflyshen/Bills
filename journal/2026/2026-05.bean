@@ -31,7 +31,7 @@
     Liabilities:CreditCard:ICBC:8393                            -29.87 CNY
 
 2026-05-03 * "拼多多" "手机膜"
-    Expenses:Electronics:MobileAccessories                       12.87 CNY
+    Expenses:Electronics:Accessories                             12.87 CNY
     Liabilities:CreditCard:ICBC:8393                            -12.87 CNY
 
 2026-05-03 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
@@ -348,7 +348,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Electronics:Batteries                               13.50 CNY
+    Expenses:Household:Supplies                                  13.50 CNY
     Liabilities:CreditCard:ICBC:8393                            -13.50 CNY
 
 2026-05-26 * "拼多多平台商户" "电池"
@@ -361,7 +361,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Electronics:Batteries                               13.50 CNY
+    Expenses:Household:Supplies                                  13.50 CNY
     Liabilities:CreditCard:ICBC:8393                            -13.50 CNY
 
 2026-05-28 * "中国移动" "话费自动充值"

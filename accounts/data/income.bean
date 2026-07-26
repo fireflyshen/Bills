@@ -3,20 +3,20 @@
 ;   Income:<source-class>:<source-or-platform>[:product-or-identifier]
 
 ; Labor and household support
-2026-04-27 open Income:Employment:Salary                       CNY
+2026-04-27 open Income:Employment:Salary                       CNY  ; 工资及劳动收入
   income_type: "earned"
 
-2025-11-20 open Income:Family:Support                          CNY
+2025-11-20 open Income:Family:Support                          CNY  ; 家庭成员补贴及支持收入
   income_type: "family_support"
 
 ; Yield, interest and rebates
-2025-11-20 open Income:Interest:Alipay:YuEBao                  CNY
+2025-11-20 open Income:Interest:Alipay:YuEBao                  CNY  ; 余额宝收益
   platform: "Alipay"
   product: "YuEBao"
 
-2025-11-20 open Income:Interest:Bank:ICBC:4931                 CNY
+2025-11-20 open Income:Interest:Bank:ICBC:4931                 CNY  ; 工商银行 4931 存款利息
   institution: "ICBC"
   last4: "4931"
 
-2025-11-20 open Income:Rebates:CreditCards                     USD
+2025-11-20 open Income:Rebates:CreditCards                     USD  ; 信用卡返现及返利
   income_type: "rebate"

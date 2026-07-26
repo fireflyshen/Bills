@@ -3,32 +3,32 @@
 ;   Liabilities:<class>:<institution-or-domain>:<product-or-purpose>[:identifier]
 
 ; Revolving credit and consumer credit
-2025-01-01 open Liabilities:ConsumerCredit:Huabei               CNY
+2025-01-01 open Liabilities:ConsumerCredit:Huabei               CNY  ; 支付宝花呗消费信贷
   platform: "Alipay"
   product: "Huabei"
 
-2025-01-01 open Liabilities:CreditCard:ICBC:8393                CNY
+2025-01-01 open Liabilities:CreditCard:ICBC:8393                CNY  ; 工商银行 8393 人民币信用卡
   institution: "ICBC"
   account_type: "credit_card"
   last4: "8393"
 
-2025-01-01 open Liabilities:CreditCard:ICBC:5788                USD, GBP
+2025-01-01 open Liabilities:CreditCard:ICBC:5788                USD, GBP  ; 工商银行 5788 美元及英镑信用卡
   institution: "ICBC"
   account_type: "credit_card"
   last4: "5788"
   note: "Multi-currency card used for USD and GBP subscriptions."
 
-2026-03-27 open Liabilities:CreditCard:CNCB:9177                CNY
+2026-03-27 open Liabilities:CreditCard:CNCB:9177                CNY  ; 中信银行 9177 人民币信用卡
   institution: "CNCB"
   account_type: "credit_card"
   last4: "9177"
 
 ; Accrued payables used to separate expense recognition from cash payment.
-2026-01-01 open Liabilities:AccruedExpenses:Family:PropertyManagement  CNY
+2026-01-01 open Liabilities:AccruedExpenses:Family:PropertyManagement  CNY  ; 家庭物业费预提应付款
   domain: "family"
   recognition: "monthly_accrual"
 
-2026-01-01 open Liabilities:AccruedExpenses:Family:Insurance:Mom        CNY
+2026-01-01 open Liabilities:AccruedExpenses:Family:Insurance:Mom        CNY  ; 母亲保险费预提应付款
   domain: "family"
   recognition: "monthly_accrual"
 

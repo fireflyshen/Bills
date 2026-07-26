@@ -249,7 +249,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:Electronics:CareAndCleaning                         22.70 CNY
+    Expenses:Electronics:Accessories                             22.70 CNY
     Liabilities:CreditCard:ICBC:8393                            -22.70 CNY
 
 2026-06-19 * "中国移动" "话费自动充值"

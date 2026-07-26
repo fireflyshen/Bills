@@ -84,7 +84,7 @@
     Liabilities:CreditCard:ICBC:8393                            -14.80 CNY
 
 2026-07-08 * "拼多多" "纳米布屏幕清洁"
-    Expenses:Electronics:CareAndCleaning                         13.99 CNY
+    Expenses:Electronics:Accessories                             13.99 CNY
     Liabilities:CreditCard:ICBC:8393                            -13.99 CNY
 
 2026-07-09 * "和信**室" "移动不换号转换8元保号老用户降低变29元新资费取消合约定制方案"
@@ -247,7 +247,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:Electronics:CablesAndChargers                       38.41 CNY
+    Expenses:Electronics:Accessories                             38.41 CNY
     Liabilities:CreditCard:ICBC:8393                            -38.41 CNY
 
 2026-07-14 * "盒马**店" "盒马MAX冻干蜂蜜柠檬片150g泡茶干片水果茶泡水喝茶叶独立包装"

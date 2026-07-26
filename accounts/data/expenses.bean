@@ -4,64 +4,62 @@
 ; Keep recurring subscriptions at the most actionable level for budgets.
 
 ; Technology: AI, cloud, developer tools, networking and domains
-2025-11-22 open Expenses:Technology:AI:Google:GoogleOnePro
-2025-11-22 open Expenses:Technology:AI:JetBrains:AIPro
-2025-11-22 open Expenses:Technology:AI:OpenAI:Codex
-2025-11-22 open Expenses:Technology:CloudInfrastructure:AliYun:RDS
-2025-11-22 open Expenses:Technology:CloudInfrastructure:AliYun:ServiceFees
-2025-11-22 open Expenses:Technology:CloudInfrastructure:AliYun:VPS
-2025-11-22 open Expenses:Technology:CloudInfrastructure:GoogleCloud
-2025-11-22 open Expenses:Technology:CloudInfrastructure:Racknerd:VPS
-2025-11-22 open Expenses:Technology:CloudStorage:Apple:ICloud
-2025-11-22 open Expenses:Technology:DeveloperTools:JetBrains
-2025-11-22 open Expenses:Technology:DeveloperTools:Fonts
-2025-11-20 open Expenses:Technology:DigitalGoods:GiftCards
-2025-11-22 open Expenses:Technology:Domains
-2025-11-22 open Expenses:Technology:Network:Proxy
-2025-11-20 open Expenses:Technology:Software:Applications
-2025-11-22 open Expenses:Technology:Software:Productivity
+2025-11-22 open Expenses:Technology:AI:Google:GoogleOnePro                 ; Google One Pro 人工智能订阅
+2025-11-22 open Expenses:Technology:AI:JetBrains:AIPro                    ; JetBrains AI Pro 订阅
+2025-11-22 open Expenses:Technology:AI:OpenAI:Codex                       ; OpenAI Codex 订阅
+2025-11-22 open Expenses:Technology:CloudInfrastructure:AliYun:RDS        ; 阿里云 RDS 数据库服务
+2025-11-22 open Expenses:Technology:CloudInfrastructure:AliYun:ServiceFees ; 阿里云通用服务费
+2025-11-22 open Expenses:Technology:CloudInfrastructure:AliYun:VPS        ; 阿里云云服务器
+2025-11-22 open Expenses:Technology:CloudInfrastructure:GoogleCloud       ; Google Cloud 云服务
+2025-11-22 open Expenses:Technology:CloudInfrastructure:Racknerd:VPS      ; RackNerd 云服务器
+2025-11-22 open Expenses:Technology:CloudStorage:Apple:ICloud              ; Apple iCloud 云存储
+2025-11-22 open Expenses:Technology:DeveloperTools:JetBrains               ; JetBrains 开发工具
+2025-11-22 open Expenses:Technology:DeveloperTools:Fonts                   ; 开发及设计字体
+2025-11-20 open Expenses:Technology:DigitalGoods:GiftCards                 ; 数字礼品卡
+2025-11-22 open Expenses:Technology:Domains                                ; 域名注册及续费
+2025-11-22 open Expenses:Technology:Network:Proxy                           ; 网络代理服务
+2025-11-20 open Expenses:Technology:Software:Applications                  ; 通用软件及应用
+2025-11-22 open Expenses:Technology:Software:Productivity                  ; 效率工具软件
 
 ; Education and entertainment
-2025-11-22 open Expenses:Education:ProfessionalDevelopment
-2025-12-01 open Expenses:Entertainment:Subscriptions:Music
+2025-11-22 open Expenses:Education:ProfessionalDevelopment                 ; 职业学习与技能提升
+2025-12-01 open Expenses:Entertainment:Subscriptions:Music                 ; 音乐服务订阅
 
 ; Daily living
-2025-11-26 open Expenses:Food:Groceries                       ; groceries, coffee, tea, pantry
-2025-12-09 open Expenses:Food:Meals                           ; meals and takeout
-2025-12-01 open Expenses:Food:Snacks                          ; snacks, drinks, afternoon tea
-2025-11-26 open Expenses:Health:Supplements:Mixed             ; bundled supplement purchases
-2025-11-26 open Expenses:Health:Supplements:Protein           ; protein supplements and refunds
-2025-11-26 open Expenses:Health:Supplements:VitaminsAndMinerals
-2025-12-06 open Expenses:Household:CleaningSupplies
-2026-07-15 open Expenses:Household:DrinkingWater              ; drinking-water refills
-2025-12-06 open Expenses:Household:HomeFragrance
-2025-12-06 open Expenses:Household:Kitchenware
-2025-11-26 open Expenses:Personal:Care:Haircut                ; grooming
-2026-07-17 open Expenses:Personal:Care:Toiletries             ; deodorant and personal toiletries
-2026-07-05 open Expenses:Personal:Accessories                 ; Accessories
-2025-12-06 open Expenses:Personal:Stationery
-2025-12-06 open Expenses:Personal:Wellness:SleepAids
-2025-12-06 open Expenses:Professional:Resources
-2026-01-08 open Expenses:Electronics:Batteries
-2026-01-08 open Expenses:Electronics:CablesAndChargers
-2026-01-08 open Expenses:Electronics:CareAndCleaning
-2026-01-08 open Expenses:Electronics:MobileAccessories
+2025-11-26 open Expenses:Food:Groceries                                    ; 食材、咖啡、茶及日常食品
+2025-12-09 open Expenses:Food:Meals                                        ; 正餐、早餐及外卖
+2025-12-01 open Expenses:Food:Snacks                                       ; 零食、饮料及下午茶
+2025-11-26 open Expenses:Health:Supplements:Mixed                          ; 多品类组合营养补充剂
+2025-11-26 open Expenses:Health:Supplements:Protein                        ; 蛋白质类营养补充剂
+2025-11-26 open Expenses:Health:Supplements:VitaminsAndMinerals            ; 维生素及矿物质补充剂
+2025-12-06 open Expenses:Household:CleaningSupplies                        ; 家庭清洁用品
+2026-07-15 open Expenses:Household:DrinkingWater                           ; 家庭饮用水及补水
+2025-12-06 open Expenses:Household:HomeFragrance                           ; 家居香氛用品
+2025-12-06 open Expenses:Household:Kitchenware                             ; 厨房器具及用品
+2025-11-26 open Expenses:Personal:Care:Haircut                             ; 理发及基础仪容护理
+2026-07-17 open Expenses:Personal:Care:Toiletries                          ; 除臭及个人洗护用品
+2026-07-05 open Expenses:Personal:Accessories                              ; 个人配饰
+2025-12-06 open Expenses:Personal:Stationery                               ; 个人文具
+2025-12-06 open Expenses:Personal:Wellness:SleepAids                       ; 助眠用品
+2025-12-06 open Expenses:Professional:Resources                            ; 工作所需资料及资源
+2026-01-08 open Expenses:Electronics:Accessories                           ; 手机、充电及电子设备配件与养护用品
+2026-01-08 open Expenses:Household:Supplies                                ; 电池等低频家庭杂项用品
 
 ; Communication, transport and local services
-2025-12-01 open Expenses:Communication:Mobile:Domestic        ; domestic mobile service
-2026-05-31 open Expenses:Communication:Mobile:International   ; international mobile service
-2025-11-22 open Expenses:Communication:Mobile:ServiceFees
-2025-12-01 open Expenses:Transport:Micromobility
-2025-12-01 open Expenses:Transport:PublicTransit
-2025-12-01 open Expenses:Transport:RideHailing
-2025-12-01 open Expenses:Transport:Vehicle:Purchase
-2026-02-07 open Expenses:Services:EquipmentRental:PowerBank
-2026-03-20 open Expenses:Services:Administrative
-2026-04-19 open Expenses:Services:Logistics                   ; parcel and logistics
-2026-03-27 open Expenses:Financial:BankFees
+2025-12-01 open Expenses:Communication:Mobile:Domestic                     ; 国内手机通信服务
+2026-05-31 open Expenses:Communication:Mobile:International                ; 国际漫游及境外通信服务
+2025-11-22 open Expenses:Communication:Mobile:ServiceFees                  ; 手机通信附加服务费
+2025-12-01 open Expenses:Transport:Micromobility                            ; 共享单车及短途微出行
+2025-12-01 open Expenses:Transport:PublicTransit                            ; 公交及轨道交通
+2025-12-01 open Expenses:Transport:RideHailing                              ; 网约车及出租车
+2025-12-01 open Expenses:Transport:Vehicle:Purchase                         ; 个人交通工具购置
+2026-02-07 open Expenses:Services:EquipmentRental:PowerBank                 ; 共享充电宝租赁
+2026-03-20 open Expenses:Services:Administrative                           ; 行政及证件办理服务
+2026-04-19 open Expenses:Services:Logistics                                ; 快递及物流服务
+2026-03-27 open Expenses:Financial:BankFees                                ; 银行及支付手续费
 
 ; Family obligations and pass-through support
-2026-05-22 open Expenses:Family:Support
-2026-01-01 open Expenses:Family:Housing:PropertyManagement
-2026-01-01 open Expenses:Family:Insurance:Mom
-2026-05-30 open Expenses:Family:Utilities:Electricity
+2026-05-22 open Expenses:Family:Support                                    ; 家庭成员生活支持
+2026-01-01 open Expenses:Family:Housing:PropertyManagement                 ; 家庭住房物业费
+2026-01-01 open Expenses:Family:Insurance:Mom                              ; 母亲保险费用
+2026-05-30 open Expenses:Family:Utilities:Electricity                      ; 家庭用电费用

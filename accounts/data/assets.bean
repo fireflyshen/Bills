@@ -4,51 +4,51 @@
 ; Bank deposits are cash equivalents and should stay separate from investments.
 
 ; Bank deposits
-2025-01-01 open Assets:Bank:ICBC:Checking:4931                  CNY
+2025-01-01 open Assets:Bank:ICBC:Checking:4931                  CNY  ; 工商银行 4931 活期账户
   institution: "ICBC"
   account_type: "checking"
   last4: "4931"
 
-2025-01-01 open Assets:Bank:ICBC:TimeDeposit                    CNY
+2025-01-01 open Assets:Bank:ICBC:TimeDeposit                    CNY  ; 工商银行定期存款
   institution: "ICBC"
   account_type: "time_deposit"
 
-2025-01-01 open Assets:Bank:CMB:Checking:9231                   CNY
+2025-01-01 open Assets:Bank:CMB:Checking:9231                   CNY  ; 招商银行 9231 活期账户
   institution: "CMB"
   account_type: "checking"
   last4: "9231"
 
-2026-03-27 open Assets:Bank:CNCB:Checking:4668                  CNY
+2026-03-27 open Assets:Bank:CNCB:Checking:4668                  CNY  ; 中信银行 4668 活期账户
   institution: "CNCB"
   account_type: "checking"
   last4: "4668"
 
 ; Payment wallets and platform balances
-2026-03-27 open Assets:Cash:DigitalWallet:Alipay:Balance        CNY
+2026-03-27 open Assets:Cash:DigitalWallet:Alipay:Balance        CNY  ; 支付宝余额
   platform: "Alipay"
   liquidity: "same_day"
 
-2026-03-27 open Assets:Cash:DigitalWallet:WeChat:Balance        CNY
+2026-03-27 open Assets:Cash:DigitalWallet:WeChat:Balance        CNY  ; 微信零钱
   platform: "WeChat"
   liquidity: "same_day"
 
-2025-01-01 open Assets:StoredValue:Apple:AppleID                USD
+2025-01-01 open Assets:StoredValue:Apple:AppleID                USD  ; Apple ID 美元储值余额
   platform: "Apple"
   account_type: "stored_value"
 
 ; Investments. Money-market funds are liquid investments, not bank deposits.
-2025-01-01 open Assets:Investments:MoneyMarket:Alipay:YuEBao    CNY
+2025-01-01 open Assets:Investments:MoneyMarket:Alipay:YuEBao    CNY  ; 支付宝余额宝货币基金
   platform: "Alipay"
   product: "YuEBao"
 
-2025-01-01 open Assets:Investments:MoneyMarket:CMB:ZhaoZhaoBao  CNY
+2025-01-01 open Assets:Investments:MoneyMarket:CMB:ZhaoZhaoBao  CNY  ; 招商银行朝朝宝货币基金
   institution: "CMB"
   product: "ZhaoZhaoBao"
 
 ; Receivables
-2026-01-03 open Assets:Receivables:Personal:SongJie             CNY
+2026-01-03 open Assets:Receivables:Personal:SongJie             CNY  ; 宋杰个人应收款
   counterparty: "SongJie"
 
 ; Temporary clearing for purchases made on behalf of family members.
-2026-07-24 open Assets:Clearing:FamilyPurchases                 CNY
+2026-07-24 open Assets:Clearing:FamilyPurchases                 CNY  ; 家庭代购临时清算款
   purpose: "family_purchase_pass_through"
