@@ -48,3 +48,7 @@
 ; Receivables
 2026-01-03 open Assets:Receivables:Personal:SongJie             CNY
   counterparty: "SongJie"
+
+; Temporary clearing for purchases made on behalf of family members.
+2026-07-24 open Assets:Clearing:FamilyPurchases                 CNY
+  purpose: "family_purchase_pass_through"

@@ -363,8 +363,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Technology:CloudStorage:ICloud               6.00 CNY
-    Liabilities:CreditCard:ICBC:8393                     -6.00 CNY
+    Expenses:Technology:CloudStorage:ICloud                       6.00 CNY
+    Liabilities:CreditCard:ICBC:8393                             -6.00 CNY
 
 
 2026-07-19 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
@@ -377,8 +377,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Food:Snacks                                 15.22 CNY
-    Liabilities:CreditCard:ICBC:8393                    -15.22 CNY
+    Expenses:Food:Snacks                                         15.22 CNY
+    Liabilities:CreditCard:ICBC:8393                            -15.22 CNY
 
 
 2026-07-19 * "香**" "johnsblend日本香薰卧室内衣柜香氛片家用车载香包挂件持久淡香"
@@ -391,8 +391,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:FIXME                                       21.50 CNY
-    Liabilities:CreditCard:ICBC:8393                    -21.50 CNY
+    Expenses:Household:Supplies                                  21.50 CNY
+    Liabilities:CreditCard:ICBC:8393                            -21.50 CNY
 
 
 2026-07-20 * "威露**店" "清可新固体香薰膏衣柜鞋柜车载室内卫生间厕所除臭香薰freshHY"
@@ -405,8 +405,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "等待确认收货"
-    Expenses:FIXME                                       16.90 CNY
-    Liabilities:CreditCard:ICBC:8393                    -16.90 CNY
+    Expenses:Household:Supplies                                  16.90 CNY
+    Liabilities:CreditCard:ICBC:8393                            -16.90 CNY
 
 
 2026-07-20 * "宫本**店" "宫本川海盐后背痘控油祛除螨沐浴露止痒持久留香72小时香水男女士"
@@ -419,8 +419,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:FIXME                                       35.90 CNY
-    Liabilities:CreditCard:ICBC:8393                    -35.90 CNY
+    Expenses:Personal:Care:Toiletries                            35.90 CNY
+    Liabilities:CreditCard:ICBC:8393                            -35.90 CNY
 
 
 2026-07-20 * "繁***4" "【最新】全国移动流量120GB 立即到账 每月可领 一月一次"
@@ -433,8 +433,8 @@
     type: "支出"
     method: "余额宝"
     status: "等待确认收货"
-    Expenses:FIXME                                        0.10 CNY
-    Assets:Investments:MoneyMarket:Alipay:YuEBao         -0.10 CNY
+    Expenses:Communication:Mobile:Domestic                        0.10 CNY
+    Assets:Investments:MoneyMarket:Alipay:YuEBao                 -0.10 CNY
 
 
 2026-07-22 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
@@ -447,11 +447,11 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Food:Snacks                                 17.63 CNY
-    Liabilities:CreditCard:ICBC:8393                    -17.63 CNY
+    Expenses:Food:Snacks                                         17.63 CNY
+    Liabilities:CreditCard:ICBC:8393                            -17.63 CNY
 
 
-2026-07-21 * "Ma妈～ (辰星＆心语)" "转账备注:微信转账"
+2026-07-21 * "Ma妈～ (辰星＆心语)" "绿豆款"
     source: "WeChat"
     pay_time: "2026-07-21"
     merchant_id: "/"
@@ -459,11 +459,11 @@
     method: "/"
     status: "已存入零钱"
     order_id: "1000050001202607210333706674881"
-    Assets:Cash:DigitalWallet:WeChat:Balance             20.00 CNY
-    Income:Family:Support                               -20.00 CNY
+    Assets:Cash:DigitalWallet:WeChat:Balance                     20.00 CNY
+    Income:Family:Support                                       -20.00 CNY
 
 
-2026-07-21 * "南阳市万德隆商贸有限责任公司" "南阳市万德隆商贸有限责任公司"
+2026-07-21 * "南阳市万德隆商贸有限责任公司" "绿豆、牛筋面"
     source: "WeChat"
     pay_time: "2026-07-21"
     merchant_id: "20260721203906409940093979"
@@ -471,11 +471,16 @@
     method: "零钱"
     status: "支付成功"
     order_id: "4200003106202607210191064339"
-    Income:FIXME                                         18.67 CNY
-    Assets:Cash:DigitalWallet:Alipay:Balance            -18.67 CNY
+    Expenses:Food:Groceries                                      18.67 CNY
+    Assets:Cash:DigitalWallet:WeChat:Balance                    -18.67 CNY
 
 
-2026-07-24 * "姐 (徐爱平13720596344)" "转账备注:微信转账"
+2026-07-24 * "京东" "美的空调（表姐代购，补贴）"
+    Assets:Clearing:FamilyPurchases                            2039.15 CNY
+    Assets:Cash:DigitalWallet:WeChat:Balance                  -2039.15 CNY
+
+
+2026-07-24 * "姐 (徐爱平13720596344)" "表姐空调代购款（补贴）"
     source: "WeChat"
     pay_time: "2026-07-24"
     merchant_id: "/"
@@ -483,8 +488,9 @@
     method: "/"
     status: "已存入零钱"
     order_id: "1000050001202607240127329450214"
-    Assets:Cash:DigitalWallet:Alipay:Balance           2100.00 CNY
-    Income:FIXME                                      -2100.00 CNY
+    Assets:Cash:DigitalWallet:WeChat:Balance                   2100.00 CNY
+    Assets:Clearing:FamilyPurchases                           -2039.15 CNY
+    Income:Family:Support                                       -60.85 CNY
 
 
 2026-07-25 * "松果出行" "先骑后付"
@@ -495,7 +501,5 @@
     method: "零钱"
     status: "支付成功"
     order_id: "4200003184202607259601806491"
-    Expenses:Transport:Local                              2.50 CNY
-    Assets:Cash:DigitalWallet:Alipay:Balance             -2.50 CNY
-
-
+    Expenses:Transport:Local                                      2.50 CNY
+    Assets:Cash:DigitalWallet:WeChat:Balance                     -2.50 CNY
