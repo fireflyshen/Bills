@@ -6,6 +6,11 @@
     Assets:StoredValue:Apple:AppleID                             17.00 USD
     Liabilities:CreditCard:ICBC:5788                            -17.00 USD
 
+2026-07-05 * "OpenAI" "ChatGPT CodeX"
+    Expenses:Technology:AI:OpenAI:Codex                          21.34 USD
+    Assets:StoredValue:Apple:AppleID                            -21.34 USD
+
+
 2026-07-04 * "中国工商银行" "信用卡还款"
     source: "ALiPay"
     pay_time: "2026-07-04 23:58:52"
