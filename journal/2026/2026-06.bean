@@ -74,7 +74,7 @@
     Liabilities:CreditCard:ICBC:5788                            -25.00 USD
 
 2026-06-05 * "OpenAI" "ChatGPT CodeX"
-    Expenses:Technology:AI:OpenAI                                19.99 USD
+    Expenses:Technology:AI:OpenAI:Codex                          19.99 USD
     Assets:StoredValue:Apple:AppleID                            -19.99 USD
 
 2026-06-07 * "零食有鸣（河南省南阳市宛城区建设中路店）" "河南省南阳市宛城区建设中路店零售商品"
@@ -184,7 +184,7 @@
     Liabilities:CreditCard:ICBC:8393                            -20.97 CNY
 
 2026-06-14 * "Google" "Google One Pro"
-    Expenses:Technology:AI:Google                                22.10 USD
+    Expenses:Technology:AI:Google:GoogleOnePro                   22.10 USD
     Liabilities:CreditCard:ICBC:5788                            -22.10 USD
 
 2026-06-16 * "中国移动" "话费自动充值"
@@ -210,7 +210,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Technology:CloudStorage:ICloud                       6.00 CNY
+    Expenses:Technology:CloudStorage:Apple:ICloud                 6.00 CNY
     Liabilities:CreditCard:ICBC:8393                             -6.00 CNY
 
 2026-06-19 * "si**店" "Sinloy/辛鹿 挂耳咖啡 多风味精品现磨咖啡粉 云南咖啡鲜烘焙20杯"
@@ -236,7 +236,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:Health:Supplements                                   5.94 CNY
+    Expenses:Health:Supplements:VitaminsAndMinerals               5.94 CNY
     Liabilities:CreditCard:ICBC:8393                             -5.94 CNY
 
 2026-06-19 * "博音**店" "博音适用ipad苹果macbook屏幕清洁湿巾电脑笔记本清洗剂擦拭布专用液晶显示器平板无酒精棉片神器手机异丙醇"
@@ -249,7 +249,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:Electronics:Accessories                             22.70 CNY
+    Expenses:Electronics:CareAndCleaning                         22.70 CNY
     Liabilities:CreditCard:ICBC:8393                            -22.70 CNY
 
 2026-06-19 * "中国移动" "话费自动充值"
@@ -321,7 +321,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)&焕新折扣"
     status: "等待确认收货"
-    Expenses:Household:Supplies                                  55.00 CNY
+    Expenses:Household:Kitchenware                               55.00 CNY
     Liabilities:CreditCard:ICBC:8393                            -55.00 CNY
 
 2026-06-21 * "ca**店" "开普山谷路易波士茶南非博士茶国宝茶包线叶金雀花茶rooibos tea"
@@ -373,7 +373,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:Household:Supplies                                  11.50 CNY
+    Expenses:Household:CleaningSupplies                          11.50 CNY
     Liabilities:CreditCard:ICBC:8393                            -11.50 CNY
 
 2026-06-25 * "d***e" "Berkeley Mono v2 正版字体 Cursor 同"
@@ -477,7 +477,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Technology:Services:Office                          99.00 CNY
+    Expenses:Technology:Software:Productivity                    99.00 CNY
     Liabilities:CreditCard:ICBC:8393                            -99.00 CNY
 
 2026-06-30 * "App Store &amp; Apple Music" "App Store &amp; Apple Music；06.30购买"

@@ -21,6 +21,10 @@ LEDGER = ROOT / "main.bean"
 
 REQUIRED_OPERATING_CURRENCIES = {"CNY", "USD", "GBP"}
 
+DISALLOWED_ACCOUNT_SEGMENTS = frozenset(
+    {"fix", "fixme", "general", "other", "localservices"}
+)
+
 REQUIRED_METADATA = {
     "Assets:Bank": {"institution", "account_type"},
     "Assets:Cash:DigitalWallet": {"platform", "liquidity"},
@@ -34,6 +38,23 @@ REQUIRED_METADATA = {
     "Income:Family": {"income_type"},
     "Income:Rebates": {"income_type"},
 }
+
+
+def ambiguous_account_segments(accounts) -> dict[str, tuple[str, ...]]:
+    failures = {}
+    for account in sorted(accounts):
+        matches = tuple(
+            segment
+            for segment in account.split(":")
+            if segment.casefold() in DISALLOWED_ACCOUNT_SEGMENTS
+        )
+        if matches:
+            failures[account] = matches
+    return failures
+
+
+def unused_open_accounts(opens, first_usage) -> list[str]:
+    return sorted(set(opens) - set(first_usage))
 
 
 def account_values(custom: Custom) -> set[str]:
@@ -100,6 +121,17 @@ def main() -> int:
 
     opens = {entry.account: entry for entry in entries if isinstance(entry, Open)}
     first_usage = used_accounts(entries)
+
+    unused_opens = unused_open_accounts(opens, first_usage)
+    if unused_opens:
+        failures.append("Open accounts without any ledger reference:")
+        failures.extend(f"  - {account}" for account in unused_opens)
+
+    ambiguous_accounts = ambiguous_account_segments(opens)
+    if ambiguous_accounts:
+        failures.append("Accounts contain ambiguous segments:")
+        for account, segments in ambiguous_accounts.items():
+            failures.append(f"  - {account}: {', '.join(segments)}")
 
     missing_opens = sorted(set(first_usage) - set(opens))
     if missing_opens:

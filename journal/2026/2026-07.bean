@@ -80,11 +80,11 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
-    Expenses:Technology:Network:Proxy                            14.80 CNY
+    Expenses:Transport:RideHailing                               14.80 CNY
     Liabilities:CreditCard:ICBC:8393                            -14.80 CNY
 
 2026-07-08 * "拼多多" "纳米布屏幕清洁"
-    Expenses:Electronics:Accessories                             13.99 CNY
+    Expenses:Electronics:CareAndCleaning                         13.99 CNY
     Liabilities:CreditCard:ICBC:8393                            -13.99 CNY
 
 2026-07-09 * "和信**室" "移动不换号转换8元保号老用户降低变29元新资费取消合约定制方案"
@@ -97,7 +97,7 @@
     type: "支出"
     method: "余额宝"
     status: "等待确认收货"
-    Expenses:Technology:Services:Other                            7.88 CNY
+    Expenses:Communication:Mobile:ServiceFees                     7.88 CNY
     Assets:Investments:MoneyMarket:Alipay:YuEBao                 -7.88 CNY
 
 2026-07-09 * "滴滴出行" "特惠快车打车-鲁师傅-07月09日行程"
@@ -110,11 +110,11 @@
     type: "支出"
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
-    Expenses:Technology:Network:Proxy                            15.04 CNY
+    Expenses:Transport:RideHailing                               15.04 CNY
     Liabilities:CreditCard:ICBC:8393                            -15.04 CNY
 
 2026-07-10 * "拼多多" "咖啡茶渍清洁剂"
-    Expenses:Household:Supplies                                  18.80 CNY
+    Expenses:Household:CleaningSupplies                          18.80 CNY
     Liabilities:CreditCard:ICBC:8393                            -18.80 CNY
 
 2026-07-10 * "国网河南省电力公司（南阳）" "电费"
@@ -140,7 +140,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Technology:Network:Proxy                            13.15 CNY
+    Expenses:Food:Snacks                                         13.15 CNY
     Liabilities:CreditCard:ICBC:8393                            -13.15 CNY
 
 2026-07-12 * "温州屿苏科技有限公司" "Proxy"
@@ -148,7 +148,7 @@
     Liabilities:CreditCard:ICBC:8393                            -14.30 CNY
 
 2026-07-12 * "Google" "Google One Pro"
-    Expenses:Technology:AI:Google                                22.10 USD
+    Expenses:Technology:AI:Google:GoogleOnePro                   22.10 USD
     Liabilities:CreditCard:ICBC:5788                            -22.10 USD
 
 2026-07-12 * "拼多多" "电话卡"
@@ -247,7 +247,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:Electronics:Accessories                             38.41 CNY
+    Expenses:Electronics:CablesAndChargers                       38.41 CNY
     Liabilities:CreditCard:ICBC:8393                            -38.41 CNY
 
 2026-07-14 * "盒马**店" "盒马MAX冻干蜂蜜柠檬片150g泡茶干片水果茶泡水喝茶叶独立包装"
@@ -363,7 +363,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Technology:CloudStorage:ICloud                       6.00 CNY
+    Expenses:Technology:CloudStorage:Apple:ICloud                 6.00 CNY
     Liabilities:CreditCard:ICBC:8393                             -6.00 CNY
 
 
@@ -391,7 +391,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:Household:Supplies                                  21.50 CNY
+    Expenses:Household:HomeFragrance                             21.50 CNY
     Liabilities:CreditCard:ICBC:8393                            -21.50 CNY
 
 
@@ -405,7 +405,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "等待确认收货"
-    Expenses:Household:Supplies                                  16.90 CNY
+    Expenses:Household:HomeFragrance                             16.90 CNY
     Liabilities:CreditCard:ICBC:8393                            -16.90 CNY
 
 
@@ -501,5 +501,5 @@
     method: "零钱"
     status: "支付成功"
     order_id: "4200003184202607259601806491"
-    Expenses:Transport:Local                                      2.50 CNY
+    Expenses:Transport:Micromobility                              2.50 CNY
     Assets:Cash:DigitalWallet:WeChat:Balance                     -2.50 CNY

@@ -21,7 +21,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026020522001492651454185872"
-    Expenses:Transport:Local                                      2.96 CNY
+    Expenses:Transport:RideHailing                                2.96 CNY
     Liabilities:CreditCard:ICBC:8393                             -2.96 CNY
 
 2026-02-06 * "苏州创旭嘉网络科技有限公司" "元宝充值11.0元"
@@ -73,7 +73,7 @@
     method: "工商银行信用卡(8393)&工商银行立减金"
     status: "交易成功"
     order_id: "2026020722001492651458932788"
-    Expenses:Transport:Local                                     13.05 CNY
+    Expenses:Transport:RideHailing                               13.05 CNY
     Liabilities:CreditCard:ICBC:8393                            -13.05 CNY
 
 2026-02-07 * "小电" "小电充电"
@@ -112,7 +112,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026020722001492651403703793"
-    Expenses:Transport:Local                                      1.00 CNY
+    Expenses:Transport:PublicTransit                              1.00 CNY
     Liabilities:CreditCard:ICBC:8393                             -1.00 CNY
 
 2026-02-11 * "怡家24小时便利店" "怡家24小时便利店1_10021002602110048570672802710626_XJLW126021100485445474934201620"
@@ -159,7 +159,7 @@
     Assets:Bank:ICBC:Checking:4931                             -153.07 CNY
 
 2026-02-14 * "Google" "Google One pro"
-    Expenses:Technology:AI:Google                                22.10 USD
+    Expenses:Technology:AI:Google:GoogleOnePro                   22.10 USD
     Liabilities:CreditCard:ICBC:5788                            -22.10 USD
 
 2026-02-14 * "中国工商银行" "余额宝-转出到银行卡"
@@ -224,7 +224,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026021923001492651449385887"
-    Expenses:Technology:CloudStorage:ICloud                       6.00 CNY
+    Expenses:Technology:CloudStorage:Apple:ICloud                 6.00 CNY
     Liabilities:CreditCard:ICBC:8393                             -6.00 CNY
 
 2026-02-20 * "怡家24小时便利店" "怡家24小时便利店1_10021002602200011030722802714940_XJLW126022000105154574934203164"
@@ -263,7 +263,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026022822001492651425553884"
-    Expenses:Technology:Services:Other                           20.70 CNY
+    Expenses:Technology:DigitalGoods:GiftCards                   20.70 CNY
     Liabilities:CreditCard:ICBC:8393                            -20.70 CNY
 
 2026-02-28 * "Yuansfer Inc" "Apple Gift Card US - Pockyt GiftCard"
@@ -276,7 +276,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026022822001492651425289854"
-    Expenses:Technology:Services:Other                           13.80 CNY
+    Expenses:Technology:DigitalGoods:GiftCards                   13.80 CNY
     Liabilities:CreditCard:ICBC:8393                            -13.80 CNY
 
 2026-02-19 * "怡家24小时便利店" "怡家24小时便利店1_10021002602190024350502802711524_XJLW126021900242541774934205822"
@@ -298,7 +298,7 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003061202602220068300736"
-    Expenses:Transport:Local                                      6.40 CNY
+    Expenses:Transport:Micromobility                              6.40 CNY
     Liabilities:CreditCard:ICBC:8393                             -6.40 CNY
 
 2026-02-23 * "芋道源码" "知识星球-加入「芋道快速开发平台BootCloud」星球"

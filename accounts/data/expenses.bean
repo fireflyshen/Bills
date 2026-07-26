@@ -4,52 +4,64 @@
 ; Keep recurring subscriptions at the most actionable level for budgets.
 
 ; Technology: AI, cloud, developer tools, networking and domains
-2025-11-22 open Expenses:Technology:AI:Google
-2025-11-22 open Expenses:Technology:AI:JetBrains
-2025-11-22 open Expenses:Technology:AI:OpenAI
+2025-11-22 open Expenses:Technology:AI:Google:GoogleOnePro
+2025-11-22 open Expenses:Technology:AI:JetBrains:AIPro
+2025-11-22 open Expenses:Technology:AI:OpenAI:Codex
 2025-11-22 open Expenses:Technology:CloudInfrastructure:AliYun:RDS
 2025-11-22 open Expenses:Technology:CloudInfrastructure:AliYun:ServiceFees
 2025-11-22 open Expenses:Technology:CloudInfrastructure:AliYun:VPS
 2025-11-22 open Expenses:Technology:CloudInfrastructure:GoogleCloud
 2025-11-22 open Expenses:Technology:CloudInfrastructure:Racknerd:VPS
-2025-11-22 open Expenses:Technology:CloudStorage:ICloud
+2025-11-22 open Expenses:Technology:CloudStorage:Apple:ICloud
 2025-11-22 open Expenses:Technology:DeveloperTools:JetBrains
 2025-11-22 open Expenses:Technology:DeveloperTools:Fonts
+2025-11-20 open Expenses:Technology:DigitalGoods:GiftCards
 2025-11-22 open Expenses:Technology:Domains
 2025-11-22 open Expenses:Technology:Network:Proxy
-2025-11-22 open Expenses:Technology:Services:Other
-2025-11-22 open Expenses:Technology:Services:Office
 2025-11-20 open Expenses:Technology:Software:Applications
-2025-11-22 open Expenses:Technology:Subscriptions:General
+2025-11-22 open Expenses:Technology:Software:Productivity
 
 ; Education and entertainment
 2025-11-22 open Expenses:Education:ProfessionalDevelopment
-2025-12-01 open Expenses:Entertainment:Subscriptions:DigitalMedia
+2025-12-01 open Expenses:Entertainment:Subscriptions:Music
 
 ; Daily living
 2025-11-26 open Expenses:Food:Groceries                       ; groceries, coffee, tea, pantry
 2025-12-09 open Expenses:Food:Meals                           ; meals and takeout
 2025-12-01 open Expenses:Food:Snacks                          ; snacks, drinks, afternoon tea
-2025-11-26 open Expenses:Health:Supplements                   ; supplements and OTC nutrition
-2025-12-06 open Expenses:Household:Supplies                   ; household consumables
+2025-11-26 open Expenses:Health:Supplements:Mixed             ; bundled supplement purchases
+2025-11-26 open Expenses:Health:Supplements:Protein           ; protein supplements and refunds
+2025-11-26 open Expenses:Health:Supplements:VitaminsAndMinerals
+2025-12-06 open Expenses:Household:CleaningSupplies
 2026-07-15 open Expenses:Household:DrinkingWater              ; drinking-water refills
+2025-12-06 open Expenses:Household:HomeFragrance
+2025-12-06 open Expenses:Household:Kitchenware
 2025-11-26 open Expenses:Personal:Care:Haircut                ; grooming
 2026-07-17 open Expenses:Personal:Care:Toiletries             ; deodorant and personal toiletries
 2026-07-05 open Expenses:Personal:Accessories                 ; Accessories
-2026-01-08 open Expenses:Electronics:Accessories              ; cables, screen protectors, peripherals
+2025-12-06 open Expenses:Personal:Stationery
+2025-12-06 open Expenses:Personal:Wellness:SleepAids
+2025-12-06 open Expenses:Professional:Resources
+2026-01-08 open Expenses:Electronics:Batteries
+2026-01-08 open Expenses:Electronics:CablesAndChargers
+2026-01-08 open Expenses:Electronics:CareAndCleaning
+2026-01-08 open Expenses:Electronics:MobileAccessories
 
 ; Communication, transport and local services
 2025-12-01 open Expenses:Communication:Mobile:Domestic        ; domestic mobile service
 2026-05-31 open Expenses:Communication:Mobile:International   ; international mobile service
-2025-12-01 open Expenses:Transport:Local                      ; local transport
+2025-12-01 open Expenses:Communication:Mobile:ServiceFees
+2025-12-01 open Expenses:Transport:Micromobility
+2025-12-01 open Expenses:Transport:PublicTransit
+2025-12-01 open Expenses:Transport:RideHailing
+2025-12-01 open Expenses:Transport:Vehicle:Purchase
 2026-02-07 open Expenses:Services:EquipmentRental:PowerBank
-2026-02-06 open Expenses:Services:General
-2026-03-20 open Expenses:Services:LocalServices
+2026-03-20 open Expenses:Services:Administrative
 2026-04-19 open Expenses:Services:Logistics                   ; parcel and logistics
-2026-03-27 open Expenses:Financial:Fees
+2026-03-27 open Expenses:Financial:BankFees
 
 ; Family obligations and pass-through support
-2026-05-22 open Expenses:Family:Support:Transfers
+2026-05-22 open Expenses:Family:Support
 2026-01-01 open Expenses:Family:Housing:PropertyManagement
 2026-01-01 open Expenses:Family:Insurance:Mom
 2026-05-30 open Expenses:Family:Utilities:Electricity

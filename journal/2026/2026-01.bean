@@ -11,7 +11,7 @@
     Assets:Investments:MoneyMarket:Alipay:YuEBao               -200.00 CNY
 
 2026-01-06 * "淘宝" "辅酶q10"
-    Expenses:Health:Supplements                                  23.90 CNY
+    Expenses:Health:Supplements:VitaminsAndMinerals              23.90 CNY
     Liabilities:CreditCard:ICBC:8393                            -23.90 CNY
 
 2026-01-07 * "拼多多平台商户" "意大利面"
@@ -23,7 +23,7 @@
     Liabilities:CreditCard:ICBC:8393                            -16.90 CNY
 
 2026-01-07 * "拼多多平台商户" "蛋白粉"
-    Expenses:Health:Supplements                                  27.83 CNY
+    Expenses:Health:Supplements:Protein                          27.83 CNY
     Liabilities:CreditCard:ICBC:8393                            -27.83 CNY
 
 2026-01-07 * "拼多多平台商户" "花生酱"
@@ -31,7 +31,7 @@
     Liabilities:CreditCard:ICBC:8393                            -15.80 CNY
 
 2026-01-09 * "拼多多平台商户" "手机壳"
-    Expenses:Electronics:Accessories                              4.30 CNY
+    Expenses:Electronics:MobileAccessories                        4.30 CNY
     Liabilities:CreditCard:ICBC:8393                             -4.30 CNY
 
 2026-01-07 * "南阳市万德隆商贸有限责任公司" "杂货"
@@ -129,7 +129,7 @@
     Liabilities:CreditCard:ICBC:8393                             -8.70 CNY
 
 2026-01-14 * "Google" "Google One pro"
-    Expenses:Technology:AI:Google                                22.10 USD
+    Expenses:Technology:AI:Google:GoogleOnePro                   22.10 USD
     Liabilities:CreditCard:ICBC:5788                            -22.10 USD
 
 2026-01-16 * "零食很忙河南南阳宛城和城广场店" "二维码支付"
@@ -168,7 +168,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026011922001492651445227607"
-    Expenses:Technology:CloudStorage:ICloud                       6.00 CNY
+    Expenses:Technology:CloudStorage:Apple:ICloud                 6.00 CNY
     Liabilities:CreditCard:ICBC:8393                             -6.00 CNY
 
 2026-01-22 * "中国移动" "话费自动充值"

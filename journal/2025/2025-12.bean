@@ -7,11 +7,11 @@
     Liabilities:ConsumerCredit:Huabei                           -26.10 CNY
 
 2025-12-03 * "淘宝/闲鱼" "Apple Music 家庭组年费"
-    Expenses:Entertainment:Subscriptions:DigitalMedia            35.00 CNY
+    Expenses:Entertainment:Subscriptions:Music                   35.00 CNY
     Liabilities:ConsumerCredit:Huabei                           -35.00 CNY
 
 2025-12-06 * "晨光文具" "笔记本"
-    Expenses:Household:Supplies                                   9.85 CNY
+    Expenses:Personal:Stationery                                  9.85 CNY
     Liabilities:ConsumerCredit:Huabei                            -9.85 CNY
 
 2025-12-09 * "花呗" "还款"
@@ -27,7 +27,7 @@
     Liabilities:CreditCard:ICBC:8393                            -16.75 CNY
 
 2025-12-10 * "AppStore" "Apple礼品卡"
-    Expenses:Technology:Software:Applications                    13.00 USD
+    Expenses:Technology:DigitalGoods:GiftCards                   13.00 USD
     Liabilities:CreditCard:ICBC:5788                            -13.00 USD
 
 2025-12-11 * "中国移动" "话费"
@@ -44,7 +44,7 @@
     Assets:Bank:ICBC:Checking:4931                             -252.21 CNY
 
 2025-12-14 * "Google" "Google One pro"
-    Expenses:Technology:AI:Google                                22.06 USD
+    Expenses:Technology:AI:Google:GoogleOnePro                   22.06 USD
     Liabilities:CreditCard:ICBC:5788                            -22.06 USD
 
 2025-12-14 * "NameSilo" "域名 caten.top"
@@ -60,7 +60,7 @@
     Liabilities:CreditCard:ICBC:8393                            -32.56 CNY
 
 2025-12-19 * "Apple" "iCloud"
-    Expenses:Technology:CloudStorage:ICloud                       6.00 CNY
+    Expenses:Technology:CloudStorage:Apple:ICloud                 6.00 CNY
     Liabilities:CreditCard:ICBC:8393                             -6.00 CNY
 
 2025-12-19 * "机场" "vpn"

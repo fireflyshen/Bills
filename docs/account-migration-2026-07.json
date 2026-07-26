@@ -1,0 +1,68 @@
+{
+  "Expenses:Electronics:Accessories": [
+    "Expenses:Electronics:Batteries",
+    "Expenses:Electronics:CablesAndChargers",
+    "Expenses:Electronics:CareAndCleaning",
+    "Expenses:Electronics:MobileAccessories"
+  ],
+  "Expenses:Entertainment:Subscriptions:DigitalMedia": [
+    "Expenses:Entertainment:Subscriptions:Music"
+  ],
+  "Expenses:Family:Support:Transfers": [
+    "Expenses:Family:Support"
+  ],
+  "Expenses:Financial:Fees": [
+    "Expenses:Financial:BankFees"
+  ],
+  "Expenses:Health:Supplements": [
+    "Expenses:Health:Supplements:Mixed",
+    "Expenses:Health:Supplements:Protein",
+    "Expenses:Health:Supplements:VitaminsAndMinerals"
+  ],
+  "Expenses:Household:Supplies": [
+    "Expenses:Household:CleaningSupplies",
+    "Expenses:Household:HomeFragrance",
+    "Expenses:Household:Kitchenware",
+    "Expenses:Personal:Stationery",
+    "Expenses:Personal:Wellness:SleepAids",
+    "Expenses:Professional:Resources"
+  ],
+  "Expenses:Services:LocalServices": [
+    "Expenses:Services:Administrative"
+  ],
+  "Expenses:Technology:AI:Google": [
+    "Expenses:Technology:AI:Google:GoogleOnePro"
+  ],
+  "Expenses:Technology:AI:JetBrains": [
+    "Expenses:Technology:AI:JetBrains:AIPro"
+  ],
+  "Expenses:Technology:AI:OpenAI": [
+    "Expenses:Technology:AI:OpenAI:Codex"
+  ],
+  "Expenses:Technology:CloudStorage:ICloud": [
+    "Expenses:Technology:CloudStorage:Apple:ICloud"
+  ],
+  "Expenses:Technology:Network:Proxy": [
+    "Expenses:Food:Snacks",
+    "Expenses:Transport:RideHailing"
+  ],
+  "Expenses:Technology:Services:Office": [
+    "Expenses:Technology:Software:Productivity"
+  ],
+  "Expenses:Technology:Services:Other": [
+    "Expenses:Communication:Mobile:ServiceFees",
+    "Expenses:Technology:DigitalGoods:GiftCards"
+  ],
+  "Expenses:Technology:Software:Applications": [
+    "Expenses:Technology:DigitalGoods:GiftCards"
+  ],
+  "Expenses:Technology:Subscriptions:General": [
+    "Expenses:Technology:Network:Proxy"
+  ],
+  "Expenses:Transport:Local": [
+    "Expenses:Transport:Micromobility",
+    "Expenses:Transport:PublicTransit",
+    "Expenses:Transport:RideHailing",
+    "Expenses:Transport:Vehicle:Purchase"
+  ]
+}

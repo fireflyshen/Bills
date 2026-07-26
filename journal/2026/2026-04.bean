@@ -38,7 +38,7 @@
     Liabilities:CreditCard:ICBC:8393                            -13.11 CNY
 
 2026-04-04 * "拼多多" "酵母蛋白"
-    Expenses:Health:Supplements                                  89.10 CNY
+    Expenses:Health:Supplements:Protein                          89.10 CNY
     Liabilities:CreditCard:ICBC:8393                            -89.10 CNY
 
 2026-04-05 * "中国工商银行" "余额宝-转出到银行卡"
@@ -77,7 +77,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)&红包"
     status: "交易成功"
-    Expenses:Household:Supplies                                   9.99 CNY
+    Expenses:Personal:Stationery                                  9.99 CNY
     Liabilities:CreditCard:ICBC:8393                             -9.99 CNY
 
 2026-04-05 * "零食很忙" "南阳市卧龙区雅涵食品商贸行（个体工商户）"
@@ -103,7 +103,7 @@
     type: "支出"
     method: "余额宝"
     status: "交易成功"
-    Expenses:Household:Supplies                                  35.00 CNY
+    Expenses:Professional:Resources                              35.00 CNY
     Assets:Investments:MoneyMarket:Alipay:YuEBao                -35.00 CNY
 
 2026-04-06 * "淘宝闪购" "偶遇饭先森干锅焖饭(新华广场店)外卖订单"
@@ -227,7 +227,7 @@
     Liabilities:CreditCard:ICBC:8393                            -30.00 CNY
 
 2026-04-19 * "Google" "Google One Pro"
-    Expenses:Technology:AI:Google                                22.10 USD
+    Expenses:Technology:AI:Google:GoogleOnePro                   22.10 USD
     Liabilities:CreditCard:ICBC:5788                            -22.10 USD
 
 2026-04-12 * "零食很忙" "南阳市卧龙区雅涵食品商贸行（个体工商户）"
@@ -284,7 +284,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Technology:CloudStorage:ICloud                       6.00 CNY
+    Expenses:Technology:CloudStorage:Apple:ICloud                 6.00 CNY
     Liabilities:CreditCard:ICBC:8393                             -6.00 CNY
 
 2026-04-19 * "怡家24小时便利店" "怡家24小时便利店1_10021002604192303420732802718106_XJLW126041923034187074934201007"
@@ -310,7 +310,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Services:LocalServices                              30.00 CNY
+    Expenses:Services:Administrative                             30.00 CNY
     Liabilities:CreditCard:ICBC:8393                            -30.00 CNY
 
 2026-04-21 * "零食很忙河南南阳宛城新华商城店" "二维码支付"

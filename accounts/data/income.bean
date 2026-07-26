@@ -10,9 +10,6 @@
   income_type: "family_support"
 
 ; Yield, interest and rebates
-2025-11-20 open Income:Interest:Investment                     CNY
-  income_type: "investment_yield"
-
 2025-11-20 open Income:Interest:Alipay:YuEBao                  CNY
   platform: "Alipay"
   product: "YuEBao"
@@ -20,10 +17,6 @@
 2025-11-20 open Income:Interest:Bank:ICBC:4931                 CNY
   institution: "ICBC"
   last4: "4931"
-
-2025-11-20 open Income:Interest:Bank:ICBC                      CNY
-  institution: "ICBC"
-  note: "Generic ICBC interest bucket; prefer card/account-specific children when material."
 
 2025-11-20 open Income:Rebates:CreditCards                     USD
   income_type: "rebate"

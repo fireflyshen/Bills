@@ -31,7 +31,7 @@
     Liabilities:CreditCard:ICBC:8393                            -29.87 CNY
 
 2026-05-03 * "拼多多" "手机膜"
-    Expenses:Electronics:Accessories                             12.87 CNY
+    Expenses:Electronics:MobileAccessories                       12.87 CNY
     Liabilities:CreditCard:ICBC:8393                            -12.87 CNY
 
 2026-05-03 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
@@ -113,7 +113,7 @@
     Liabilities:CreditCard:ICBC:8393                            -27.67 CNY
 
 2026-05-11 * "咸鱼" "JetBrains AI Pro"
-    Expenses:Technology:AI:JetBrains                             49.00 CNY
+    Expenses:Technology:AI:JetBrains:AIPro                       49.00 CNY
     Assets:Investments:MoneyMarket:Alipay:YuEBao                -49.00 CNY
 
 2026-05-11 * "安徽佑隆建筑劳务有限公司" "订单-1778505249"
@@ -237,7 +237,7 @@
     Liabilities:CreditCard:ICBC:8393                            -30.00 CNY
 
 2026-05-17 * "Google" "Google One Pro"
-    Expenses:Technology:AI:Google                                22.10 USD
+    Expenses:Technology:AI:Google:GoogleOnePro                   22.10 USD
     Liabilities:CreditCard:ICBC:5788                            -22.10 USD
 
 2026-05-14 * "Ma妈～" "转账备注:微信转账"
@@ -261,7 +261,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Technology:CloudStorage:ICloud                       6.00 CNY
+    Expenses:Technology:CloudStorage:Apple:ICloud                 6.00 CNY
     Liabilities:CreditCard:ICBC:8393                             -6.00 CNY
 
 2026-05-18 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
@@ -309,7 +309,7 @@
     method: "零钱"
     status: "对方已收钱"
     order_id: "53010002848074202605231906038613"
-    Expenses:Family:Support:Transfers                            44.92 CNY
+    Expenses:Family:Support                                      44.92 CNY
     Assets:Cash:DigitalWallet:WeChat:Balance                    -44.92 CNY
 
 2026-05-24 * "余额宝" "余额宝-单次转入"
@@ -348,7 +348,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Electronics:Accessories                             13.50 CNY
+    Expenses:Electronics:Batteries                               13.50 CNY
     Liabilities:CreditCard:ICBC:8393                            -13.50 CNY
 
 2026-05-26 * "拼多多平台商户" "电池"
@@ -361,7 +361,7 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Electronics:Accessories                             13.50 CNY
+    Expenses:Electronics:Batteries                               13.50 CNY
     Liabilities:CreditCard:ICBC:8393                            -13.50 CNY
 
 2026-05-28 * "中国移动" "话费自动充值"

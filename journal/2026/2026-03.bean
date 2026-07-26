@@ -147,7 +147,7 @@
     method: "余额宝"
     status: "交易成功"
     order_id: "20260310200040011100650063240244"
-    Expenses:Transport:Local                                   2600.00 CNY
+    Expenses:Transport:Vehicle:Purchase                        2600.00 CNY
     Assets:Investments:MoneyMarket:Alipay:YuEBao              -2600.00 CNY
 
 2026-03-10 * "怡家24小时便利店" "怡家24小时便利店1_10021002603102346070492802719058_XJLW126031023453710474934209223"
@@ -216,7 +216,7 @@
     Liabilities:CreditCard:ICBC:8393                            -30.00 CNY
 
 2026-03-14 * "Google" "Google One pro"
-    Expenses:Technology:AI:Google                                22.10 USD
+    Expenses:Technology:AI:Google:GoogleOnePro                   22.10 USD
     Liabilities:CreditCard:ICBC:5788                            -22.10 USD
 
 2026-03-14 * "淘宝闪购" "偶遇饭先森.干锅焖饭(万悦城店)外卖订单"
@@ -302,7 +302,7 @@
     method: "工商银行信用卡(8393)"
     status: "等待确认收货"
     order_id: "2026031622001192651425897911"
-    Expenses:Household:Supplies                                  34.80 CNY
+    Expenses:Personal:Wellness:SleepAids                         34.80 CNY
     Liabilities:CreditCard:ICBC:8393                            -34.80 CNY
 
 2026-03-17 * "淘宝闪购" "偶遇饭先森.干锅焖饭(万悦城店)外卖订单"
@@ -341,7 +341,7 @@
     method: "工商银行信用卡(8393)"
     status: "交易成功"
     order_id: "2026031923001492651442450461"
-    Expenses:Technology:CloudStorage:ICloud                       6.00 CNY
+    Expenses:Technology:CloudStorage:Apple:ICloud                 6.00 CNY
     Liabilities:CreditCard:ICBC:8393                             -6.00 CNY
 
 2026-03-19 * "中国移动" "话费自动充值"
@@ -367,7 +367,7 @@
     method: "工商银行信用卡(8393)&红包&到店支付立减券"
     status: "交易成功"
     order_id: "2026032022001492651446536124"
-    Expenses:Services:LocalServices                              24.08 CNY
+    Expenses:Services:Administrative                             24.08 CNY
     Liabilities:CreditCard:ICBC:8393                            -24.08 CNY
 
 2026-03-22 * "成都零食有鸣商业管理有限公司" "河南省南阳市宛城区建设中路店"
@@ -528,7 +528,7 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4500000148202603289325351209"
-    Expenses:Transport:Local                                      2.50 CNY
+    Expenses:Transport:Micromobility                              2.50 CNY
     Liabilities:CreditCard:ICBC:8393                             -2.50 CNY
 
 2026-03-28 * "手机充值-中国移动" "50元手机话费-17633644010"
@@ -576,7 +576,7 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4500000115202603295174931062"
-    Expenses:Transport:Local                                      2.50 CNY
+    Expenses:Transport:Micromobility                              2.50 CNY
     Liabilities:CreditCard:ICBC:8393                             -2.50 CNY
 
 2026-03-30 * "Ma妈～" "转账备注:微信转账"
@@ -610,27 +610,27 @@
     status: "支付成功"
     order_id: "4200003129202603301465457956"
     Liabilities:CreditCard:ICBC:8393                            200.00 CNY
-    Expenses:Financial:Fees                                       0.20 CNY
+    Expenses:Financial:BankFees                                   0.20 CNY
     Assets:Cash:DigitalWallet:WeChat:Balance                   -200.20 CNY
 
 2026-03-30 * "拼多多" "维生素D"
-    Expenses:Health:Supplements                                  59.85 CNY
+    Expenses:Health:Supplements:VitaminsAndMinerals              59.85 CNY
     Liabilities:CreditCard:ICBC:8393                            -59.85 CNY
 
 2026-03-30 * "拼多多" "维生素B"
-    Expenses:Health:Supplements                                  17.79 CNY
+    Expenses:Health:Supplements:VitaminsAndMinerals              17.79 CNY
     Liabilities:CreditCard:ICBC:8393                            -17.79 CNY
 
 2026-03-30 * "拼多多" "维生素C"
-    Expenses:Health:Supplements                                  12.81 CNY
+    Expenses:Health:Supplements:VitaminsAndMinerals              12.81 CNY
     Liabilities:CreditCard:ICBC:8393                            -12.81 CNY
 
 2026-03-30 * "拼多多" "鱼油"
-    Expenses:Health:Supplements                                  79.01 CNY
+    Expenses:Health:Supplements:VitaminsAndMinerals              79.01 CNY
     Liabilities:CreditCard:ICBC:8393                            -79.01 CNY
 
 2026-03-30 * "拼多多" "辅酶Q10"
-    Expenses:Health:Supplements                                  68.62 CNY
+    Expenses:Health:Supplements:VitaminsAndMinerals              68.62 CNY
     Liabilities:CreditCard:ICBC:8393                            -68.62 CNY
 
 2026-03-31 * "零食很忙" "南阳市卧龙区雅涵食品商贸行（个体工商户）"
