@@ -520,8 +520,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "支付成功"
-    Expenses:Food:Groceries                              85.00 CNY
-    Liabilities:CreditCard:ICBC:8393                    -85.00 CNY
+    Expenses:Food:Groceries                                      85.00 CNY
+    Liabilities:CreditCard:ICBC:8393                            -85.00 CNY
 
 
 2026-07-26 * "Ma妈～ (辰星＆心语)" "转账备注:微信转账"
@@ -532,8 +532,8 @@
     method: "/"
     status: "已存入零钱"
     order_id: "1000050001202607260131834712803"
-    Assets:Cash:DigitalWallet:WeChat:Balance              5.00 CNY
-    Income:Family:Support                                -5.00 CNY
+    Assets:Cash:DigitalWallet:WeChat:Balance                      5.00 CNY
+    Income:Family:Support                                        -5.00 CNY
 
 
 2026-07-26 * "零食有鸣" "河南省南阳市宛城区建设中路店零售商品"
@@ -544,8 +544,8 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003147202607266004619073"
-    Expenses:Food:Snacks                                 12.30 CNY
-    Liabilities:CreditCard:ICBC:8393                    -12.30 CNY
+    Expenses:Food:Snacks                                         12.30 CNY
+    Liabilities:CreditCard:ICBC:8393                            -12.30 CNY
 
 
 2026-07-27 * "工商银行(4931)" "/"
@@ -556,8 +556,9 @@
     method: "工商银行储蓄卡(4931)"
     status: "提现已到账"
     order_id: "207260727189902122033633433525"
-    Assets:Cash:DigitalWallet:WeChat:Balance            -13.00 CNY
-    Assets:Bank:ICBC:Checking:4931                       13.00 CNY
+    Assets:Cash:DigitalWallet:WeChat:Balance                    -13.01 CNY
+    Assets:Bank:ICBC:Checking:4931                               13.00 CNY
+    Expenses:Financial:BankFees                                   0.01 CNY
 
 
 2026-07-27 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
@@ -568,8 +569,8 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003109202607271959838800"
-    Expenses:Food:Snacks                                 13.40 CNY
-    Liabilities:CreditCard:ICBC:8393                    -13.40 CNY
+    Expenses:Food:Snacks                                         13.40 CNY
+    Liabilities:CreditCard:ICBC:8393                            -13.40 CNY
 
 
 2026-07-30 * "南阳市卧龙区雨飞美容美发店（个体工商户）" "南阳市卧龙区雨飞美容美发店（个体工商户）"
@@ -580,8 +581,8 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4500000250202607306426868948"
-    Expenses:Personal:Care:Haircut                       30.00 CNY
-    Liabilities:CreditCard:ICBC:8393                    -30.00 CNY
+    Expenses:Personal:Care:Haircut                               30.00 CNY
+    Liabilities:CreditCard:ICBC:8393                            -30.00 CNY
 
 
 2026-07-30 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
@@ -592,5 +593,5 @@
     method: "工商银行信用卡(8393)"
     status: "支付成功"
     order_id: "4200003110202607308597684188"
-    Expenses:Food:Snacks                                 18.50 CNY
-    Liabilities:CreditCard:ICBC:8393                    -18.50 CNY
+    Expenses:Food:Snacks                                         18.50 CNY
+    Liabilities:CreditCard:ICBC:8393                            -18.50 CNY
