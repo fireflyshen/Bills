@@ -1,6 +1,6 @@
 2026-08-01 * "Google" "Google Cloud"
-    Expenses:Technology:CloudInfrastructure:GoogleCloud  0.17 USD
-    Liabilities:CreditCard:ICBC:5788                    -0.17 USD
+    Expenses:Technology:CloudInfrastructure:GoogleCloud           0.17 USD
+    Liabilities:CreditCard:ICBC:5788                             -0.17 USD
 
 
 2026-08-02 * "中国移动" "话费自动充值"
@@ -13,8 +13,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Communication:Mobile:Domestic               30.00 CNY
-    Liabilities:CreditCard:ICBC:8393                    -30.00 CNY
+    Expenses:Communication:Mobile:Domestic                       30.00 CNY
+    Liabilities:CreditCard:ICBC:8393                            -30.00 CNY
 
 
 2026-08-02 * "松果出行" "松果出行订单"
@@ -27,8 +27,8 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Transport:Micromobility                      2.50 CNY
-    Liabilities:CreditCard:ICBC:8393                     -2.50 CNY
+    Expenses:Transport:Micromobility                              2.50 CNY
+    Liabilities:CreditCard:ICBC:8393                             -2.50 CNY
 
 
 2026-08-02 * "秀玲" "收到普通红包"
@@ -41,8 +41,8 @@
     type: "收入"
     method: "账户余额"
     status: "交易成功"
-    Assets:Cash:DigitalWallet:Alipay:Balance             70.00 CNY
-    Income:Family:Support                               -70.00 CNY
+    Assets:Cash:DigitalWallet:Alipay:Balance                     70.00 CNY
+    Income:Family:Support                                       -70.00 CNY
 
 
 2026-08-02 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
@@ -55,15 +55,21 @@
     type: "支出"
     method: "工商银行信用卡(8393)"
     status: "交易成功"
-    Expenses:Food:Snacks                                 12.45 CNY
-    Liabilities:CreditCard:ICBC:8393                    -12.45 CNY
+    Expenses:Food:Snacks                                         12.45 CNY
+    Liabilities:CreditCard:ICBC:8393                            -12.45 CNY
 
 
 2026-08-02 * "Apple" "Apple Gift Card"
-    Assets:StoredValue:Apple:AppleID                     21.00 USD
-    Liabilities:CreditCard:ICBC:5788                    -21.00 USD
+    Assets:StoredValue:Apple:AppleID                             21.00 USD
+    Liabilities:CreditCard:ICBC:5788                            -21.00 USD
+
+
+2026-08-03 * "支付宝" "购买耳机支架"
+    method: "账户余额"
+    Expenses:Electronics:Accessories                              9.90 CNY
+    Assets:Cash:DigitalWallet:Alipay:Balance                     -9.90 CNY
 
 
 2026-08-05 ! "OpenAI" "ChatGPT CodeX" #planned
-    Expenses:Technology:AI:OpenAI:Codex                  21.34 USD
-    Assets:StoredValue:Apple:AppleID                    -21.34 USD
+    Expenses:Technology:AI:OpenAI:Codex                          21.34 USD
+    Assets:StoredValue:Apple:AppleID                            -21.34 USD
