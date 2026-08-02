@@ -64,6 +64,6 @@
     Liabilities:CreditCard:ICBC:5788                    -21.00 USD
 
 
-2026-07-05 ! "OpenAI" "ChatGPT CodeX"
+2026-07-05 ! "OpenAI" "ChatGPT CodeX" #planned
     Expenses:Technology:AI:OpenAI:Codex                  21.34 USD
     Assets:StoredValue:Apple:AppleID                    -21.34 USD
