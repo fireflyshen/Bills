@@ -482,7 +482,7 @@
 
 2026-07-24 * "京东" "美的空调（表姐代购，补贴）"
     Assets:Clearing:FamilyPurchases                            2039.15 CNY
-    Assets:Cash:DigitalWallet:WeChat:Balance                  -2039.15 CNY
+    Liabilities:CreditCard:ICBC:8393                          -2039.15 CNY
 
 
 2026-07-24 * "姐 (徐爱平13720596344)" "表姐空调代购款（补贴）"
