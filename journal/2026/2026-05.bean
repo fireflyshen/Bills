@@ -286,7 +286,7 @@
     Expenses:Food:Snacks                                         11.00 CNY
     Assets:Cash:DigitalWallet:WeChat:Balance                    -11.00 CNY
 
-2026-05-22 * "妈" "物业费"
+2026-05-22 * "妈" "补缴历史物业费（两年）" ^property-arrears-2022-2025
     Liabilities:AccruedExpenses:Family:PropertyManagement      3000.00 CNY
     Assets:Bank:CNCB:Checking:4668                            -3000.00 CNY
 
