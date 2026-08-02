@@ -1,3 +1,8 @@
+2026-08-01 * "Google" "Google Cloud"
+    Expenses:Technology:CloudInfrastructure:GoogleCloud  0.17 USD
+    Liabilities:CreditCard:ICBC:5788                    -0.17 USD
+
+
 2026-08-02 * "中国移动" "话费自动充值"
     source: "ALiPay"
     pay_time: "2026-08-02 00:58:13"
