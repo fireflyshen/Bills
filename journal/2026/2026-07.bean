@@ -510,6 +510,21 @@
     Assets:Cash:DigitalWallet:WeChat:Balance                     -2.50 CNY
 
 
+2026-07-27 * "公司" "工资收入"
+    Assets:Bank:CNCB:Checking:4668                             3700.00 CNY
+    Income:Employment:Salary                                  -3700.00 CNY
+
+
+2026-07-27 * "妈妈" "年度保险费（3350元保单）"
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     3350.00 CNY
+    Assets:Bank:CNCB:Checking:4668                            -3350.00 CNY
+
+
+2026-07-27 * "中信银行" "社保卡开卡费"
+    Expenses:Services:Administrative                             12.00 CNY
+    Assets:Bank:CNCB:Checking:4668                              -12.00 CNY
+
+
 2026-07-27 * "bi**店" "Bincoo咖啡冷萃壶家用夏季冷泡杯冰美式咖啡冷泡摇摇瓶过滤萃取壶"
     source: "ALiPay"
     pay_time: "2026-07-27 21:48:43"

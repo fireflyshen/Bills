@@ -1,0 +1,51 @@
+; 6000 CNY annual policy for Mom.
+; Twelve monthly accruals of 500.00 CNY.
+
+2026-01-01 * "保险计提" "妈妈年度保险费（6000元保单）- 2026-01"
+    Expenses:Family:Insurance:Mom:Policy6000                    500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  -500.00 CNY
+
+2026-02-01 * "保险计提" "妈妈年度保险费（6000元保单）- 2026-02"
+    Expenses:Family:Insurance:Mom:Policy6000                    500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  -500.00 CNY
+
+2026-03-01 * "保险计提" "妈妈年度保险费（6000元保单）- 2026-03"
+    Expenses:Family:Insurance:Mom:Policy6000                    500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  -500.00 CNY
+
+2026-04-01 * "保险计提" "妈妈年度保险费（6000元保单）- 2026-04"
+    Expenses:Family:Insurance:Mom:Policy6000                    500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  -500.00 CNY
+
+2026-05-01 * "保险计提" "妈妈年度保险费（6000元保单）- 2026-05"
+    Expenses:Family:Insurance:Mom:Policy6000                    500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  -500.00 CNY
+
+2026-06-01 * "保险计提" "妈妈年度保险费（6000元保单）- 2026-06"
+    Expenses:Family:Insurance:Mom:Policy6000                    500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  -500.00 CNY
+
+2026-07-01 * "保险计提" "妈妈年度保险费（6000元保单）- 2026-07"
+    Expenses:Family:Insurance:Mom:Policy6000                    500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  -500.00 CNY
+
+2026-08-01 * "保险计提" "妈妈年度保险费（6000元保单）- 2026-08"
+    Expenses:Family:Insurance:Mom:Policy6000                    500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  -500.00 CNY
+
+2026-09-01 * "保险计提" "妈妈年度保险费（6000元保单）- 2026-09"
+    Expenses:Family:Insurance:Mom:Policy6000                    500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  -500.00 CNY
+
+2026-10-01 * "保险计提" "妈妈年度保险费（6000元保单）- 2026-10"
+    Expenses:Family:Insurance:Mom:Policy6000                    500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  -500.00 CNY
+
+2026-11-01 * "保险计提" "妈妈年度保险费（6000元保单）- 2026-11"
+    Expenses:Family:Insurance:Mom:Policy6000                    500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  -500.00 CNY
+
+2026-12-01 * "保险计提" "妈妈年度保险费（6000元保单）- 2026-12"
+    Expenses:Family:Insurance:Mom:Policy6000                    500.00 CNY
+    Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  -500.00 CNY
+

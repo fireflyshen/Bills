@@ -1,0 +1,50 @@
+; 3350 CNY annual policy for Mom, coverage 2026-07-27 through 2027-07-26.
+; Eleven installments of 279.17 CNY and a final installment of 279.13 CNY.
+
+2026-07-27 * "保险摊销" "妈妈年度保险费（3350元保单）- 2026-07"
+    Expenses:Family:Insurance:Mom:Policy3350                    279.17 CNY
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     -279.17 CNY
+
+2026-08-27 * "保险摊销" "妈妈年度保险费（3350元保单）- 2026-08"
+    Expenses:Family:Insurance:Mom:Policy3350                    279.17 CNY
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     -279.17 CNY
+
+2026-09-27 * "保险摊销" "妈妈年度保险费（3350元保单）- 2026-09"
+    Expenses:Family:Insurance:Mom:Policy3350                    279.17 CNY
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     -279.17 CNY
+
+2026-10-27 * "保险摊销" "妈妈年度保险费（3350元保单）- 2026-10"
+    Expenses:Family:Insurance:Mom:Policy3350                    279.17 CNY
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     -279.17 CNY
+
+2026-11-27 * "保险摊销" "妈妈年度保险费（3350元保单）- 2026-11"
+    Expenses:Family:Insurance:Mom:Policy3350                    279.17 CNY
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     -279.17 CNY
+
+2026-12-27 * "保险摊销" "妈妈年度保险费（3350元保单）- 2026-12"
+    Expenses:Family:Insurance:Mom:Policy3350                    279.17 CNY
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     -279.17 CNY
+
+2027-01-27 * "保险摊销" "妈妈年度保险费（3350元保单）- 2027-01"
+    Expenses:Family:Insurance:Mom:Policy3350                    279.17 CNY
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     -279.17 CNY
+
+2027-02-27 * "保险摊销" "妈妈年度保险费（3350元保单）- 2027-02"
+    Expenses:Family:Insurance:Mom:Policy3350                    279.17 CNY
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     -279.17 CNY
+
+2027-03-27 * "保险摊销" "妈妈年度保险费（3350元保单）- 2027-03"
+    Expenses:Family:Insurance:Mom:Policy3350                    279.17 CNY
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     -279.17 CNY
+
+2027-04-27 * "保险摊销" "妈妈年度保险费（3350元保单）- 2027-04"
+    Expenses:Family:Insurance:Mom:Policy3350                    279.17 CNY
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     -279.17 CNY
+
+2027-05-27 * "保险摊销" "妈妈年度保险费（3350元保单）- 2027-05"
+    Expenses:Family:Insurance:Mom:Policy3350                    279.17 CNY
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     -279.17 CNY
+
+2027-06-27 * "保险摊销" "妈妈年度保险费（3350元保单）- 2027-06"
+    Expenses:Family:Insurance:Mom:Policy3350                    279.13 CNY
+    Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350     -279.13 CNY

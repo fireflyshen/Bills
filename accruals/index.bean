@@ -1,1 +1,3 @@
-include "2026.bean"
+include "property-management.bean"
+include "mom-insurance-6000.bean"
+include "mom-insurance-3350.bean"

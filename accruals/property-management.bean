@@ -1,0 +1,54 @@
+; Property-management accruals are kept separate from insurance schedules.
+
+2026-01-01 * "期初录入" "补录历史所欠的四年物业费 (2022-2025)"
+    Liabilities:AccruedExpenses:Family:PropertyManagement     -6000.00 CNY
+    Equity:Opening-Balances                                    6000.00 CNY
+
+2026-01-01 * "物业费计提" "2026-01 月度物业费"
+    Expenses:Family:Housing:PropertyManagement                  125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement      -125.00 CNY
+
+2026-02-01 * "物业费计提" "2026-02 月度物业费"
+    Expenses:Family:Housing:PropertyManagement                  125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement      -125.00 CNY
+
+2026-03-01 * "物业费计提" "2026-03 月度物业费"
+    Expenses:Family:Housing:PropertyManagement                  125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement      -125.00 CNY
+
+2026-04-01 * "物业费计提" "2026-04 月度物业费"
+    Expenses:Family:Housing:PropertyManagement                  125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement      -125.00 CNY
+
+2026-05-01 * "物业费计提" "2026-05 月度物业费"
+    Expenses:Family:Housing:PropertyManagement                  125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement      -125.00 CNY
+
+2026-06-01 * "物业费计提" "2026-06 月度物业费"
+    Expenses:Family:Housing:PropertyManagement                  125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement      -125.00 CNY
+
+2026-07-01 * "物业费计提" "2026-07 月度物业费"
+    Expenses:Family:Housing:PropertyManagement                  125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement      -125.00 CNY
+
+2026-08-01 * "物业费计提" "2026-08 月度物业费"
+    Expenses:Family:Housing:PropertyManagement                  125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement      -125.00 CNY
+
+2026-09-01 * "物业费计提" "2026-09 月度物业费"
+    Expenses:Family:Housing:PropertyManagement                  125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement      -125.00 CNY
+
+2026-10-01 * "物业费计提" "2026-10 月度物业费"
+    Expenses:Family:Housing:PropertyManagement                  125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement      -125.00 CNY
+
+2026-11-01 * "物业费计提" "2026-11 月度物业费"
+    Expenses:Family:Housing:PropertyManagement                  125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement      -125.00 CNY
+
+2026-12-01 * "物业费计提" "2026-12 月度物业费"
+    Expenses:Family:Housing:PropertyManagement                  125.00 CNY
+    Liabilities:AccruedExpenses:Family:PropertyManagement      -125.00 CNY
+

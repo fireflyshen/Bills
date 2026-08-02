@@ -45,6 +45,12 @@
   institution: "CMB"
   product: "ZhaoZhaoBao"
 
+; Prepaid family insurance premiums amortized over their coverage periods.
+2026-07-27 open Assets:PrepaidExpenses:Family:Insurance:Mom:Policy3350  CNY  ; 母亲3350元年度保险预付费用
+  coverage_start: "2026-07-27"
+  coverage_end: "2027-07-26"
+  premium: "3350.00 CNY"
+
 ; Receivables
 2026-01-03 open Assets:Receivables:Personal:SongJie             CNY  ; 宋杰个人应收款
   counterparty: "SongJie"
