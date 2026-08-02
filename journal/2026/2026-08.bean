@@ -37,7 +37,7 @@
     method: "账户余额"
     status: "交易成功"
     Assets:Cash:DigitalWallet:Alipay:Balance             70.00 CNY
-    Income:FIXME                                        -70.00 CNY
+    Income:Family:Support                               -70.00 CNY
 
 
 2026-08-02 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
@@ -52,5 +52,3 @@
     status: "交易成功"
     Expenses:Food:Snacks                                 12.45 CNY
     Liabilities:CreditCard:ICBC:8393                    -12.45 CNY
-
-

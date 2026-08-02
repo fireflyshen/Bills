@@ -508,6 +508,8 @@
     order_id: "4200003184202607259601806491"
     Expenses:Transport:Micromobility                              2.50 CNY
     Assets:Cash:DigitalWallet:WeChat:Balance                     -2.50 CNY
+
+
 2026-07-27 * "bi**店" "Bincoo咖啡冷萃壶家用夏季冷泡杯冰美式咖啡冷泡摇摇瓶过滤萃取壶"
     source: "ALiPay"
     pay_time: "2026-07-27 21:48:43"
@@ -554,8 +556,8 @@
     method: "工商银行储蓄卡(4931)"
     status: "提现已到账"
     order_id: "207260727189902122033633433525"
-    Expenses:FIXME                                       13.01 CNY
-    Assets:FIXME                                        -13.01 CNY
+    Assets:Cash:DigitalWallet:WeChat:Balance             13.01 CNY
+    Assets:Bank:ICBC:Checking:4931                      -13.01 CNY
 
 
 2026-07-27 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
@@ -592,5 +594,3 @@
     order_id: "4200003110202607308597684188"
     Expenses:Food:Snacks                                 18.50 CNY
     Liabilities:CreditCard:ICBC:8393                    -18.50 CNY
-
-
