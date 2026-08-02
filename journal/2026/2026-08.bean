@@ -1,0 +1,56 @@
+2026-08-02 * "中国移动" "话费自动充值"
+    source: "ALiPay"
+    pay_time: "2026-08-02 00:58:13"
+    deal_no: "2026080223001492651454793024"
+    order_id: "2026080223001492651454793024"
+    merchant_id: "00952026080200581294897136099704"
+    category: "充值缴费"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Communication:Mobile:Domestic               30.00 CNY
+    Liabilities:CreditCard:ICBC:8393                    -30.00 CNY
+
+
+2026-08-02 * "松果出行" "松果出行订单"
+    source: "ALiPay"
+    pay_time: "2026-08-02 19:15:36"
+    deal_no: "2026080223001492651458939420"
+    order_id: "2026080223001492651458939420"
+    merchant_id: "OP2026080219153614287899218"
+    category: "交通出行"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Transport:Micromobility                      2.50 CNY
+    Liabilities:CreditCard:ICBC:8393                     -2.50 CNY
+
+
+2026-08-02 * "秀玲" "收到普通红包"
+    source: "ALiPay"
+    pay_time: "2026-08-02 18:57:15"
+    deal_no: "20260802200040011100630029143451"
+    order_id: "20260802200040011100630029143451"
+    merchant_id: "2026080202063022141743436300178404480001F"
+    category: "转账红包"
+    type: "收入"
+    method: "账户余额"
+    status: "交易成功"
+    Assets:Cash:DigitalWallet:Alipay:Balance             70.00 CNY
+    Income:FIXME                                        -70.00 CNY
+
+
+2026-08-02 * "零食很忙" "南阳市卧龙区雅涵食品商贸行(个体工商户)"
+    source: "ALiPay"
+    pay_time: "2026-08-02 19:07:11"
+    deal_no: "2026080223001492651458945005"
+    order_id: "2026080223001492651458945005"
+    merchant_id: "15106600004857000220260802MM94lblg"
+    category: "餐饮美食"
+    type: "支出"
+    method: "工商银行信用卡(8393)"
+    status: "交易成功"
+    Expenses:Food:Snacks                                 12.45 CNY
+    Liabilities:CreditCard:ICBC:8393                    -12.45 CNY
+
+
