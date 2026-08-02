@@ -57,3 +57,13 @@
     status: "交易成功"
     Expenses:Food:Snacks                                 12.45 CNY
     Liabilities:CreditCard:ICBC:8393                    -12.45 CNY
+
+
+2026-08-02 * "Apple" "Apple Gift Card"
+    Assets:StoredValue:Apple:AppleID                     21.00 USD
+    Liabilities:CreditCard:ICBC:5788                    -21.00 USD
+
+
+2026-07-05 ! "OpenAI" "ChatGPT CodeX"
+    Expenses:Technology:AI:OpenAI:Codex                  21.34 USD
+    Assets:StoredValue:Apple:AppleID                    -21.34 USD
