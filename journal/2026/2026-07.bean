@@ -556,8 +556,8 @@
     method: "工商银行储蓄卡(4931)"
     status: "提现已到账"
     order_id: "207260727189902122033633433525"
-    Assets:Cash:DigitalWallet:WeChat:Balance             13.01 CNY
-    Assets:Bank:ICBC:Checking:4931                      -13.01 CNY
+    Assets:Cash:DigitalWallet:WeChat:Balance            -13.00 CNY
+    Assets:Bank:ICBC:Checking:4931                       13.00 CNY
 
 
 2026-07-27 * "零食很忙" "南阳市宛城区栗尧食品销售店(个体工商户)"
