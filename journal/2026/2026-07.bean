@@ -508,17 +508,3 @@
     order_id: "4200003184202607259601806491"
     Expenses:Transport:Micromobility                              2.50 CNY
     Assets:Cash:DigitalWallet:WeChat:Balance                     -2.50 CNY
-2026-07-27 * "bi**店" "Bincoo咖啡冷萃壶家用夏季冷泡杯冰美式咖啡冷泡摇摇瓶过滤萃取壶"
-    source: "ALiPay"
-    pay_time: "2026-07-27 21:48:43"
-    deal_no: "20260727300000018892651245197159"
-    order_id: "20260727300000018892651245197159"
-    merchant_id: "T200P5124886166208005729"
-    category: "日用百货"
-    type: "支出"
-    method: "工商银行信用卡(8393)"
-    status: "支付成功"
-    Expenses:Food:Groceries                              85.00 CNY
-    Liabilities:CreditCard:ICBC:8393                    -85.00 CNY
-
-
