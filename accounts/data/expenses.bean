@@ -61,6 +61,5 @@
 ; Family obligations and pass-through support
 2026-05-22 open Expenses:Family:Support                                    ; 家庭成员生活支持
 2026-01-01 open Expenses:Family:Housing:PropertyManagement                 ; 家庭住房物业费
-2026-01-01 open Expenses:Family:Insurance:Mom:Policy6000                   ; 母亲6000元年度保险摊销
 2026-07-01 open Expenses:Family:Insurance:Mom:Policy3350                   ; 母亲3350元年度保险摊销
 2026-05-30 open Expenses:Family:Utilities:Electricity                      ; 家庭用电费用

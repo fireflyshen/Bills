@@ -28,9 +28,5 @@
   domain: "family"
   recognition: "monthly_accrual"
 
-2026-01-01 open Liabilities:AccruedExpenses:Family:Insurance:Mom:Policy6000  CNY  ; 母亲6000元年度保险预提应付款
-  domain: "family"
-  recognition: "monthly_accrual"
-
 ; Closed accounts
 2026-02-01 close Liabilities:ConsumerCredit:Huabei
