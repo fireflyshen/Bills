@@ -73,3 +73,45 @@
 2026-08-05 ! "OpenAI" "ChatGPT CodeX" #planned
     Expenses:Technology:AI:OpenAI:Codex                          21.34 USD
     Assets:StoredValue:Apple:AppleID                            -21.34 USD
+2026-08-03 * "余额宝" "余额宝-自动转入"
+    source: "ALiPay"
+    pay_time: "2026-08-03 00:44:44"
+    deal_no: "20260803019130101000650083152069"
+    order_id: "20260803019130101000650083152069"
+    merchant_id: "20260803009130501000650001190083"
+    category: "投资理财"
+    type: "不计收支"
+    method: "账户余额"
+    status: "交易成功"
+    Assets:Investments:MoneyMarket:Alipay:YuEBao         60.10 CNY
+    Assets:Cash:DigitalWallet:Alipay:Balance            -60.10 CNY
+
+
+2026-08-05 * "品胜**店" "【品胜官方】随身wifi2026新款无线网络随身wifi无限速流量全国通用移动无线wifi智能随身携带无线网卡wi-"
+    source: "ALiPay"
+    pay_time: "2026-08-05 12:39:23"
+    deal_no: "2026080523001192651415855724"
+    order_id: "2026080523001192651415855724"
+    merchant_id: "T200P5127589512592005729"
+    category: "数码电器"
+    type: "支出"
+    method: "工商银行信用卡(8393)&焕新折扣"
+    status: "等待确认收货"
+    Expenses:FIXME                                       77.83 CNY
+    Liabilities:CreditCard:ICBC:8393                    -77.83 CNY
+
+
+2026-08-06 * "国网河南省电力公司（南阳）" "电费自动缴费-我家-根据每期出账后自动缴费"
+    source: "ALiPay"
+    pay_time: "2026-08-06 03:10:19"
+    deal_no: "2026080623001492651417434988"
+    order_id: "2026080623001492651417434988"
+    merchant_id: "4105268125058"
+    category: "充值缴费"
+    type: "支出"
+    method: "工商银行信用卡(8393)&现金抵价券"
+    status: "交易成功"
+    Expenses:Family:Utilities:Electricity                48.00 CNY
+    Liabilities:CreditCard:ICBC:8393                    -48.00 CNY
+
+
