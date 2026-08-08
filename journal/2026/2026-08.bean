@@ -115,3 +115,15 @@
     Liabilities:CreditCard:ICBC:8393                    -48.00 CNY
 
 
+2026-08-06 * "南京陌鲁格信息科技有限公司" "流量套餐"
+    source: "WeChat"
+    pay_time: "2026-08-06"
+    merchant_id: "8002622293526218"
+    tx_type: "商户消费"
+    method: "工商银行信用卡(8393)"
+    status: "支付成功"
+    order_id: "4500000366202608061085560099"
+    Expenses:FIXME                                       12.90 CNY
+    Liabilities:CreditCard:ICBC:8393                    -12.90 CNY
+
+
